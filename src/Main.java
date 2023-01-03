@@ -2,6 +2,7 @@ import Models.*;
 import Services.*;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,23 +10,29 @@ public class Main {
             CSVService csvService = new CSVService("C:\\Users\\anilk\\Desktop\\istanbul.csv");
 
             ArrayList<Hotel> hotelList = csvService.ReadAllValues();
-            int i = 0;
-            for (Hotel h : hotelList) {
-                System.out.println("##### OTEL " + i + " #####");
-                System.out.println(h.toString());
-                i++;
-            }
+//            for (Hotel h : hotelList) {
+//                System.out.println("##### OTEL " + h.id + " #####");
+//                System.out.println(h.toString());
+//            }
 
-            ArrayList<HotelReview> reviews = RecommendationService.getPreviousHotelsFromUser(hotelList);
+            ArrayList<HotelReview> reviews = RecommendationService.getReviewsFromUser(hotelList);
             for (HotelReview review : reviews) {
                 System.out.println(review.toString());
             }
 
+            User user = new User(reviews);
             RecommendationService recommendationService = new RecommendationService(
-                    new User("Sanaldeli", reviews),
-                    hotelList);
+                    user, hotelList);
 
             ArrayList<HotelRecommendation> suggestions = recommendationService.recommendHotels();
+
+            ArrayList<HotelReview> newHotelReviews = RecommendationService.getReviewsFromUser(hotelList);
+
+            reviews.addAll(newHotelReviews);
+
+            user.setHotelReviews(reviews);
+
+            suggestions = recommendationService.recommendHotels();
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -6,8 +6,6 @@ import Models.HotelRecommendation;
 import Models.User;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
 
 public class RecommendationService {
@@ -20,14 +18,15 @@ public class RecommendationService {
     }
 
     public ArrayList<HotelRecommendation> calculate() {
-        float[] normalizedFactors = normalizeFactors(this.user.getFactors());
-        ArrayList<HotelReview> usersScore = this.user.getPreviousHotels();
+        ArrayList<HotelReview> usersScore = this.user.getHotelReviews();
 
         this.user.calculateFactors();
+        float[] normalizedFactors = normalizeFactors(this.user.getFactors());
 
         ArrayList<HotelRecommendation> response = new ArrayList<>();
-        for (Hotel hotel : hotels) {
+        for (Hotel hotel : this.hotels) {
             boolean skipFlag = false;
+
             for (HotelReview usersReviewedHotels : usersScore) {
                 if (hotel.equals(usersReviewedHotels.getHotel())) {
                     skipFlag = true;
@@ -88,31 +87,42 @@ public class RecommendationService {
         return result;
     }
 
-    public static ArrayList<HotelReview> getPreviousHotelsFromUser(ArrayList<Hotel> hotelList) {
-        ArrayList<HotelReview> reviews = new ArrayList<>();
+    public static HotelReview getOneReviewFromUser(ArrayList<Hotel> hotelList) {
         Scanner scanner = new Scanner(System.in);
-        boolean flag = true;
-        do {
 
-            System.out.println("Hangi otelde kaldınız?");
-            System.out.println("(ID'sini yazınız. Geçerli bir ID girilmezse işlem sonlanacaktır.)");
-            System.out.print("> ");
-            int menu = scanner.nextInt();
+        System.out.println("Hangi otelde kaldınız?");
+        System.out.println("(ID'sini yazınız. Geçerli bir ID girilmezse işlem sonlanacaktır.)");
+        System.out.print("> ");
+        int hotelId = scanner.nextInt();
 
-            float score;
-            if (menu >= 0 && menu < hotelList.size()) {
-                Hotel selectedHotel = hotelList.get(menu);
-                System.out.println(selectedHotel.name + " isimli otel için puanınız: ");
-                score = scanner.nextFloat();
+        if (hotelId < 0 || hotelId >= hotelList.size())
+            return null;
 
-                reviews.add(new HotelReview(selectedHotel, score));
-            } else {
-                flag = false;
-            }
+        System.out.println(hotelId);
+        Hotel selectedHotel = hotelList.get(hotelId);
 
-        } while (flag);
+        System.out.println(selectedHotel.name + " isimli otel için puanınız: ");
+        float score = scanner.nextFloat();
+        System.out.println(score);
 
-        scanner.close();
+        // !!! this causes an error - WTF 🤯🤯🤯
+        // scanner.close();
+
+        return new HotelReview(selectedHotel, score);
+    }
+
+    public static ArrayList<HotelReview> getReviewsFromUser(ArrayList<Hotel> hotelList) {
+        ArrayList<HotelReview> reviews = new ArrayList<>();
+
+        while (true) {
+            HotelReview hotelReview = getOneReviewFromUser(hotelList);
+
+            if (hotelReview == null)
+                break;
+            else
+                reviews.add(hotelReview);
+        }
+
         return reviews;
     }
 

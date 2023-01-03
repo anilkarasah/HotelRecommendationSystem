@@ -3,18 +3,18 @@ package Models;
 import Enums.Facility;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class User {
-    private final String username;
-    private ArrayList<HotelReview> previousHotelReviews;
+    private ArrayList<HotelReview> hotelReviews;
     private float[] factors;
 
-    public User(String username, ArrayList<HotelReview> hotelReviews) {
-        this.username = username;
-        this.previousHotelReviews = hotelReviews;
+    public User(ArrayList<HotelReview> hotelReviews) {
+        this.hotelReviews = hotelReviews;
         this.factors = new float[Facility.List.length];
-        Arrays.fill(this.factors, 0);
+//        Arrays.fill(this.factors, 0);
+        for (int i = 0; i < Facility.List.length; i++) {
+            this.factors[i] = 0;
+        }
     }
 
     public float[] getFactors() {
@@ -25,25 +25,20 @@ public class User {
         this.factors = factors;
     }
 
-    public String getUsername() {
-        return this.username;
+    public ArrayList<HotelReview> getHotelReviews() {
+        return this.hotelReviews;
     }
 
-    public ArrayList<HotelReview> getPreviousHotels() {
-        return this.previousHotelReviews;
-    }
-
-    public void addHotelReview(HotelReview previousHotelReview) {
-        if (previousHotelReview != null)
-            this.previousHotelReviews.add(previousHotelReview);
+    public void setHotelReviews(ArrayList<HotelReview> hotelReviews) {
+        this.hotelReviews = hotelReviews;
     }
 
     public HotelReview removeReview(int index) {
-        return this.previousHotelReviews.remove(index);
+        return this.hotelReviews.remove(index);
     }
 
     public boolean updateReview(int index, float newReview) {
-        HotelReview review = this.previousHotelReviews.get(index);
+        HotelReview review = this.hotelReviews.get(index);
 
         if (review == null) return false;
 
@@ -52,7 +47,7 @@ public class User {
     }
 
     public void calculateFactors() {
-        for (HotelReview review : this.previousHotelReviews) {
+        for (HotelReview review : this.hotelReviews) {
             Hotel hotel = review.getHotel();
             float userScore = review.getScore();
 

@@ -8,7 +8,12 @@ public class HotelReview {
 
     public HotelReview(Hotel hotel, float score) {
         this.hotel = hotel;
-        this.score = Math.min(Math.abs(score), fMaxScore);
+        this.score = scoreConstraint(score);
+    }
+
+    public static float scoreConstraint(float score) {
+        float absScore = score < 0 ? -score : score;
+        return absScore >= fMaxScore ? fMaxScore : absScore;
     }
 
     public Hotel getHotel() {
@@ -24,7 +29,7 @@ public class HotelReview {
     }
 
     public void setScore(float score) {
-        this.score = Math.min(Math.abs(score), fMaxScore);
+        this.score = scoreConstraint(score);
     }
 
     @Override
