@@ -21,7 +21,7 @@ public class CSVService {
 
         int i = 0;
         while ((line = reader.readLine()) != null) {
-            Hotel hotel = Hotel.parseCSV(line, i);
+            Hotel hotel = Hotel.parseCSV(line);
             hotels.add(hotel);
             i++;
         }

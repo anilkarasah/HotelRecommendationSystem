@@ -4,7 +4,7 @@ public class Facility {
     public static final String[] List;
 
     static {
-        List = new String[]{
+        List = new String[] {
                 "KidsAreGuest",
                 "PetsAreAllowed",
                 "HasWifi",

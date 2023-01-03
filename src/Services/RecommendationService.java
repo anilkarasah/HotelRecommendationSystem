@@ -7,6 +7,8 @@ import Models.User;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Scanner;
 
 public class RecommendationService {
     private User user;
@@ -21,12 +23,15 @@ public class RecommendationService {
         float[] normalizedFactors = normalizeFactors(this.user.getFactors());
         ArrayList<HotelReview> usersScore = this.user.getPreviousHotels();
 
+        this.user.calculateFactors();
+
         ArrayList<HotelRecommendation> response = new ArrayList<>();
         for (Hotel hotel : hotels) {
             boolean skipFlag = false;
             for (HotelReview usersReviewedHotels : usersScore) {
                 if (hotel.equals(usersReviewedHotels.getHotel())) {
                     skipFlag = true;
+                    break;
                 }
             }
 
@@ -45,9 +50,8 @@ public class RecommendationService {
 
     // returns a new factors array with values that ranges between -1..1
     public static float[] normalizeFactors(float[] factors) {
-        float min = 100, max = -100;
-
         float[] result = new float[factors.length];
+        float min = 100, max = -100;
 
         for (float factor : factors) {
             if (factor > max) {
@@ -61,28 +65,68 @@ public class RecommendationService {
 
         // normalization formula:
         //  (x - min)
-        // ----------- * 2 - 1
+        // ----------- * 1.25 - 0.25
         // (max - min)
 
         float distance = (float)1.25 / (max - min);
         for (int i = 0; i < factors.length; i++) {
-//            result[i] = (factors[i] - min) / (max - min);
             result[i] = (factors[i] - min) * distance - (float)0.25;
         }
 
         System.out.print("Initial factors: ");
         for (float x : factors) {
-            System.out.print(String.format("%.2f ", x));
+            System.out.printf("%.2f ", x);
         }
         System.out.println();
 
         System.out.print("Normalized factors: ");
         for (float x : result) {
-            System.out.print(String.format("%.2f ", x));
+            System.out.printf("%.2f ", x);
         }
         System.out.println();
 
         return result;
+    }
+
+    public static ArrayList<HotelReview> getPreviousHotelsFromUser(ArrayList<Hotel> hotelList) {
+        ArrayList<HotelReview> reviews = new ArrayList<>();
+        Scanner scanner = new Scanner(System.in);
+        boolean flag = true;
+        do {
+
+            System.out.println("Hangi otelde kaldınız?");
+            System.out.println("(ID'sini yazınız. Geçerli bir ID girilmezse işlem sonlanacaktır.)");
+            System.out.print("> ");
+            int menu = scanner.nextInt();
+
+            float score;
+            if (menu >= 0 && menu < hotelList.size()) {
+                Hotel selectedHotel = hotelList.get(menu);
+                System.out.println(selectedHotel.name + " isimli otel için puanınız: ");
+                score = scanner.nextFloat();
+
+                reviews.add(new HotelReview(selectedHotel, score));
+            } else {
+                flag = false;
+            }
+
+        } while (flag);
+
+        scanner.close();
+        return reviews;
+    }
+
+    public ArrayList<HotelRecommendation> recommendHotels() {
+        ArrayList<HotelRecommendation> suggestions = this.calculate();
+
+        for (HotelRecommendation suggestion : suggestions) {
+            System.out.printf("%3d > %50s - %.2f%n",
+                    suggestion.getHotel().id,
+                    suggestion.getHotel().name,
+                    suggestion.getCalculatedScore());
+        }
+
+        return suggestions;
     }
 
     public User getUser() {

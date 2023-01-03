@@ -18,7 +18,7 @@ public class HotelRecommendation {
     }
 
     public float getCalculatedScore() {
-        return calculatedScore;
+        return this.calculatedScore;
     }
 
     public void setCalculatedScore(float calculatedScore) {

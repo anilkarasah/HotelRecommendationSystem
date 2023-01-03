@@ -3,9 +3,10 @@ package Models;
 import Enums.Facility;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class User {
-    private String username;
+    private final String username;
     private ArrayList<HotelReview> previousHotelReviews;
     private float[] factors;
 
@@ -13,7 +14,7 @@ public class User {
         this.username = username;
         this.previousHotelReviews = hotelReviews;
         this.factors = new float[Facility.List.length];
-        for (int i = 0; i < this.factors.length; i++) this.factors[i] = 0;
+        Arrays.fill(this.factors, 0);
     }
 
     public float[] getFactors() {
@@ -32,15 +33,13 @@ public class User {
         return this.previousHotelReviews;
     }
 
-    public void addPreviousHotel(HotelReview previousHotelReview) {
+    public void addHotelReview(HotelReview previousHotelReview) {
         if (previousHotelReview != null)
             this.previousHotelReviews.add(previousHotelReview);
     }
 
     public HotelReview removeReview(int index) {
-        HotelReview removedReview = this.previousHotelReviews.remove(index);
-
-        return removedReview;
+        return this.previousHotelReviews.remove(index);
     }
 
     public boolean updateReview(int index, float newReview) {
@@ -52,7 +51,7 @@ public class User {
         return true;
     }
 
-    public float[] calculateFactors() {
+    public void calculateFactors() {
         for (HotelReview review : this.previousHotelReviews) {
             Hotel hotel = review.getHotel();
             float userScore = review.getScore();
@@ -65,7 +64,5 @@ public class User {
                 if (hotel.facilities[i]) this.factors[i] += (10 - hotel.avgScore + userScore) / 10;
             }
         }
-
-        return this.factors;
     }
 }

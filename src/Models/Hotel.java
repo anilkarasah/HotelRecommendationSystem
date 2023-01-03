@@ -5,28 +5,32 @@ import Enums.Facility;
 public class Hotel {
     public int id;
     public String name;
+    public String province;
+    public String district;
     public String address;
-    public double avgScore;
-    public double price;
+    public float avgScore;
+    public float price;
 
     public boolean[] facilities;
 
-    public Hotel(int id, String name, String address, double avgScore, int price, int[] facilities) {
+    public Hotel(int id, String name, String province, String district,
+                 String address, float avgScore, float price, boolean[] facilities) {
         this.id = id;
         this.name = name;
+        this.province = province;
+        this.district = district;
         this.address = address;
         this.avgScore = avgScore;
         this.price = price;
-        this.facilities = new boolean[facilities.length];
-        for (int i = 0; i < facilities.length; i++) {
-            this.facilities[i] = facilities[i] == 1;
-        }
+        this.facilities = facilities;
     }
 
     @Override
     public String toString() {
         StringBuilder result = new StringBuilder();
         result.append(this.name + '\n');
+        result.append("\t" + this.province + '\n');
+        result.append("\t" + this.district + '\n');
         result.append("\t" + this.address + '\n');
         result.append("\t" + String.format("Average score: %.1f", this.avgScore) + '\n');
         result.append("\t" + String.format("Price: %.1fTL", this.price) + '\n');
@@ -40,24 +44,27 @@ public class Hotel {
         return result.toString();
     }
 
-    public static Hotel parseCSV(String line, int lineNumber) {
+    public static Hotel parseCSV(String line) {
+        // split current line by commas
         String[] values = line.split(",");
-        String name = values[0].trim();
-        String address = values[1].trim();
-        float avgScore = Float.parseFloat(values[2].trim());
-        int price = Integer.parseInt(values[3].trim());
 
-        int[] facilities = new int[Facility.List.length];
-        facilities[0] = Integer.parseInt(values[4]);
-        facilities[1] = Integer.parseInt(values[5]);
-        facilities[2] = Integer.parseInt(values[6]);
-        facilities[3] = Integer.parseInt(values[7]);
-        facilities[4] = Integer.parseInt(values[8]);
-        facilities[5] = Integer.parseInt(values[9]);
-        facilities[6] = Integer.parseInt(values[10]);
-        facilities[7] = Integer.parseInt(values[11]);
-        facilities[8] = Integer.parseInt(values[12]);
+        // parse values
+        int id = Integer.parseInt(values[0]);
+        String name = values[1];
+        String province = values[2];
+        String district = values[3];
+        String address = values[4];
+        float avgScore = Float.parseFloat(values[5]);
+        float price = Float.parseFloat(values[6]);
 
-        return new Hotel(lineNumber, name, address, avgScore, price, facilities);
+        // parse facilities individually
+        boolean[] facilities = new boolean[Facility.List.length];
+        for (int i = 0; i < facilities.length; i++) {
+            // facility values contain 0 or 1, so
+            // we can parse it into booleans easily
+            facilities[i] = Integer.parseInt(values[i + 7]) == 1;
+        }
+
+        return new Hotel(id, name, province, district, address, avgScore, price, facilities);
     }
 }
