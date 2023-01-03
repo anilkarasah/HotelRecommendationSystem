@@ -18,7 +18,7 @@ public class RecommendationService {
     }
 
     public ArrayList<HotelRecommendation> calculate() {
-        float[] factors = normalizeFactors(this.user.getFactors());
+        float[] normalizedFactors = normalizeFactors(this.user.getFactors());
         ArrayList<HotelReview> usersScore = this.user.getPreviousHotels();
 
         ArrayList<HotelRecommendation> response = new ArrayList<>();
@@ -32,8 +32,8 @@ public class RecommendationService {
 
             if (!skipFlag) {
                 float score = 0;
-                for (int i = 0; i < factors.length; i++) {
-                    score += factors[i] * (hotel.facilities[i] ? (hotel.avgScore) : 0);
+                for (int i = 0; i < normalizedFactors.length; i++) {
+                    score += normalizedFactors[i] * (hotel.facilities[i] ? hotel.avgScore : 0);
                 }
                 response.add(new HotelRecommendation(hotel, score));
             }
@@ -64,10 +64,10 @@ public class RecommendationService {
         // ----------- * 2 - 1
         // (max - min)
 
-        float distance = 2 / (max - min);
-
+        float distance = (float)1.25 / (max - min);
         for (int i = 0; i < factors.length; i++) {
-            result[i] = (factors[i] - min) * distance - 1;
+//            result[i] = (factors[i] - min) / (max - min);
+            result[i] = (factors[i] - min) * distance - (float)0.25;
         }
 
         System.out.print("Initial factors: ");

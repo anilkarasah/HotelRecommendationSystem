@@ -55,10 +55,14 @@ public class User {
     public float[] calculateFactors() {
         for (HotelReview review : this.previousHotelReviews) {
             Hotel hotel = review.getHotel();
-            float score = review.getScore() / 10;
+            float userScore = review.getScore();
 
             for (int i = 0; i < hotel.facilities.length; i++) {
-                if (hotel.facilities[i]) this.factors[i] += score;
+                // factor calculation formula:
+                //                   10 - (hotelAvgScore - userScore)
+                // prevFactorValue = -------------------------------- + prevFactorValue
+                //                                  10
+                if (hotel.facilities[i]) this.factors[i] += (10 - hotel.avgScore + userScore) / 10;
             }
         }
 
