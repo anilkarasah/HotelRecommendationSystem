@@ -54,13 +54,13 @@ public class Main {
                 System.out.println(String.format("%.2f", factors[i]) + " - " + Facility.List[i]);
             }
 
-            SuggestionService suggestionService = new SuggestionService(user, hotelList);
+            RecommendationService recommendationService = new RecommendationService(user, hotelList);
 
-            ArrayList<HotelSuggestion> suggestions = suggestionService.calculate();
+            ArrayList<HotelRecommendation> suggestions = recommendationService.calculate();
 
             i = 0;
-            for (HotelSuggestion suggestion : suggestions) {
-                System.out.println(i + " > " + suggestion.getHotel().name + " - "
+            for (HotelRecommendation suggestion : suggestions) {
+                System.out.println(suggestion.getHotel().id + " > " + suggestion.getHotel().name + " - "
                         + String.format("%.2f", suggestion.getCalculatedScore()));
                 i++;
             }

@@ -19,10 +19,11 @@ public class CSVService {
 
         line = reader.readLine();
 
+        int i = 0;
         while ((line = reader.readLine()) != null) {
-            Hotel hotel = Hotel.parseCSV(line);
-
+            Hotel hotel = Hotel.parseCSV(line, i);
             hotels.add(hotel);
+            i++;
         }
 
         reader.close();

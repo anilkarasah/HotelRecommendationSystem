@@ -3,6 +3,7 @@ package Models;
 import Enums.Facility;
 
 public class Hotel {
+    public int id;
     public String name;
     public String address;
     public double avgScore;
@@ -10,7 +11,8 @@ public class Hotel {
 
     public boolean[] facilities;
 
-    public Hotel(String name, String address, double avgScore, int price, int[] facilities) {
+    public Hotel(int id, String name, String address, double avgScore, int price, int[] facilities) {
+        this.id = id;
         this.name = name;
         this.address = address;
         this.avgScore = avgScore;
@@ -31,14 +33,14 @@ public class Hotel {
 
         for (int i = 0; i < this.facilities.length; i++) {
             if (this.facilities[i]) {
-                result.append("\t\t> " + Facility.getFacilityName(i));
+                result.append("\t> " + Facility.getFacilityName(i));
             }
         }
 
         return result.toString();
     }
 
-    public static Hotel parseCSV(String line) {
+    public static Hotel parseCSV(String line, int lineNumber) {
         String[] values = line.split(",");
         String name = values[0].trim();
         String address = values[1].trim();
@@ -56,6 +58,6 @@ public class Hotel {
         facilities[7] = Integer.parseInt(values[11]);
         facilities[8] = Integer.parseInt(values[12]);
 
-        return new Hotel(name, address, avgScore, price, facilities);
+        return new Hotel(lineNumber, name, address, avgScore, price, facilities);
     }
 }

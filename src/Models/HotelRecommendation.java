@@ -1,10 +1,10 @@
 package Models;
 
-public class HotelSuggestion {
+public class HotelRecommendation {
     private Hotel hotel;
     private float calculatedScore;
 
-    public HotelSuggestion(Hotel hotel, float calculatedScore) {
+    public HotelRecommendation(Hotel hotel, float calculatedScore) {
         this.hotel = hotel;
         this.calculatedScore = calculatedScore;
     }

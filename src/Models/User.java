@@ -12,7 +12,7 @@ public class User {
     public User(String username, ArrayList<HotelReview> hotelReviews) {
         this.username = username;
         this.previousHotelReviews = hotelReviews;
-        this.factors = new float[Facility.List.length + 1];
+        this.factors = new float[Facility.List.length];
         for (int i = 0; i < this.factors.length; i++) this.factors[i] = 0;
     }
 
@@ -55,13 +55,11 @@ public class User {
     public float[] calculateFactors() {
         for (HotelReview review : this.previousHotelReviews) {
             Hotel hotel = review.getHotel();
-            float score = review.getScore();
+            float score = review.getScore() / 10;
 
             for (int i = 0; i < hotel.facilities.length; i++) {
                 if (hotel.facilities[i]) this.factors[i] += score;
             }
-
-            this.factors[hotel.facilities.length - 1] += hotel.avgScore;
         }
 
         return this.factors;
