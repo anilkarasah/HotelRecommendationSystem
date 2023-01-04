@@ -2,6 +2,7 @@ package Services;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 
 import Enums.DistrictsEnum;
@@ -56,6 +57,12 @@ public class CSVService {
 
             hotels.add(hotel);
             i++;
+        }
+
+        Collections.sort(citiesList);
+        
+        for (ArrayList<String> districtList : cityMap.values()) {
+        	Collections.sort(districtList);
         }
         
         DistrictsEnum.setCityList(citiesList);
