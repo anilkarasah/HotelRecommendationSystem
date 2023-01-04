@@ -165,22 +165,10 @@ public class MainMenu extends JFrame {
 		btnRezervasyonYap.setBounds(20, 210, 117, 25);
 		panel.add(btnRezervasyonYap);
 		
-		
-		
-<<<<<<< HEAD
-			
 		liste.setFont(new Font("Consolas", Font.PLAIN, 12));
 		liste.setBounds(281, 98, 587, 338);
 		liste.setSelectionMode(DefaultListSelectionModel.SINGLE_SELECTION);
-		panel.add(liste);	
-		
-=======
-		JList<String> list = new JList<>(l1);	
-		list.setFont(new Font("Consolas", Font.PLAIN, 12));
-		list.setBounds(281, 98, 587, 338);
-		list.setSelectionMode(DefaultListSelectionModel.SINGLE_SELECTION);
-		panel.add(list);		
->>>>>>> e90ca701a73e32b6a01c69cd8b67f329f1243921
+		panel.add(liste);
 		
 		JButton btnOylamaYap = new JButton("Oylama Yap");
 		btnOylamaYap.setFont(new Font("Verdana", Font.PLAIN, 12));
