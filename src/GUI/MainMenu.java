@@ -60,6 +60,7 @@ public class MainMenu extends JFrame {
 	 * Create the frame.
 	 */
 	public MainMenu() {
+		HotelReview review = new HotelReview(null, 5);
 		try{
 			CSVService csvService = new CSVService("./hotels.csv");
 			hotelList = csvService.ReadAllValues();
@@ -134,7 +135,7 @@ public class MainMenu extends JFrame {
 		
 		btnNewButton_1.setFont(new Font("Verdana", Font.PLAIN, 12));
 		btnNewButton_1.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
+			public void actionPerformed(ActionEvent e) {				
 				l1.removeAllElements();
 				selected_district = comboBox_1.getSelectedItem().toString();
 				hotelList = DistrictsEnum.getHotelsOfDistrict(selected_district);
@@ -152,7 +153,7 @@ public class MainMenu extends JFrame {
 		btnNewButton_1.setBounds(20, 174, 117, 25);
 		panel.add(btnNewButton_1);
 
-		HotelReview review = new HotelReview(null, 5);
+		
 		JButton btnRezervasyonYap = new JButton("Değerlendir");
 		btnRezervasyonYap.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
