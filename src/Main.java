@@ -11,6 +11,10 @@ public class Main {
             CSVService csvService = new CSVService("./hotels.csv");
 
             ArrayList<Hotel> hotelList = csvService.ReadAllValues();
+            
+            for (Hotel hotel : DistrictsEnum.getHotelsOfDistrict("Kadıköy")) {
+                System.out.println(hotel.name);
+            }
 
 /*            for (ArrayList<String> districtList : DistrictsEnum.cityMap.values()) {
             	for (String district : districtList) {
@@ -23,7 +27,7 @@ public class Main {
             } // */
 
 
-            for (Hotel h : hotelList) {
+  /*          for (Hotel h : hotelList) {
                 System.out.println("##### OTEL " + h.id + " #####");
                 System.out.println(h.toString());
             }
