@@ -2,18 +2,31 @@ import Models.*;
 import Services.*;
 
 import java.util.ArrayList;
-import java.util.Scanner;
+
+import Enums.DistrictsEnum;
 
 public class Main {
     public static void main(String[] args) {
         try {
-            CSVService csvService = new CSVService("C:\\Users\\anilk\\Desktop\\istanbul.csv");
+            CSVService csvService = new CSVService("./hotels.csv");
 
             ArrayList<Hotel> hotelList = csvService.ReadAllValues();
-//            for (Hotel h : hotelList) {
-//                System.out.println("##### OTEL " + h.id + " #####");
-//                System.out.println(h.toString());
-//            }
+
+/*            for (ArrayList<String> districtList : DistrictsEnum.cityMap.values()) {
+            	for (String district : districtList) {
+            		System.out.println(district);
+            	}
+            }
+            
+            for (String district : DistrictsEnum.getDistrictsOfCity("İstanbul")) {
+            	System.out.println(district);
+            } // */
+
+
+            for (Hotel h : hotelList) {
+                System.out.println("##### OTEL " + h.id + " #####");
+                System.out.println(h.toString());
+            }
 
             ArrayList<HotelReview> reviews = RecommendationService.getReviewsFromUser(hotelList);
             for (HotelReview review : reviews) {
@@ -32,8 +45,9 @@ public class Main {
 
             user.setHotelReviews(reviews);
 
-            suggestions = recommendationService.recommendHotels();
+            suggestions = recommendationService.recommendHotels(); // */
         } catch (Exception e) {
+            System.out.println("Exception üretildi!!!!");
             e.printStackTrace();
         }
     }

@@ -1,6 +1,6 @@
 package Models;
 
-import Enums.Facility;
+import Enums.FacilitiesEnum;
 
 import java.util.ArrayList;
 
@@ -10,9 +10,9 @@ public class User {
 
     public User(ArrayList<HotelReview> hotelReviews) {
         this.hotelReviews = hotelReviews;
-        this.factors = new float[Facility.List.length];
+        this.factors = new float[FacilitiesEnum.List.length];
 //        Arrays.fill(this.factors, 0);
-        for (int i = 0; i < Facility.List.length; i++) {
+        for (int i = 0; i < FacilitiesEnum.List.length; i++) {
             this.factors[i] = 0;
         }
     }

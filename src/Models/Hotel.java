@@ -1,6 +1,6 @@
 package Models;
 
-import Enums.Facility;
+import Enums.FacilitiesEnum;
 
 public class Hotel {
     public int id;
@@ -37,19 +37,18 @@ public class Hotel {
 
         for (int i = 0; i < this.facilities.length; i++) {
             if (this.facilities[i]) {
-                result.append("\t> " + Facility.getFacilityName(i));
+                result.append("\t> " + FacilitiesEnum.getFacilityName(i));
             }
         }
 
         return result.toString();
     }
 
-    public static Hotel parseCSV(String line) {
+    public static Hotel parseCSV(String line, int index) {
         // split current line by commas
         String[] values = line.split(",");
 
         // parse values
-        int id = Integer.parseInt(values[0]);
         String name = values[1];
         String province = values[2];
         String district = values[3];
@@ -58,13 +57,13 @@ public class Hotel {
         float price = Float.parseFloat(values[6]);
 
         // parse facilities individually
-        boolean[] facilities = new boolean[Facility.List.length];
+        boolean[] facilities = new boolean[FacilitiesEnum.List.length];
         for (int i = 0; i < facilities.length; i++) {
             // facility values contain 0 or 1, so
             // we can parse it into booleans easily
             facilities[i] = Integer.parseInt(values[i + 7]) == 1;
         }
 
-        return new Hotel(id, name, province, district, address, avgScore, price, facilities);
+        return new Hotel(index, name, province, district, address, avgScore, price, facilities);
     }
 }
