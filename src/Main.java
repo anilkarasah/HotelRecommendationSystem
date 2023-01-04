@@ -3,7 +3,7 @@ import Services.*;
 
 import java.util.ArrayList;
 
-import Enums.DistrictsEnum;
+// import Enums.DistrictsEnum;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,8 +11,12 @@ public class Main {
             CSVService csvService = new CSVService("./hotels.csv");
 
             ArrayList<Hotel> hotelList = csvService.ReadAllValues();
+            
+            for (Hotel h : hotelList) {
+            	System.out.println(h.name);
+            }
 
-            ArrayList<Hotel> hotelsList = DistrictsEnum.getHotelsOfDistrict("Kemer");
+/*            ArrayList<Hotel> hotelsList = DistrictsEnum.getHotelsOfDistrict("Kemer");
             if (hotelsList != null)
                 for (Hotel hotel : hotelsList) {
                     System.out.println(hotel.name);

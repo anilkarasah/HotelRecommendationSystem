@@ -1,6 +1,5 @@
 package GUI;
 
-import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -30,7 +29,7 @@ public class MainMenu extends JFrame {
 	static ArrayList<Hotel> hotelList;
 	String arr[] = {"Ankara","Antalya","Bursa","İzmir","Muğla"};
 	ArrayList<String> arr1 = new ArrayList<>();
-	DefaultComboBoxModel<String> cb2 = new DefaultComboBoxModel();
+	DefaultComboBoxModel<String> cb2 = new DefaultComboBoxModel<>();
 	static int otel_counter = 0;
 	static String selected_city = "";
 	static String selected_district = "";
@@ -82,7 +81,7 @@ public class MainMenu extends JFrame {
 		panel.add(lblNewLabel);
 		
 		JLabel lblEmirhanPaksoy = new JLabel();
-		lblEmirhanPaksoy.setText("EMİRHAN PAKSOY  --> 19011048  MEHMET ANIL KARAŞAH  --> 19011036");
+		lblEmirhanPaksoy.setText("EMİRHAN PAKSOY - 19011048 | MEHMET ANIL KARAŞAH - 19011036");
 		lblEmirhanPaksoy.setFont(new Font("Dialog", Font.BOLD, 12));
 		lblEmirhanPaksoy.setBounds(10, 475, 417, 25);
 		panel.add(lblEmirhanPaksoy);
@@ -106,7 +105,7 @@ public class MainMenu extends JFrame {
 		comboBox.setBounds(20, 119, 100, 25);
 		panel.add(comboBox);
 		System.out.println();
-		JComboBox comboBox_1 = new JComboBox(cb2);
+		JComboBox<String> comboBox_1 = new JComboBox<>(cb2);
 		comboBox_1.setBounds(130, 119, 100, 25);
 		panel.add(comboBox_1);
 		
@@ -157,7 +156,7 @@ public class MainMenu extends JFrame {
 		
 		
 		
-		JList list = new JList(l1);	
+		JList<String> list = new JList<>(l1);	
 		list.setFont(new Font("Consolas", Font.PLAIN, 12));
 		list.setBounds(281, 98, 587, 338);
 		list.setSelectionMode(DefaultListSelectionModel.SINGLE_SELECTION);
