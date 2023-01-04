@@ -25,13 +25,14 @@ import java.awt.event.ActionEvent;
 
 public class MainMenu extends JFrame {
 	
-	
+	static ArrayList<String> districts;
 	static ArrayList<Hotel> hotelList;
 	String arr[] = {"Ankara","Antalya","Bursa","İzmir","Muğla"};
 	ArrayList<String> arr1 = new ArrayList<>();
 	DefaultComboBoxModel<String> cb2 = new DefaultComboBoxModel();
 	static int otel_counter = 0;
 	static String selected_city = "";
+	static String selected_district = "";
 	static DefaultListModel<String> l1 = new DefaultListModel<>();
 	private JPanel contentPane;
 	private final JButton btnNewButton_1 = new JButton("Listele");
@@ -90,7 +91,7 @@ public class MainMenu extends JFrame {
 		comboBox.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				selected_city = comboBox.getSelectedItem().toString();
-				ArrayList<String> districts = DistrictsEnum.getDistrictsOfCity(selected_city);
+				districts = DistrictsEnum.getDistrictsOfCity(selected_city);
 				cb2.removeAllElements();
 				for(String i : districts) {
 					cb2.addElement(i);
@@ -132,7 +133,17 @@ public class MainMenu extends JFrame {
 		btnNewButton_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				l1.removeAllElements();
-				l1.addElement(selected_city);
+				selected_district = comboBox_1.getSelectedItem().toString();
+				hotelList = DistrictsEnum.getHotelsOfDistrict(selected_district);
+				if(hotelList == null) {
+					//pop-up koy OTEL BULUNAMADI
+				}
+				else {
+					for(Hotel h : hotelList) {
+						l1.addElement(h.toString());
+					}
+				}
+				
 			}
 		});
 		btnNewButton_1.setBounds(20, 174, 117, 25);
