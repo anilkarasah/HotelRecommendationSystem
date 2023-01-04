@@ -23,8 +23,9 @@ public class CSVService {
         line = reader.readLine();
         HashMap<String, ArrayList<String>> cityMap = new HashMap<String, ArrayList<String>>();
 
+        int i = 0;
         while ((line = reader.readLine()) != null) {
-            Hotel hotel = Hotel.parseCSV(line);
+            Hotel hotel = Hotel.parseCSV(line, i);
 
             ArrayList<String> districtList;
             if ((districtList = cityMap.get(hotel.province)) != null) {
@@ -35,6 +36,7 @@ public class CSVService {
             }
 
             hotels.add(hotel);
+            i++;
         }
         
         DistrictsEnum.setDistrictsEnum(cityMap);

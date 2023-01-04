@@ -8,7 +8,7 @@ import Enums.DistrictsEnum;
 public class Main {
     public static void main(String[] args) {
         try {
-            CSVService csvService = new CSVService("C:\\Users\\anilk\\Desktop\\istanbul.csv");
+            CSVService csvService = new CSVService("./hotels.csv");
 
             ArrayList<Hotel> hotelList = csvService.ReadAllValues();
 
@@ -20,7 +20,7 @@ public class Main {
             
             for (String district : DistrictsEnum.getDistrictsOfCity("İstanbul")) {
             	System.out.println(district);
-            }
+            } // */
 
 
             for (Hotel h : hotelList) {

@@ -44,12 +44,11 @@ public class Hotel {
         return result.toString();
     }
 
-    public static Hotel parseCSV(String line) {
+    public static Hotel parseCSV(String line, int index) {
         // split current line by commas
         String[] values = line.split(",");
 
         // parse values
-        int id = Integer.parseInt(values[0]);
         String name = values[1];
         String province = values[2];
         String district = values[3];
@@ -65,6 +64,6 @@ public class Hotel {
             facilities[i] = Integer.parseInt(values[i + 7]) == 1;
         }
 
-        return new Hotel(id, name, province, district, address, avgScore, price, facilities);
+        return new Hotel(index, name, province, district, address, avgScore, price, facilities);
     }
 }
