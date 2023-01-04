@@ -28,6 +28,13 @@ public class Hotel {
     @Override
     public String toString() {
         StringBuilder result = new StringBuilder();
+
+        result.append(String.format("%32s ", this.name));
+        result.append(String.format("%.2f ", this.price));
+        result.append(String.format("%.1f", this.avgScore));
+        
+        
+        /*
         result.append(this.name + '\n');
         result.append("\t" + this.province + '\n');
         result.append("\t" + this.district + '\n');
@@ -39,7 +46,7 @@ public class Hotel {
             if (this.facilities[i]) {
                 result.append("\t> " + FacilitiesEnum.getFacilityName(i));
             }
-        }
+        }*/
 
         return result.toString();
     }
