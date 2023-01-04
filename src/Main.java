@@ -11,18 +11,20 @@ public class Main {
             CSVService csvService = new CSVService("./hotels.csv");
 
             ArrayList<Hotel> hotelList = csvService.ReadAllValues();
-            
-            for (Hotel hotel : DistrictsEnum.getHotelsOfDistrict("Kadıköy")) {
-                System.out.println(hotel.name);
-            }
 
-/*            for (ArrayList<String> districtList : DistrictsEnum.cityMap.values()) {
+            ArrayList<Hotel> hotelsList = DistrictsEnum.getHotelsOfDistrict("Kemer");
+            if (hotelsList != null)
+                for (Hotel hotel : hotelsList) {
+                    System.out.println(hotel.name);
+                }   //  */
+/*
+            for (ArrayList<String> districtList : DistrictsEnum.cityMap.values()) {
             	for (String district : districtList) {
             		System.out.println(district);
             	}
-            }
+            }   //*/
             
-            for (String district : DistrictsEnum.getDistrictsOfCity("İstanbul")) {
+  /*          for (String district : DistrictsEnum.getDistrictsOfCity("Antalya")) {
             	System.out.println(district);
             } // */
 

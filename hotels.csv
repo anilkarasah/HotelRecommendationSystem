@@ -1,246 +1,1176 @@
 ﻿,Otel Adı,Şehir,Semt,Açık Adres,Skor,Yaklaşık Fiyat,Cocuk,Evcil Hayvan,Wi-fi,Otopark,SPA,Fitness,Restoran,Oda Servisi,Havuz
-0,Cevahir Hotel İstanbul Asia,İstanbul,Maltepe,Yalı Mahallesi   Ziya Gökalp Caddesi No:21 İstanbul İstanbul / Türkiye,8.7,1778,1,0,1,1,1,1,1,0,1
-1,Dedeman Istanbul,İstanbul,Beşiktaş,Yıldız Posta Caddesi No: 50 İstanbul / Türkiye,6.5,3289,1,1,1,1,1,0,1,1,0
-2,Suadiye Hotel,İstanbul,Kadıköy,Bağdat Caddesi Plaj YoluNo: 25 Suadiye  İstanbul / Türkiye,8.1,1981,1,0,1,1,1,0,1,0,0
-3,Ağaoğlu My City Hotel,İstanbul,Ümraniye,Çakmak Mahallesi Tavukcuyolu Caddesi No: 22 İstanbul / Türkiye,8.4,1485,1,0,1,1,1,0,1,0,1
-4,Wyndham Grand Istanbul Kalamış Marina Hotel,İstanbul,Kadıköy,Fenerbahçe  Fener Kalamış Cd. No 38  34726 Kadıköy/İstanbul İstanbul / Türkiye,8.2,2898,1,0,1,1,1,0,1,0,1
-5,A11 Hotel Cadde,İstanbul,Kadıköy,BAĞDAT CAD. 229/1 GÖZTEPE KADIKÖY İstanbul / Türkiye,7.5,1444,1,0,1,1,0,0,1,0,0
-6,TRYP by Wyndham Ataşehir,İstanbul,Ataşehir,KÜÇÜKBAKKALKÖY MAH. RÜYA SK. NO: 2-6 ATAŞEHİR İstanbul / Türkiye,8.4,1600,1,0,1,1,0,0,0,0,0
-7,Divan İstanbul City,İstanbul,İstanbul,Büyükdere Caddesi No:84  İstanbul / Türkiye,8.5,2280,1,0,1,1,1,0,1,0,0
-8,Tango Arjaan By Rotana,İstanbul,Maltepe,Altayçeşme MahallesiSamanyolu Sk. No:23 İstanbul İstanbul / Türkiye,8.2,2825,1,1,1,1,1,1,1,1,1
-9,A11 Ataşehir,İstanbul,Ataşehir,şenlik sk. no:1  İstanbul / Türkiye,7,1235,1,0,1,1,0,0,0,0,0
-10,Dedeman Bostancı Hotel and Convention Center,İstanbul,Kadıköy,Değirmenyolu Cad. No:39/B Bostancı  İstanbul / Türkiye,8.3,2576,1,1,1,1,1,1,1,1,1
-11,Days Hotel by Wyndham Istanbul Maltepe,İstanbul,Maltepe,Gülsuyu  E-5 Yan yol  Maltepe/İstanbul İstanbul / Türkiye,8.4,1407,1,0,0,1,1,1,1,1,0
-12,Divan İstanbul Asia,İstanbul,Pendik,E5 Karayolu üzeri No:209 Üst Kaynarca Pendik  İstanbul / Türkiye,8.2,2371,0,0,1,1,1,0,1,0,1
-13,Akgün İstanbul Hotel,İstanbul,Fatih,Adnan Menderes Bulvarı Çayır Meydanı Caddesi No:43 İstanbul / Türkiye,8.7,2446,1,0,1,1,1,1,1,1,1
-14,Sidonya Hotel,İstanbul,Kadıköy,Rıhtım cad. Nemlizade sok. no : 34 Kadıköy  İstanbul / Türkiye,8.4,1796,1,0,1,1,1,0,1,0,0
-15,Avantgarde Levent Hotel,İstanbul,Beşiktaş,Levent MahallesiBüyükdere Cd. No:161 İstanbul İstanbul / Türkiye,8.6,2343,1,0,1,1,1,0,0,0,1
-16,Sarnıç Butik Otel Kadıköy,İstanbul,Kadıköy,Caferağa Mah. Dumlupınar Sk. No:12 İstanbul İstanbul / Türkiye,8.7,1326,1,0,1,1,0,0,1,1,0
-17,Sheraton Grand İstanbul Ataşehir,İstanbul,Ataşehir,Barbaros Mah. Mor Sümbül Sok. No 1 Ataşehir  İstanbul / Türkiye,9,3313,1,0,1,1,1,1,1,1,1
-18,Ramada By Wyndham Beylikdüzü,İstanbul,Beylikdüzü,Gökevler Mah  529. Sk. No:2 Beylikdüzü İstanbul / Türkiye,8.4,1679,1,0,1,1,1,0,1,1,0
-19,Sheraton Istanbul Atakoy Hotel,İstanbul,Bakırköy,Rauf Orbay Caddesi Sahilyolu  No:10  Bakirkoy İstanbul / Türkiye,8,3260,1,0,1,1,1,1,1,1,1
-20,Symbola Bosphorus Hotel,İstanbul,Ortaköy,Ortaköy Mh.Portakal Ykş. Cd. No:17 İstanbul İstanbul / Türkiye,7.4,2027,1,0,1,1,0,0,1,1,0
-21,Air Boss İstanbul Airport and Fair Hotel,İstanbul,Küçükçekmece,Muammer Aksoy Cd. Akkuş Sk. No:1 K.Çekmece  İstanbul / Türkiye,10.0,863,1,0,1,0,0,0,1,0,0
-22,Style Hotel Şişli,İstanbul,Şişli,Merkez Mah.  Abide-i Hurriyet Cad  Iskenderoglu Sok. No: 28/A İstanbul / Türkiye,7.4,855,1,0,1,1,0,0,0,0,0
-23,Anatolia Inn,İstanbul,Kartal,Kordonboyu MahallesiÖzçin Sk. No:20 Istanbul İstanbul / Türkiye,8.2,1346,1,0,1,0,0,0,0,0,0
-24,Zin D Home Dudullu,İstanbul,Ümraniye,Yukarı Dudullu Mahallesiİnanç Türkeş Caddesi No 3 İstanbul İstanbul / Türkiye,7,497,1,0,1,1,0,1,0,0,1
-25,Ramada Encore By Wndham İstanbul Avcılar,İstanbul,Avcılar,Üniversite Mah. Firüzköy Bulvarı No:42 Avcılar  Avcılar İstanbul / Türkiye,8.1,2272,1,0,1,1,0,1,1,1,0
-26,Sürmeli İstanbul Hotel,İstanbul,İstanbul,GayrettepeProf. Dr. Bülent Tarcan Sokak No:3 Beşiktaş İstanbul / Türkiye,6.3,1878,1,0,1,1,0,1,1,1,0
-27,The Stay Bosphorus,İstanbul,Ortaköy,Yıldız Mh. Ortaköy Salhanesi Sk. No:1 İstanbul / Türkiye,6,5728,1,0,1,1,0,0,1,0,0
-28,Ramada Encore Bayrampaşa,İstanbul,Bayrampaşa,YENİDOĞAN MAH. ŞEHİT NACİÇAKAR SOKAK NO:11 BAYRAMPAŞA  İstanbul / Türkiye,8.1,1525,1,0,1,1,0,0,1,0,0
-29,Zin D Home Çekmeköy,İstanbul,Ümraniye,Merkez MahallesiÜsküdar Cd. No:23 İstanbul İstanbul / Türkiye,5.5,490,1,0,1,1,1,1,0,0,1
-30,Dosso Dossi Hotels Yenikapı,İstanbul,Fatih,Langa Bostanları Sokak No:24 İstanbul / Türkiye,10.0,2163,1,0,1,1,0,0,0,1,0
-31,Dila Hotel Kadıköy,İstanbul,Kadıköy,Osmanağa  Mühürdar Fuat Sk. No:5 Kadıköy  İstanbul / Türkiye,8.4,1647,1,0,1,1,0,0,1,1,0
-32,Carlton Hotel,İstanbul,Laleli,Fevziye Cad. No:6 İstanbul / Türkiye,10.0,2281,1,0,1,0,1,0,1,1,0
-33,Buem Hotel Koşuyolu,İstanbul,Kadıköy,Acıbadem Mahallesi Şeyh Galip Sokak No:11 İstanbul / Türkiye,7.1,2450,1,1,1,1,0,1,1,0,0
-34,Six Senses Kocatas Mansions,İstanbul,Sarıyer,Merkez Mahallesi Meserburnu Caddesi No: 7 İstanbul / Türkiye,10,8746,1,0,1,1,1,1,1,1,0
-35,Hotel Amira İstanbul,İstanbul,Sultanahmet,Küçük Ayasofya Mah. Mustafapasa Sok. No: 43 İstanbul / Türkiye,6,4056,1,0,1,1,0,1,1,1,0
-36,Zin D Home Alemdağ,İstanbul,Ümraniye,Ekşioğlu Mahallesi30. Sk. No: 22 İstanbul İstanbul / Türkiye,8.7,610,1,0,1,1,1,1,1,0,1
-37,Vogue Hotel Supreme Istanbul,İstanbul,Fatih,Alemdar Mh.Yerebatan Cd. No 13 İstanbul İstanbul / Türkiye,6,6506,1,0,1,0,0,0,1,1,0
-38,Seres Hotel Old City,İstanbul,Sirkeci,Hoca Paşa MahallesiHüdavendigar Cd. No:25 Istanbul İstanbul / Türkiye,8.7,2366,1,0,1,0,0,0,1,1,0
-39,Bilek Hotel Kavacık,İstanbul,Beykoz,Kavacık Mah. Muhtar Sk. No:9  Beykoz  İstanbul / Türkiye,7.6,2065,1,0,1,1,0,0,1,0,0
-40,Sirkeci Park Hotel,İstanbul,Sirkeci,Ebusuud caddesi No:24 ebusuud cad.24 /sirkeci fatih /istanbul İstanbul / Türkiye,5.3,1051,1,0,1,0,0,0,0,0,0
-41,Euro Stars Hotel Old City,İstanbul,Sirkeci,Hoca Paşa MahallesiHocapaşa Hamamı Sk No:1 İstanbul İstanbul / Türkiye,10.0,3176,1,0,1,0,1,1,1,1,0
-42,Noble22 Suites,İstanbul,Taksim,Gümüşsuyu Mahellesi Kolcak Sokak No:11 İstanbul / Türkiye,10.0,3182,1,0,1,1,0,0,0,0,0
-43,Dream Bosphorus Hotel,İstanbul,Fatih,Hoca Paşa MahallesiKum Meydanı Sk. No:16 İstanbul İstanbul / Türkiye,5.3,5633,1,0,1,1,0,0,0,1,0
-44,Ramada Encore by Wyndham Istanbul Basın Express,İstanbul,Küçükçekmece,Mehmet Akif Mah. Inonu Cad. No:96/1 İstanbul / Türkiye,7.7,1877,1,0,1,1,1,0,0,0,0
-45,Dosso Dossi Hotels Laleli,İstanbul,Laleli,Aksaray  Kemalpaşa Mahallesi  Yeşil Tulumba Sk. No:8 İstanbul / Türkiye,6,1842,1,0,1,0,0,0,0,0,0
-46,Ağva Nirvana New World Otel (12+),İstanbul,Ağva,Bucaklı MahallesiÇekek yolu no:15 İstanbul İstanbul / Türkiye,7.5,527,0,1,1,1,0,0,0,1,1
-47,Ağva My Dream Hotel,İstanbul,Ağva,Ağva Merkez Mah. Yakuplu Cad. No:114/1 Ağva-Şile İstanbul İstanbul İstanbul / Türkiye,9.2,1500,0,0,1,1,0,0,1,1,0
-48,Ağva Nehir Evi Butik Otel (Yetişkin Oteli +14),İstanbul,Ağva,Ağva Merkez MahallesiYakuplu Cd. No:228 İstanbul İstanbul / Türkiye,9.1,845,0,0,1,1,0,0,0,0,0
-49,Ağva Deniz Yıldızı Otel,İstanbul,Şile,Ağva MerkezMah. Korkutbey sok. No:9 Ağva Şile İSTANBUL İstanbul / Türkiye,8.4,458,1,0,1,0,0,0,1,0,0
-50,Ağva Heaven Hill Butik Otel,İstanbul,Ağva,Ağva Dut sokakNo:3İsaköy Mahallesi İstanbul / Türkiye,8.5,949,1,0,1,1,0,0,1,1,0
-51,Ağva Green & Blue Otel,İstanbul,Ağva,Kurfallı Mah. Mansur Cad. No:38/2 İstanbul / Türkiye,9.7,940,1,1,1,1,0,0,1,0,0
-52,Sea House Hotel Ağva,İstanbul,Ağva,merkez mah.kuzey cad doktor sokak no:2/1 İstanbul / Türkiye,7.5,550,1,0,1,0,0,0,1,1,0
-53,Ada Palas Büyükada,İstanbul,Büyükada,Maden MahallesiÇiçekli Yalı Sk. No:24 Adalar İstanbul / Türkiye,9.5,1116,0,0,1,0,0,0,1,1,0
-54,Sweet Home River Hotel Ağva(Adult +15 ),İstanbul,Ağva,Ağva Merkez MahallesiYakuplu Cd. no.214 İstanbul İstanbul / Türkiye,9.2,1235,0,1,1,1,0,0,1,1,0
-55,Ağva Venüs Otel,İstanbul,Ağva,Kuzey caddesi no 13 Ağva Istanbul İstanbul / Türkiye,8.8,599,1,0,1,1,0,0,1,0,0
-56,Ağva Gizemli Nehir Hotel,İstanbul,Ağva,Yakuplu Caddesi No:222/ Şile - Ağva  İstanbul / Türkiye,8.1,1187,0,0,1,1,0,0,1,0,1
-57,Büyükada Yalı Butik Otel,İstanbul,Büyükada,Aralık Sok. Kumsal Cad. No:4 Buyukada34400Turkey Büyükada İstanbul / Türkiye,7.9,469,1,0,1,0,0,0,0,1,0
-58,Ramada by Wyndham Şile Hotel,İstanbul,Şile,Turan Aziz Beler cad. no:43 Kumbaba Şile / İSTANBUL İstanbul / Türkiye,7.5,1400,1,0,1,1,1,0,1,0,1
-59,Ağva Beyaz Konak,İstanbul,Ağva,Şile cd. No:1 Ağva  İstanbul / Türkiye,9.1,807,0,0,1,1,0,0,1,0,0
-60,Ağva Kurfal Otel,İstanbul,Ağva,Plaj Caddesi No.35 Ağva-Şile İstanbul / Türkiye,8.3,1126,1,0,1,1,0,0,1,0,1
-61,Ağva Greenline Guest House (Yetişkin Oteli +12),İstanbul,Ağva,Ağva Merkez MahallesiYakuplu Sapağı No:284 İstanbul İstanbul / Türkiye,8.9,1800,0,0,1,1,0,0,1,1,0
-62,Ağva Palas Hotel,İstanbul,Ağva,NO:3Ağva Merkez MahallesiDumlupınar Cd. İstanbul İstanbul / Türkiye,6,617,1,0,1,1,0,0,0,1,0
-63,Anastasia Meziki Hotel,İstanbul,Büyükada,Malül Gazi Cad. No:24  İstanbul / Türkiye,8.7,1482,1,0,1,0,1,0,1,0,0
-64,Ağva Stone House,İstanbul,Ağva,kurfallı mahallesi mansur caddesi no 42/1 ağva/şile/istanbul İstanbul / Türkiye,9.7,855,0,0,1,1,0,0,1,0,0
-65,Ağva Asmalı Garden Otel,İstanbul,Ağva,Agva Merkez Mahallesi  Sarikaya Sok. No 14 Ağva İstanbul / Türkiye,9.2,850,0,0,1,0,0,0,1,0,1
-66,Ağva Palas Hotel,İstanbul,Ağva,NO:3Ağva Merkez MahallesiDumlupınar Cd. İstanbul İstanbul / Türkiye,6,617,1,0,1,1,0,0,0,1,0
-67,Anastasia Meziki Hotel,İstanbul,Büyükada,Malül Gazi Cad. No:24  İstanbul / Türkiye,8.7,1482,1,0,1,0,1,0,1,0,0
-68,Ağva Green River Hotel ( Yetişkin konsepti +14 ) ,İstanbul,Ağva,Şile teke ağva yolu İsaköy Köprüsü No:2  İstanbul / Türkiye,6,799,0,0,1,1,0,0,1,1,0
-69,Ağva Temmuz Otel,İstanbul,Ağva,yakuplu cad no:254/a İstanbul / Türkiye,6.9,1092,1,1,0,1,0,0,1,1,0
-70,Ağva Carpediem Otel,İstanbul,Ağva,Ağva Merkez MahallesiRıhtım Cd No:1 İstanbul İstanbul / Türkiye,5.0,676,1,0,1,0,0,0,1,0,0
-71,Ağva Piazza Otel,İstanbul,Ağva,Agva Merkez Mah.Guzelyali Sok. No:8 Şile İstanbul / Türkiye,8.2,499,1,0,1,0,0,0,1,0,0
-72,Şile Kumsal Butik Hotel,İstanbul,Şile,Kumbaba MahallesiKumbaba Cd. No:42 İstanbul İstanbul / Türkiye,7.6,648,1,0,1,1,0,0,0,0,1
-73,Ağva Orman Evleri Forest Lodge,İstanbul,Ağva,Çamlık bölgesiKurfallı Mahallesi Mansur cad. Ağva-Şile/İstanbul No:22/1 İstanbul / Türkiye,8.9,785,1,1,0,1,0,0,1,1,1
-74,Selimpaşa Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi Oteli,İstanbul,Silivri,Selimpaşa Mah. Araptepe Mevkii 3361 Sk. No 12 İstanbul / Türkiye,6,517,1,0,1,1,0,0,0,0,0
-75,Ağva Defne Otel,İstanbul,Ağva,merkez mah. dumlupınar cad. no/4 İstanbul / Türkiye,9,760,1,0,1,1,0,0,0,0,0
-76,Ağva Marina Otel,İstanbul,Ağva,AĞVA MERKEZ MAH. NEZAKET SK. MARINA MOTEL NO: 1 ŞİLE/ İSTANBUL Nezaket Sokak No:1 İstanbul / Türkiye,6.2,450,1,0,1,0,0,0,1,0,0
-77,Ağva Tartaruga Motel,İstanbul,Ağva,göçe mahallesi dolmabahçe cad. bahçeler sokak. no57 34990 İstanbul / Türkiye,6.7,394,1,0,1,0,0,0,1,0,0
-78,Selanikli Pansiyon Heybeliada,İstanbul,Heybeliada,Heybeliada MahallesiAyyıldız Cad. No:35 Istanbul - Asia İstanbul / Türkiye,8.3,600,1,1,1,0,0,0,0,1,0
-79,Ağva Robin's Nest (Yetişkin Oteli + 12),İstanbul,Ağva,YakupluCaddesi No:118/a Ağva - Şile İstanbul / Türkiye,8.2,1464,0,0,1,1,0,0,1,0,1
-80,Ağva Safir Otel,İstanbul,Ağva,Yakuplu Mahallesi Nigbolu Sokak No:14 Agva İstanbul / Türkiye,9.1,549,1,0,1,1,0,0,0,0,0
-81,Taksim Yazıcı Residence,İstanbul,Beyoğlu,Tomtom Mahallesiİstiklal Caddesi Akarsu Sokak No:4 İstanbul İstanbul / Türkiye,10.0,3549,1,0,1,0,0,0,1,1,0
-82,Taksim Terrace Hotel,İstanbul,Asmalımescit,Aybasti Sokak No 8 EVliya Çelebi Mahallesi İstanbul / Türkiye,2.7,1335,1,0,1,1,1,0,0,1,0
-83,Taksim Palace Hotel İstanbul,İstanbul,Beyoğlu,Şehit Muhtar Mah. Mahyacı Sk. No:1/1 İstanbul / Türkiye,5.0,1045,1,0,1,1,0,0,0,1,0
-84,Taksim Premium Hotel,İstanbul,Beyoğlu,Kuloğlu Mh.Yeniçarşı Cd. 5 İstanbul / Türkiye,8.7,1690,1,0,1,1,0,0,0,0,0
-85,Taksim Prelude Hotel,İstanbul,Beyoğlu,Kuloğlu Mahallesi Sadri Alışık Sokak No: 26 İstanbul / Türkiye,10.0,3474,1,0,1,0,0,0,0,1,0
-86,Darussaade Hotel,İstanbul,Sultanahmet,Akbiyik Caddesi No:90 Sultanahmet  İstanbul / Türkiye,10.0,1690,1,0,1,0,0,0,1,0,0
-87,Daru Sultan Hotels,İstanbul,Beyoğlu,Evliya Çelebi Mh.meşrutiyet Cd.no:108 Şişhane  Beyoğlu İstanbul / Türkiye,8.7,7211,1,0,1,1,1,0,1,0,0
-88,Sirkeci Emek Hotel,İstanbul,Fatih,Hoca Paşa Mahallesi İstanbul İstanbul / Türkiye,8.0,938,1,0,1,1,0,0,1,0,0
-89,Ajia Hotel,İstanbul,Beykoz,Kanlıca mahallesi/Halide Edip Adıvar Caddesi/no:27/Kanlıca/Beykoz/Ahmet Rasimpaşa Yalısı İstanbul / Türkiye,8.8,4694,1,0,1,1,1,0,1,1,0
-90,Orka Royal Hotel ,İstanbul,Sirkeci,Hocapaşa mah.Nöbethane Cd No:10 İstanbul İstanbul / Türkiye,7,7183,1,0,1,0,1,1,1,0,1
-91,Centro Westside by Rotana,İstanbul,Bağcılar,Mahmutbey Mah. Tasocagi Yolu Cad No :39/A İstanbul / Türkiye,8.3,1877,1,0,1,1,1,1,1,1,1
-92,İstanbul Central Hotel,İstanbul,Fatih,Hobyar MahallesiCemal Nadir Sk. No:10 İstanbul İstanbul / Türkiye,4.7,1277,0,0,1,0,0,0,0,0,0
-93,Antique Hostel Pansiyon,İstanbul,Sultanahmet,Kutlugün Sokak No:51 Sultanahmet İstanbul / Türkiye,7.3,593,1,0,1,1,0,0,1,1,0
-94,Nidya Hotel Galataport,İstanbul,Beyoğlu,Kılıçali Paşa MahallesiMeclis-i Mebusan Cd. No:2134333 TophaneBeyoğlu İstanbul / Türkiye,6.9,2552,1,0,1,0,1,0,1,1,0
-95,Alpek Hotel,İstanbul,Fatih,HobyarMah. Arpacılar Cd. No:6 İstanbul İstanbul / Türkiye,8.7,3943,0,0,1,1,0,0,1,1,0
-96,The Elysium Taksim,İstanbul,Taksim,İnönü Mah. Yadikuyular Cad. No1 Taksim  İstanbul / Türkiye,8.7,5990,1,0,1,1,1,0,1,1,1
-97,Cher Hotel İstanbul,İstanbul,Beyoğlu,Hacıahmet Mah  Kurtuluş Dere Cad  No 31 Taksim İstanbul / Türkiye,9.3,4329,1,0,1,1,1,1,1,1,1
-98,Hidden Hills İstanbul Airport Hotel,İstanbul,Arnavutköy,MUSTAFA KEMAL PASA MAH. KAZIM KARABEKIR CAD. NO:107 ARNAVUTKOY İstanbul / Türkiye,7.2,2028,1,0,1,1,0,0,1,1,0
-99,Casa Rosso Hotel,İstanbul,Kadıköy,Caferağa mahallesi imamata sokak no 3 İstanbul / Türkiye,7.2,1567,1,0,1,1,0,0,0,1,0
-100,Santa Ottoman Hotel,İstanbul,Beyoğlu,Şehit Muhtar MahallesiKurabiye Sk. No:1 İstanbul İstanbul / Türkiye,4.0,2704,1,0,1,0,0,0,1,1,0
-101,Business Life Hotel,İstanbul,Mecidiyeköy,Fulya Mah. Vefa Deresi Sk.No:15 Şişli İstanbul / Türkiye,7.7,1445,1,0,1,0,1,0,0,0,0
-102,Titanic Port Bakırköy,İstanbul,Bakırköy,Fisekhane Cad. No:7/3 34140 Bakirköy  Bakırköy İstanbul / Türkiye,2.0,3439,0,0,1,1,1,1,1,1,1
-103,Modern Sultan Hotel,İstanbul,Sultanahmet,Aksaray mahallesi küçük langa aralığı cad no9  İstanbul / Türkiye,10.0,2134,1,0,1,1,0,0,1,0,0
-104,Ay Işığı Otel Ağva,İstanbul,Ağva,Kuzey caddesi No:21 Ağva Şile  İstanbul / Türkiye,6.3,500,1,1,1,1,0,0,1,0,0
-105,Fors Hotel,İstanbul,Sultanahmet,Piyerloti Cad. Kadirga Hamami Sk. No.10 Old City Sultanahmet  Fatih İstanbul / Türkiye,10.0,676,1,0,1,1,0,0,1,0,0
-106,Grand Pamir Hotel,İstanbul,Laleli,Kemalpasa Mah. Mektep Sok No 5 Fatih  Fatih  İstanbul / Türkiye,9.1,1690,1,0,1,0,1,0,0,0,0
-107,Eser Diamond Hotel&Convention Center,İstanbul,Silivri,Çanta Mimarsinan Mh.Kınalı Cad. No:17 SilivriÇorlu Sk34500Turkey İstanbul / Türkiye,6.8,934,1,0,1,1,1,1,1,1,1
-108,Taxim Lounge Hotel,İstanbul,Taksim,Katip Mustafa Çelebi Mahallesi Hasnun Galip Sokak No:9 Beyoğlu  İstanbul / Türkiye,9.1,2241,1,0,1,0,0,0,1,1,0
-109,Golden Siyav Hotel,İstanbul,Kadıköy,Rıhtım Cd. Reşitefendi Sk. No:5 34714 Kadıköy  İstanbul / Türkiye,8.5,1859,1,0,1,0,0,0,1,0,0
-110,Ever Otel Avrupa,İstanbul,Bağcılar,Göztepe Mah. Batışehir Cad. No:2 K3 Blok Bağcılar İstanbul / Türkiye,7.7,1369,1,0,1,1,0,0,1,0,0
-111,Adalar Konak Butik Otel,İstanbul,Büyükada,Nizam mahallesi Çankaya caddesi No:34 Büyükada-İstanbul İstanbul / Türkiye,5.8,1140,1,0,1,0,0,0,0,1,0
-112,The Fox Hotel,İstanbul,Şişli,İnönü Mah. Babil Sok. No:69 Şişli İstanbul / Türkiye,10.0,2687,1,0,1,1,0,0,0,1,0
-113,Bankerhan Hotel,İstanbul,Karaköy,Bereketzade MahallesiBanker Sk. No:2 Beyoğlu İstanbul / Türkiye,10.0,5239,1,0,1,1,0,0,0,1,0
-114,Parmada Hotel Aksaray,İstanbul,Fatih,Kemalpaşa MahallesiOrdu Cd. No:74 Laleli İstanbul / Türkiye,10.0,1183,1,0,1,0,0,0,0,0,0
-115,Tünel Residence,İstanbul,Beyoğlu,Evliya Çelebi MahallesiMeşrutiyet Cd. No:96 İstanbul İstanbul / Türkiye,10.0,1690,1,0,1,1,1,1,1,1,1
-116,İstanbul Golden City Hotel,İstanbul,Beyoğlu,No: 34420Arap Cami MahallesiTersane Cd. No:111 İstanbul İstanbul / Türkiye,8.7,3971,1,0,1,1,0,0,1,1,0
-117,Ascot Hotel Büyükada,İstanbul,Büyükada,Büyükada Çınar Caddesi No:78 İstanbul / Türkiye,9,909,1,0,1,0,0,0,0,1,1
-118,Wineport Lodge Ağva,İstanbul,Ağva,Dolmabahce CaddesiNO 48 AĞVA\İSTANBUL İstanbul / Türkiye,9,3370,1,0,0,1,0,0,1,0,1
-119,Tree Tops Park Hotel,İstanbul,Ağva,Göçe Köyü mah. No:16 Agva   İstanbul / Türkiye,5.9,891,1,1,1,1,0,0,1,0,1
-120,The Tango Hotel İstanbul,İstanbul,Osmanbey,Bozkurt Mah.. Dolapdere Cad. No: 213  Şişli İstanbul / Türkiye,6,5070,1,0,1,1,0,0,0,0,0
-121,Tempo Fair Suites,İstanbul,Bahçelievler,Hürriyet cad. Hürriyet mah. No:1434192   /,8.2,929,1,0,1,0,0,0,1,0,0
-122,Grand Park Hotel Istanbul,İstanbul,Esenyurt,NAMIK KEMAL MAH. 116 SK. NO:42 NAMIK KEMAL MAH. 116 SK. NO:42 İstanbul / Türkiye,7.7,1197,1,0,1,1,0,0,1,1,0
-123,Turkart Hotel,İstanbul,Sultanahmet,Cankurtaran Mah. Tevkifhane Sok. No:12Sultan Ahmet Mahallesi34122 IstanbulTurkey İstanbul / Türkiye,10.0,1201,0,0,1,1,0,0,1,0,0
-124,Holiday Inn Express Istanbul Ataköy Metro Otel ,İstanbul,İstanbul,Sirinevler Mah. Maresel Fevzi Cakmak Cad. 1.Sokak No:13Bahcelievler 3418834Turkey Şirinevler İstanbul / Türkiye,8.5,2000,1,0,1,1,0,0,0,1,0
-125,Bizim Hotel Beyazıt,İstanbul,İstanbul,Mimar Hayrettin MahallesiDivani Ali Sk. No:2 İstanbul Mimar Hayrettin MahallesiDivani Ali Sk. No:2 İstanbul İstanbul / Türkiye,9.3,3380,1,0,1,0,0,0,0,0,0
-126,Esans HotelSpecial Class,İstanbul,Sultanahmet,İshakpasa Cd.Yenisarachane Sk. No: 4 Fatih İstanbul / Türkiye,6,2061,1,0,1,1,0,0,0,0,0
-127,Ortaköy Ayşem Sultan Hotel,İstanbul,Ortaköy,Cevirmeci Sokak No:4 Ortaköy İstanbul / Türkiye,7.4,828,1,0,1,0,0,0,0,0,0
-128,Elysium Styles Taksim,İstanbul,Taksim,Taksim Inonu Mah Yedikuyular Caddesi Kuzu Kulagi Sokak No 20 Sisli Taksim İstanbul / Türkiye,7.6,2084,1,0,1,0,0,0,1,0,0
-129,Orka Royal Hotel ,İstanbul,Sirkeci,Hocapaşa mah.Nöbethane Cd No:10 İstanbul İstanbul / Türkiye,7,7183,1,0,1,0,1,1,1,0,1
-130,Centro Westside by Rotana,İstanbul,Bağcılar,Mahmutbey Mah. Tasocagi Yolu Cad No :39/A İstanbul / Türkiye,8.3,1877,1,0,1,1,1,1,1,1,1
-131,İstanbul Central Hotel,İstanbul,Fatih,Hobyar MahallesiCemal Nadir Sk. No:10 İstanbul İstanbul / Türkiye,4.7,1277,0,0,1,0,0,0,0,0,0
-132,Antique Hostel Pansiyon,İstanbul,Sultanahmet,Kutlugün Sokak No:51 Sultanahmet İstanbul / Türkiye,7.3,593,1,0,1,1,0,0,1,1,0
-133,Nidya Hotel Galataport,İstanbul,Beyoğlu,Kılıçali Paşa MahallesiMeclis-i Mebusan Cd. No:2134333 TophaneBeyoğlu İstanbul / Türkiye,6.9,2552,1,0,1,0,1,0,1,1,0
-134,Alpek Hotel,İstanbul,Fatih,HobyarMah. Arpacılar Cd. No:6 İstanbul İstanbul / Türkiye,8.7,3943,0,0,1,1,0,0,1,1,0
-135,The Elysium Taksim,İstanbul,Taksim,İnönü Mah. Yadikuyular Cad. No1 Taksim  İstanbul / Türkiye,8.7,5990,1,0,1,1,1,0,1,1,1
-136,Albatros Hagia Sophia,İstanbul,Fatih,Alemdar Mh.Prof. Kazim Ismail Gurkan Cad. No:14 İstanbul İstanbul / Türkiye,6,2954,1,0,1,1,0,0,1,1,0
-137,Hotel Prinkipos,İstanbul,Büyükada,Cinar Cad No:33 Büyükada  İstanbul / Türkiye,4.9,427,1,0,1,0,0,0,1,1,0
-138,Liv City Hotels,İstanbul,Halkalı,Basınekspres Caddesi No : 2 KÜÇÜKÇEKMECE İstanbul / Türkiye,7.3,1300,1,0,1,1,0,0,1,1,0
-139,Montagna Hera Hotel,İstanbul,Beyoğlu,İnönü Mah. Elmadağ Cad. No:64 Şişli   /,5.9,1723,1,0,1,0,0,0,1,0,0
-140,Sapko Airport Hotel,İstanbul,Küçükçekmece,Tevfik Bey Mah. Vahit Efendi Sokak No:10 Sefaköy/Küçükçekmece İstanbul / Türkiye,7.9,1502,1,0,1,1,0,0,1,0,0
-141,Hotel Avcılar City,İstanbul,Avcılar,Merkez MahallesiFatih Sokağı no:40 İstanbul  /,7.0,938,1,0,1,0,0,0,1,0,0
-142,Best Hotel Kadıköy,İstanbul,Kadıköy,OSMANAĞA MAHALLESİ NÜSHET EFENDİ SK. NO:34 İstanbul / Türkiye,7.8,1424,1,0,1,0,0,0,0,0,0
-143,Golden Siyav Hotel,İstanbul,Kadıköy,Rıhtım Cd. Reşitefendi Sk. No:5 34714 Kadıköy  İstanbul / Türkiye,8.5,1859,1,0,1,0,0,0,1,0,0
-144,Ever Otel Avrupa,İstanbul,Bağcılar,Göztepe Mah. Batışehir Cad. No:2 K3 Blok Bağcılar İstanbul / Türkiye,7.7,1369,1,0,1,1,0,0,1,0,0
-145,Taxim Lounge Hotel,İstanbul,Taksim,Katip Mustafa Çelebi Mahallesi Hasnun Galip Sokak No:9 Beyoğlu  İstanbul / Türkiye,9.1,2241,1,0,1,0,0,0,1,1,0
-146,Eser Diamond Hotel&Convention Center,İstanbul,Silivri,Çanta Mimarsinan Mh.Kınalı Cad. No:17 SilivriÇorlu Sk34500Turkey İstanbul / Türkiye,6.8,934,1,0,1,1,1,1,1,1,1
-147,Grand Esen Hotel Sirkeci,İstanbul,Fatih,Hoca Paşa MahallesiOrhaniye Cd. 36 İstanbul İstanbul / Türkiye,8.1,1765,1,0,1,0,0,0,0,0,0
-148,Çenar Konak Butik Otel,İstanbul,Büyükada,Nizam Mah. Çınar MeydanıSok. No:13  İstanbul / Türkiye,9.5,1314,1,0,1,1,0,0,1,0,0
-149,Tiara Büyükada Hotel,İstanbul,Büyükada,Yirmiüç Nisan Cd. No:22 İstanbul / Türkiye,8,1014,1,1,1,0,0,0,1,1,0
-150,Büyükada Prenses Koyu Butik Otel,İstanbul,Büyükada,Kamelya Sokak No:14 Büyükada34970Turkey İstanbul / Türkiye,7.8,18779,1,0,1,0,0,0,1,1,0
-151,Özdemir Pansiyon Heybeliada,İstanbul,Heybeliada,Ayyılıdz Cad. No:31  Adalar   /,7,285,1,0,1,0,0,0,0,0,0
-152,Lotus Restaurant & Home Şile,İstanbul,Şile,Hacı Kasım Mah. Liman Sok. No:28 İstanbul / Türkiye,7.1,1490,1,0,1,1,0,0,1,1,0
-153,Hotel Favori Nişantaşı,İstanbul,Nişantaşı,No: 11 Osmanbey Nişantaşı Şişli İstanbulMatbaacı Osmanbey Sk. İstanbul İstanbul / Türkiye,9.2,1802,1,0,1,0,1,1,1,1,0
-154,Time Hotel Mecidiyeköy,İstanbul,Mecidiyeköy,Mecidiyeköy Mh. Oğuz Sk. No:7 Şişli  İstanbul / Türkiye,7.1,845,1,0,1,1,0,0,1,0,0
-155,Sim Hotel Fatih,İstanbul,Fatih,aksaray mah namık kemal cad abdullah çavuş sok no 14 fatih İstanbul / Türkiye,4.4,1352,1,0,1,1,0,0,0,1,0
-156,Prestige Hotel Old City,İstanbul,Fatih,Mimar Kemalettin MahallesiKoska Cd. No:6 İstanbul İstanbul / Türkiye,7.3,2314,1,0,1,0,0,0,1,1,0
-157,Cumbalı Luxury Butik Hotel,İstanbul,Osmanbey,Cumhuriyet Mah. Tavukçu Fethi Sk. No:31 Osmanbey  İstanbul / Türkiye,8.7,1408,1,0,1,0,0,0,1,1,0
-158,Molton Şişli MSL Hotel,İstanbul,Şişli,Tuna Turizm  19 Mayıs Mah Operatör Raifbey Sok  Tuna Otel No:37 İstanbul / Türkiye,2.0,1032,1,0,1,0,0,0,1,0,0
-159,The Meretto Hotel İstanbul Old City,İstanbul,Fatih,Kemal Paşa MahallesiSelim Paşa Sk. No:25 İstanbul İstanbul / Türkiye,6.9,8233,1,0,1,1,1,0,1,0,0
-160,Four Points by Sheraton İstanbul Kağıthane,İstanbul,Kağıthane,Hamidiye Mah. Cendere Cad. No:15 İstanbul / Türkiye,9.1,2402,1,0,1,1,1,0,1,0,0
-161,Golden Tulip İstanbul Bayrampaşa Hotel,İstanbul,Bayrampaşa,Yenidogan Mahallesi Cicoz Yolu Caddesi No:13 İstanbul / Türkiye,7.9,1521,1,0,1,1,1,0,1,1,1
-162,La Cielo Suites Bostancı,İstanbul,Bostancı,Altıntepe  Eski Bağdat Cd. No: 9 İstanbul / Türkiye,8.8,1284,1,1,1,1,0,0,0,0,0
-163,Bilek Hotel 4Levent,İstanbul,4. Levent,Eski BüyükDere Caddesi No:29 4.Levent  Kağıthane İstanbul / Türkiye,8.3,2275,1,0,1,1,1,1,1,1,0
-164,İbis İstanbul West,İstanbul,Halkalı,Halkalı Merkez MahallesiTokel Sk. No:1 İstanbul İstanbul / Türkiye,8.2,1282,0,1,1,0,0,0,1,0,0
-165,Velena Hotel Ağva ,İstanbul,Ağva,Ağva Mh. Yakuplu Cad. Dere Sk. No:8 Şile  İstanbul / Türkiye,8.3,699,1,0,1,1,0,0,1,0,1
-166,The Escape Hotel,İstanbul,Ağva,Yakuplu Cad No:234/1 İstanbul / Türkiye,9.3,1950,0,0,1,0,0,0,1,1,1
-167,Nil Hotel,İstanbul,Osmanbey,Cumhuriyet Mah. Tavukçu Fethi Sk No:21 İstanbul / Türkiye,8.0,1159,1,0,1,1,0,0,1,1,0
-168,The Marmara Pera,İstanbul,Asmalımescit,Mesrutiyet Caddesi Tepebasi 34430 Asmalımescit / Pera  34430 Beyoğlu/İstanbul İstanbul / Türkiye,7,4611,1,1,1,1,0,1,1,1,1
-169,Park Grazza Hotel,İstanbul,Osmanbey,No:158Ergenekon Mh. Muhtarlığı Beyoğlu İstanbul / Türkiye,8.5,1352,1,0,1,1,0,0,0,1,0
-170,Albatros Hagia Sophia,İstanbul,Fatih,Alemdar Mh.Prof. Kazim Ismail Gurkan Cad. No:14 İstanbul İstanbul / Türkiye,6,2954,1,0,1,1,0,0,1,1,0
-171,Hotel Prinkipos,İstanbul,Büyükada,Cinar Cad No:33 Büyükada  İstanbul / Türkiye,4.9,427,1,0,1,0,0,0,1,1,0
-172,Liv City Hotels,İstanbul,Halkalı,Basınekspres Caddesi No : 2 KÜÇÜKÇEKMECE İstanbul / Türkiye,7.3,1300,1,0,1,1,0,0,1,1,0
-173,Hotel Avcılar City,İstanbul,Avcılar,Merkez MahallesiFatih Sokağı no:40 İstanbul  /,7.0,938,1,0,1,0,0,0,1,0,0
-174,Best Hotel Kadıköy,İstanbul,Kadıköy,OSMANAĞA MAHALLESİ NÜSHET EFENDİ SK. NO:34 İstanbul / Türkiye,7.8,1424,1,0,1,0,0,0,0,0,0
-175,Montagna Hera Hotel,İstanbul,Beyoğlu,İnönü Mah. Elmadağ Cad. No:64 Şişli   /,5.9,1723,1,0,1,0,0,0,1,0,0
-176,Sapko Airport Hotel,İstanbul,Küçükçekmece,Tevfik Bey Mah. Vahit Efendi Sokak No:10 Sefaköy/Küçükçekmece İstanbul / Türkiye,7.9,1502,1,0,1,1,0,0,1,0,0
-177,Erzurumlu Otel,İstanbul,Kilyos,Kilyos  Kale Cad. No:59  Sarıyer İstanbul / Türkiye,8,1558,1,0,1,1,1,0,1,1,1
-178,Rios Edition Hotel,İstanbul,Bakırköy,Cevizlik Mahallesi Kennedy Caddesi No:5 Bakırköy İstanbul / Türkiye,7.3,1069,1,0,1,1,1,0,1,0,1
-179,Pi Art Otel,İstanbul,Kadıköy,Rasimpaşa MahallesiUzun Hafız Sk. No:11 İstanbul İstanbul / Türkiye,8.2,902,1,1,1,0,0,0,0,0,0
-180,Mest Hotel Istanbul Sirkeci,İstanbul,Fatih,RÜSTEMPAŞA MAH. ÇİÇEK PAZARI CAD. NO: 22 FATİH/İSTANBUL İstanbul / Türkiye,6,11564,1,0,1,0,0,0,1,0,0
-181,Loren Hotel & Suites,İstanbul,Ortaköy,Mecidiye Mahallesi  Dışbudak Sk. No:11  37347 Ortaköy/İstanbul İstanbul / Türkiye,6,1166,1,0,1,1,0,0,0,0,0
-182,Beydağı Suite ,İstanbul,Kadıköy,OSMANAĞA MAHALLESİ GENÇLİK SOKAK NO:6/a İstanbul / Türkiye,6,859,1,1,1,0,0,0,0,0,0
-183,Lasagrada Hotel İstanbul,İstanbul,Şişli,Meşrutiyet MahallesiHalaskargazi Cd. No:96 İstanbul İstanbul / Türkiye,6,4348,1,0,1,1,1,1,1,1,1
-184,Palde Hotel Spa,İstanbul,Sirkeci,Hoca Paşa Mah. Hüdavendigar Cad. Serdar Sok. No: 2 Sirkeci Eminönü İstanbul İstanbul / Türkiye,6,8366,1,0,1,1,1,0,1,1,1
-185,Best Nobel Hotel 2,İstanbul,Fatih,İskenderpaşa MahallesiAhmediye Cd. No:12 İstanbul İstanbul / Türkiye,6,1561,1,0,1,0,0,0,0,0,0
-186,Brandroom Hotel,İstanbul,Avcılar,Merkez Mahallesi Engin Sokak No:16 Avcılar/İstanbul İstanbul / Türkiye,6,988,1,0,1,1,0,0,0,0,0
-187,Palmiye Suit Otel,İstanbul,Bakırköy,Cevizlik Mah. Ebu Ziya Cad. No:24 Bakırköy İstanbul / Türkiye,6,750,1,0,1,1,0,0,0,0,0
-188,The Ritz Carlton Istanbul,İstanbul,Şişli,Süzer Plaza  Askerocağı Caddesi  No:6  Elmadağ İstanbul / Türkiye,6,7066,1,0,1,1,1,1,1,0,1
-189,MB Deluxe Hotel,İstanbul,Güngören,fidan sokak no:6 merter İstanbul / Türkiye,6,2352,1,0,1,1,0,0,0,1,0
-190,Premist Hotels Sultanahmet,İstanbul,Sultanahmet,Cankurtaran mah. İshakpaşa Cad. No:12-14-16 İstanbul / Türkiye,6,1690,1,0,1,0,0,0,0,1,0
-191,Homey Airport Hotel,İstanbul,Arnavutköy,MERKEZ MAH. NİŞAN SOK. NO-1 ARNAVUTKÖY - İSTANBUL İstanbul / Türkiye,6,1284,1,0,1,1,0,0,0,0,0
-192,Grand Gold Beach Hotel,İstanbul,Büyükçekmece,Kumburgaz Merkez Mahallesi İstanbul Cadddesi E-5 Karayolu Üzeri No:712/A Büyükçekme/ İstanbul İstanbul / Türkiye,6,853,1,0,0,0,0,0,1,0,1
-193,The Zanadu Hotel,İstanbul,Fatih,küçük ayasofya mahallesi şehit mahmet paşa sokak no:26/1 İstanbul / Türkiye,6,563,1,0,1,1,0,0,0,1,0
-194,Divan İstanbul,İstanbul,Harbiye,Asker Ocağı Caddesi No:1 Harbiye  İstanbul / Türkiye,9.0,4419,1,0,1,1,1,1,1,1,1
-195,The Marmara Şişli,İstanbul,Mecidiyeköy,Mecidiyeköy MahallesiOrtaklar Cd. No:30 İstanbul İstanbul / Türkiye,7.2,3095,1,1,1,1,0,1,1,1,0
-196,Hotel My Dora,İstanbul,Kadıköy,Rıhtım Caddesi Recaizade S. No:6  Kadıköy İstanbul / Türkiye,8.5,1766,1,0,1,0,0,0,0,0,0
-197,Le Marde Hotel,İstanbul,Bakırköy,Zeytinlik Mahallesi Kennedy Cad Ömer Naci Sok. no:49   Bakırköy İstanbul / Türkiye,5.4,950,1,0,1,1,0,0,1,1,0
-198,VVR Hotel,İstanbul,Şişli,Ergenekon Mah. Halaskargazi Cad. No:5 Harbiye İstanbul / Türkiye,3.3,1267,1,1,1,1,0,0,1,1,0
-199,Derpa Suite Hotel,İstanbul,Nişantaşı,Halaskargazi MahallesiHalaskargazi Cd. No:80 İstanbul İstanbul / Türkiye,6.0,1607,1,0,1,0,0,0,0,0,0
-200,Myy Boutique Hotel ,İstanbul,Pendik,BATI MAH.HAKİMLER ÇIKMAZI SOK. NO:1 PENDİK Hakimler Çıkmazı Sokak No:1 Pendik İstanbul / Türkiye,5.1,884,1,0,1,1,0,0,1,1,0
-201,Paradise Otel Ağva,İstanbul,Ağva,yakuplu mah. dere sok. no21 paradise otel ağva İstanbul / Türkiye,7.1,1350,1,1,1,1,1,0,1,1,0
-202,İstanbul Dedem Hotel,İstanbul,Avcılar,Gumuspala Mah. Nadide Sok. No:2 Avcilar İstanbul / Türkiye,6,455,1,0,1,1,0,0,1,0,0
-203,Park Dedeman Bostancı,İstanbul,Kadıköy,Değirmenyolu Cad No 39/C İçerenköy Mah İstanbul / Türkiye,8.4,1881,1,1,1,1,0,1,1,0,0
-204,Luce Di Pera,İstanbul,Beyoğlu,Balik Sokak No : 13 Taksim - Beyoglu34435 IstanbulTurkey İstanbul / Türkiye,6.1,1030,1,0,1,0,0,0,0,1,0
-205,Comfort Suites Hotel,İstanbul,Bahçelievler,Hürriyet Caddesi  Sedef Sokak  No 17 İstanbul / Türkiye,8,750,1,1,1,1,0,0,0,0,0
-206,Tevetoğlu Hotel,İstanbul,Sabiha Gökçen Havalimanı,Kurtköy Mahallesi  Zafer Sk. No:3  34912 Pendik/İstanbul İstanbul / Türkiye,6,1266,1,0,1,1,0,0,0,1,0
-207,Cadde Suite Bakırköy,İstanbul,Bakırköy,Cevizlik Mahallesi istanbul caddesi no 16 İstanbul / Türkiye,4.8,855,0,0,1,0,0,0,0,0,0
-208, Keyif Boutique Hotel & Restaurant,İstanbul,Şile,Karamandere Mah. Evrim Cad. No:71 Saklıgöl Mevkii İstanbul / Türkiye,8.4,1596,1,0,1,1,0,0,1,1,0
-209,Terrace Suites İstanbul,İstanbul,İstanbul,Sütlüce Mahallesiİmrahor Cd. No:30 İstanbul İstanbul / Türkiye,5.9,1222,1,0,1,0,0,1,1,0,0
-210,Ağva Dachas Cove Houses,İstanbul,Ağva,Kurfallı Mah. Kızılçam Sok. No: 41 Şile / Ağva / İstanbul / TÜRKİYE İstanbul / Türkiye,8.9,2500,1,1,0,1,0,0,1,0,1
-211,Yağız Otel,İstanbul,Ağva,Ağva Merkez mah. Yakuplu cad. Sağlık Sok. No:5 A İstanbul / Türkiye,9.3,521,1,1,1,0,0,0,1,1,0
-212,Balo Hotel,İstanbul,Beyoğlu,HÜSEYİNAĞA MAH TOPÇEKENLERSOK NO 22 BEYOĞLU  İstanbul / Türkiye,3.3,1786,1,0,1,1,0,0,1,0,0
-213,Luxury Airport Hotel,İstanbul,Arnavutköy,Taşoluk Mah. Mustafa Kemal Cad. No.10 İstanbul / Türkiye,6,1783,0,0,1,1,0,0,0,1,0
-214,Nova Plaza Pera ,İstanbul,Asmalımescit,Çatma Mescit Mah.Hayratçı Sokak No:1-3 İstanbul / Türkiye,6,2920,1,0,1,1,0,0,1,0,1
-215,Hotel Momento Golden Horn,İstanbul,Beyoğlu,arap cami mah. tersane cad. no:24 karaköy İstanbul / Türkiye,6,2020,1,0,1,1,0,0,1,1,0
-216,Mest Hotel Istanbul Sirkeci,İstanbul,Fatih,RÜSTEMPAŞA MAH. ÇİÇEK PAZARI CAD. NO: 22 FATİH/İSTANBUL İstanbul / Türkiye,6,11576,1,0,1,0,0,0,1,0,0
-217,Loren Hotel & Suites,İstanbul,Ortaköy,Mecidiye Mahallesi  Dışbudak Sk. No:11  37347 Ortaköy/İstanbul İstanbul / Türkiye,6,1166,1,0,1,1,0,0,0,0,0
-218,Beydağı Suite ,İstanbul,Kadıköy,OSMANAĞA MAHALLESİ GENÇLİK SOKAK NO:6/a İstanbul / Türkiye,6,859,1,1,1,0,0,0,0,0,0
-219,Lasagrada Hotel İstanbul,İstanbul,Şişli,Meşrutiyet MahallesiHalaskargazi Cd. No:96 İstanbul İstanbul / Türkiye,6,4353,1,0,1,1,1,1,1,1,1
-220,Palde Hotel Spa,İstanbul,Sirkeci,Hoca Paşa Mah. Hüdavendigar Cad. Serdar Sok. No: 2 Sirkeci Eminönü İstanbul İstanbul / Türkiye,6,8375,1,0,1,1,1,0,1,1,1
-221,Ortaköy Ayşem Sultan Hotel,İstanbul,Ortaköy,Cevirmeci Sokak No:4 Ortaköy İstanbul / Türkiye,7.4,828,1,0,1,0,0,0,0,0,0
-222,Parmada Hotel Aksaray,İstanbul,Fatih,Kemalpaşa MahallesiOrdu Cd. No:74 Laleli İstanbul / Türkiye,10.0,1184,1,0,1,0,0,0,0,0,0
-223,Tünel Residence,İstanbul,Beyoğlu,Evliya Çelebi MahallesiMeşrutiyet Cd. No:96 İstanbul İstanbul / Türkiye,10.0,1692,1,0,1,1,1,1,1,1,1
-224,The Tango Hotel İstanbul,İstanbul,Osmanbey,Bozkurt Mah.. Dolapdere Cad. No: 213  Şişli İstanbul / Türkiye,6,5076,1,0,1,1,0,0,0,0,0
-225,Tree Tops Park Hotel,İstanbul,Ağva,Göçe Köyü mah. No:16 Agva   İstanbul / Türkiye,5.9,892,1,1,1,1,0,0,1,0,1
-226,Tempo Fair Suites,İstanbul,Bahçelievler,Hürriyet cad. Hürriyet mah. No:1434192   /,8.2,930,1,0,1,0,0,0,1,0,0
-227,Bizim Hotel Beyazıt,İstanbul,İstanbul,Mimar Hayrettin MahallesiDivani Ali Sk. No:2 İstanbul Mimar Hayrettin MahallesiDivani Ali Sk. No:2 İstanbul İstanbul / Türkiye,9.3,3384,1,0,1,0,0,0,0,0,0
-228,Esans HotelSpecial Class,İstanbul,Sultanahmet,İshakpasa Cd.Yenisarachane Sk. No: 4 Fatih İstanbul / Türkiye,6,1861,1,0,1,1,0,0,0,0,0
-229,Halifaks Hotel İstanbul,İstanbul,Şişli,19 Mayıs Mahallesi Kucukbahce Sokak No: 25 Şişli   /,6,2538,1,0,1,1,0,0,1,0,0
-230,Kilyos Kale Otel,İstanbul,Kilyos,Kale Caddesi No:61 Kumköy KilyosSarıyer İstanbul İstanbul Sarıyer İstanbul / Türkiye,7.8,1466,1,0,1,1,0,0,1,1,1
-231,Elysium Styles Taksim,İstanbul,Taksim,Taksim Inonu Mah Yedikuyular Caddesi Kuzu Kulagi Sokak No 20 Sisli Taksim İstanbul / Türkiye,7.6,2086,1,0,1,0,0,0,1,0,0
-232,Büyükada Princess Hotel,İstanbul,Büyükada,Büyükada-Nizam Mh. 23 Nisan cad. No:234970 Adalar  İstanbul / Türkiye,8,1765,1,0,1,0,0,0,1,0,0
-233,Fuat Paşa Yalısı,İstanbul,Sarıyer,Büyükdere Mah. ÇayırbaşıCad. No:148 İstanbul / Türkiye,8.2,1829,1,0,1,1,0,0,1,1,1
-234,Hammamhane,İstanbul,Beyoğlu,Firuzaga Mah.Çukur Cuma Cd. No:45 İstanbul İstanbul / Türkiye,6,3196,1,0,1,0,0,0,1,0,0
-235,The Green Park Bostancı,İstanbul,Kadıköy,İçerenköy Mh. Ertaç Sk. No: 16 İstanbul / Türkiye,7.2,1200,0,0,1,1,1,1,1,1,1
-236,Han Hotel,İstanbul,Bahçelievler,Yenibosna Merkez Mh.Turgut Reis1 Sk No:334197 İstanbulTurkey Bahçelievler İstanbul / Türkiye,7.1,1271,1,0,1,0,0,0,1,0,0
-237,Gold Suite Hotel,İstanbul,Maltepe,Cevizli Mah. 30 Ağustos Cad. No:15 Maltepe İstanbul / Türkiye,5,1117,1,1,0,0,0,0,0,0,0
-238,Vesta Resort Butik Otel,İstanbul,Kartal,Çarşı Mahallesi. Dolayoba Caddesi. No:18 Ayazma/Yakacık/Kartal  /,7.2,950,1,0,1,1,0,1,1,0,0
-239,Ebruşun Konağı,İstanbul,Maltepe,Zümrütevler MahallesiElif Sk. No:3 Istanbul İstanbul / Türkiye,6.7,1057,1,0,1,0,0,0,1,0,0
-240,Asia Artemis Suite Hotel,İstanbul,Ümraniye,Serifali Mahallesi Turcan Caddesi No: 59 - Ataşehir Asia Artemis Suite Hotel İstanbul / Türkiye,6.8,1002,1,0,1,1,0,0,0,1,0
-241,Center Inn Hotel,İstanbul,Maltepe,Bağlarbaşı  Atatürk Cd. No:74 İstanbul / Türkiye,7.6,950,1,0,0,1,1,1,0,0,1
-242,Arkem Hotel 2,İstanbul,Maltepe,Fındıklı Mahallesi Ataturk Caddesi no 189 Maltepe  İstanbul / Türkiye,5.5,495,1,0,1,0,0,0,0,1,0
-243,The City Suites,İstanbul,Ümraniye,Atakent Mahallesi  Muammer Aksoy Sk.  34774 Ümraniye/İstanbul İstanbul / Türkiye,7.8,766,1,0,1,1,1,0,1,1,0
-244,Atacity Hotel,İstanbul,Ataşehir,Küçükbakkalköy MahallesiŞenlik Sk. No:2 Ataşehir İstanbul / Türkiye,5.8,794,1,0,1,1,0,0,0,1,0
+0,Altınel Ankara Hotel & Convention Center,Ankara,Çankaya,Gazi Mustafa Kemal Bulvarı No:151 Tandoğan Ankara / Türkiye,8.4,1268,1,0,1,1,1,1,1,1,0
+1,CPAnkara Hotel,Ankara,Yenimahalle,Gazi Mah Mevlana Bulvarı No 2/F Yenimahalle Ankara / Türkiye,8.9,1706,1,0,1,1,0,0,0,1,0
+2,Days Hotel By Wyndham Ankara Çankaya,Ankara,Çankaya,Güzeltepe Mahallesi  Abidin Daver Sokak  No:33 Days Hotel by Wyndham Ankara Cankaya Ankara / Türkiye,9.0,1300,1,0,1,1,0,0,1,1,0
+3,New Park Hotel ,Ankara,Kızılay,Ziya Gökalp Bulvarı No:58Çankaya - Ankara / Türkiye Ankara / Türkiye,9.0,1424,1,0,1,1,1,1,1,1,0
+4,Anemon Ankara,Ankara,Kızılay,akay Caddesi Konur 2 Sokak No:60 Kavaklıdere  Ankara / Türkiye,8.4,1828,1,0,1,1,0,0,1,0,0
+5,Akar International Hotels,Ankara,Çankaya,Maltepe MahallesiGazi Mustafa Kemal Blv. No:111 Ankara Ankara / Türkiye,8.1,1000,1,0,1,1,1,0,0,0,1
+6,Hotel Cinnah,Ankara,Çankaya,Cinnah cad no:3 çankaya ankara  Ankara / Türkiye,8.3,1069,1,0,1,1,0,0,1,0,0
+7,Sergah Hotel,Ankara,Ulus,Çankırı Cad. no:48 Ulus  Ankara / Türkiye,8.6,800,1,0,1,1,1,0,1,0,0
+8,Blueline Hotel Ankara,Ankara,Çankaya,Turan Güneş Bulvarı Rabinranath Tagore Caddesi 697 Sokak No : 3  Ankara / Türkiye,8.0,661,1,1,1,0,1,0,1,1,0
+9,Inn House Loft & Spa,Ankara,Çankaya,Kırkkonaklar Mah 381. Cadde No:9 Çankaya Ankara Inn House Loft Ankara / Türkiye,8.0,874,1,0,1,1,0,0,1,0,0
+10,Hotel Aldino Ankara,Ankara,Çankaya,Tunalı Hilmi Caddesi  Bülten Sokak  No : 22  Ankara / Türkiye,8.7,1301,1,0,1,1,1,0,1,1,0
+11,Güvenay Business Hotel,Ankara,Çankaya,Anıttepe MahallesiGazi Mustafa Kemal Blv. No:139 Ankara Ankara / Türkiye,8.8,1464,1,0,1,0,0,0,1,1,0
+12,Divan Ankara Çukurhan,Ankara,Ulus,Tarihi Ankara Kalesi Necatibey mah. Depo Sok. No:3 Mahallesi Depo Sokak No:3 Ulus Ankara / Türkiye,8.8,2865,1,0,1,0,0,0,1,0,0
+13,Connect Thermal Hotel Resort ,Ankara,Kazan,Kayı mahallesi  Kayıboyu caddesi no:20  Kahramankazan  ANKARA Ankara / Türkiye,8.5,1900,1,0,1,0,1,0,1,1,1
+14,Etap Mola Ankara,Ankara,Kızılay,Kızılay Mahallesi  İzmir-1 Cadde  No:27 Çankaya Hotel Etap Mola Ankara / Türkiye,7.3,590,1,0,1,0,0,0,1,1,0
+15,Gür Kent Hotel,Ankara,Çankaya,Mithatpasa Cad. No:4 06410 Yenisehir  Ankara / Türkiye,8.4,650,0,0,1,1,0,0,1,0,0
+16,The Life Hotel & Spa Ankara,Ankara,Çankaya,Gaziosmanpaşa Mahallesi  Borazan Sokak No:11 The Life Hotel & Spa Ankara Ankara / Türkiye,8.4,1127,1,0,1,0,0,0,0,1,0
+17,Ostimpark Business Hotel,Ankara,Yenimahalle,Ostim 100. Yıl Bulvarı No: 99/29 Ostimpark Business Hotel Ankara / Türkiye,8.2,1780,1,0,1,1,0,0,0,0,0
+18,Raymar Hotels Ankara,Ankara,Kızılay,Meşrutiyet Mh.Selanik-2. Caddesi No:74 Ankara Raymar Hotels Ankara Ankara / Türkiye,7.9,1520,1,0,1,1,0,0,1,0,0
+19,Check Inn Ankara,Ankara,Çankaya,filistin cadçankayano:1  Ankara / Türkiye,8.6,1125,1,0,1,1,1,0,1,0,0
+20,The Green Park Ankara,Ankara,Çukurambar,Kızılırmak Mah. 1443 Cad. No:39 Çukurambar Çankaya Ankara / Türkiye,8.5,1400,1,0,1,1,1,1,1,1,1
+21,Ataköşk Group Hotel,Ankara,Çukurambar,Kızılırmak  Mevlana Blv. No:148 / Çukurambar / Çankaya / Ataköşk Group Hotel Ankara / Türkiye,8.4,1899,1,0,1,1,1,0,1,1,0
+22,Inn 65 Budget,Ankara,Çankaya,Bahçelievler  Azerbaycan Cd. No:65 Ankara / Türkiye,8.0,720,1,1,1,1,0,0,1,0,0
+23,Armada Grannos Thermal Hotel & Convention Center,Ankara,Haymana,Medrese Mah. Şehitler Cad. No:10 Haymana  Ankara / Türkiye,7.5,2300,1,0,1,1,1,0,1,0,1
+24,No19 Boutique Hotel,Ankara,Çankaya,Birlik Mh457. Sk. No:19 Ankara Ankara / Türkiye,7.9,899,1,0,1,1,1,0,1,1,0
+25,Ankara Plaza Hotel,Ankara,Kavaklıdere,Bestekar Sok. No:5   Ankara / Türkiye,9.1,1329,1,0,1,1,1,0,1,0,0
+26,Midi Hotel Ankara,Ankara,Çankaya,Karyağdı Sok. No:40 Ankara / Türkiye,8.2,1476,1,0,1,1,0,0,1,1,0
+27,Ankara Kayra Hotel,Ankara,Kızılay,kocatepe mah.bayındır 2 Sokak No :46/Kızılay/ Ankara Kayra Hotel Ankara / Türkiye,5.8,500,1,0,1,0,0,0,1,0,0
+28,The Wings Hotels Neva Palas,Ankara,Kavaklıdere,Esat Cad. No:32 Küçükesat/Kavaklıdere/Çankaya The Wings Hotels Neva Palas Ankara / Türkiye,9.3,1632,1,0,1,1,0,0,1,0,0
+29,Kocatepe Hotel,Ankara,Kızılay,MEŞRUTİYET CADDESİ NO 33 Ankara / Türkiye,5.3,750,1,0,1,1,0,0,0,0,0
+30,Best Western Plus Center Hotel Ankara,Ankara,Çankaya,Meşrutiyet Mahallesi  Olgunlar Caddesi  No:5 Ankara / Türkiye,8.9,1400,1,0,1,1,0,1,0,1,0
+31,Doktorun Oteli Haymana - Kaplıca ve Tamamlayıcı Tıp,Ankara,Haymana,Kesikkavak Mahallesi  Gedik Yolu Caddesi no:32  06860 Haymana/Ankara Ankara / Türkiye,7.9,1579,1,0,1,1,0,0,1,0,1
+32,Esila Hotel Ankara,Ankara,Çankaya,Anıttepe MahallesiGazi Mustafa Kemal Blv. No:109 Ankara No:109 Ankara / Türkiye,8.6,870,1,0,1,0,0,0,0,0,0
+33,Ak Life Hotel Suit,Ankara,Çankaya,aziziye mah kırkpınar sok no : 21 Ankara / Türkiye,9.3,1036,1,0,1,1,0,0,0,1,0
+34,Kronos Hotel Ankara,Ankara,Gölbaşı,Sahil Yolu Cad.  Konya Yolu 363 No:2  06830 Gölbaşı/ /Kronos Hotel / Ankara / Türkiye,7.9,1200,1,0,0,1,0,0,1,0,0
+35,Divan Ankara ,Ankara,Çankaya,Yıldızevler  Jose Marti Cd. No:2  06550 Çankaya/Ankara Ankara / Türkiye,9.5,1879,1,0,1,1,1,0,1,0,0
+36,Demonti Otel,Ankara,Kavaklıdere,Akay Caddesi No:8 Kavaklıdere  Ankara / Türkiye,8.8,1190,1,0,1,1,0,0,1,0,0
+37,Hotel İçkale,Ankara,Çankaya,Maltepe MahallesiGazi Mustafa Kemal Blv. No:89 Ankara Ankara / Türkiye,8.2,1226,1,0,1,1,1,1,1,1,1
+38,Bilkent Otel ve Konferans Merkezi,Ankara,Bilkent,Üniversiteler Mah.Ihsan Dogramaci Bul No:6 Bilkent  Ankara / Türkiye,8.9,2584,1,0,1,1,1,0,1,0,1
+39,Maltepe 2000 Hotel,Ankara,Çankaya,Gülseren Sokak No.4 Maltepe  Ankara / Türkiye,8.2,1100,1,0,1,1,0,0,1,0,0
+40,Notte Hotel Ankara,Ankara,Kavaklıdere,Büklüm Sk. No:113 Kavaklıdere  Ankara / Türkiye,8.1,932,1,0,1,0,1,0,1,0,0
+41,Anadolu Hotels Esenboğa Termal Hotel,Ankara,Akyurt,Esenboğa Havaalanı Yolu 27 . Km. Akyurt  Ankara / Türkiye,7.0,1390,1,0,1,1,1,0,1,0,1
+42,Anatolia Luxury Hotel,Ankara,Kızılay,Kültür Mahallesi Libya Caddesi Becerikli Sokak No:23/ Ankara / Türkiye,5.3,400,1,0,1,1,0,0,0,0,0
+43,Limak Ambassadore Hotel,Ankara,Kavaklıdere,Gaziosmanpaşa MahallesiBoğaz Sk. No:19 Ankara Ankara / Türkiye,8.9,1761,1,0,1,1,0,0,0,0,0
+44,Ankara Otel Evren,Ankara,Altındağ,Turgut Reismah. Akşehir Sk. 1/A ULUS/ANKARA Ankara / Türkiye,4.5,399,0,0,1,0,0,0,0,0,0
+45,Wyndham Ankara,Ankara,Söğütözü,Söğütözü MahallesiYaşam Cad. 4. Sokak No:4 Ankara Ankara / Türkiye,9.3,2513,1,0,1,1,1,1,1,1,1
+46,Koza Millenyum Hotel & SPA,Ankara,Ankara Merkez,Koza Sokak No : 148 G.O.PAnkaraTurkey Koza Milenyum HotelSPA Ankara / Türkiye,7.7,799,1,0,1,1,1,0,0,0,1
+47,Asrın Park Hotel & SPA Convention Center,Ankara,Oran,Asrın Park Hotel Dikmen Cad. 843 Sok. No:2 Çankaya  Ankara / Türkiye,8.0,1210,1,0,1,1,1,1,1,0,1
+48,Beypazarı İpekyolu Konağı,Ankara,Beypazarı,No:Kurtuluş MahallesiEski Hükümet Sk No:1 Beypazarı  /,7.3,600,1,0,1,1,0,0,0,0,0
+49,KuyaşApartHotel,Ankara,Gölbaşı,BAHÇELİ EVLER MAHALLESİ 281. SOKAK NO:16 GÖLBAŞI/ANKARA Ankara / Türkiye,7.5,675,1,0,1,0,0,0,0,0,0
+50,Hotel Best Ankara,Ankara,Çankaya,Ataturk Bulvari No195 Kavaklidere Ankara / Türkiye,8.0,1022,1,0,1,1,0,1,1,0,0
+51,Çelik Termal Butik Otel,Ankara,Ayaş,Hacımemi Mahallesi Ayaş Bulvarı No:5 Ayaş/Ankara Hacımemi Mahallesi Ayaş Bulvarı No:5 Ayaş/Ankara Ankara / Türkiye,7.1,1957,1,0,1,1,0,0,1,0,1
+52,Yeni Bahar Hotel,Ankara,Ulus,Anafartalar MahallesiÇankırı Cd. No:25 Ankara Ankara / Türkiye,8.3,902,1,0,1,1,0,0,1,0,0
+53,Asrın Park Hotel & SPA Convention Center,Ankara,Oran,Asrın Park Hotel Dikmen Cad. 843 Sok. No:2 Çankaya  Ankara / Türkiye,8.0,1210,1,0,1,1,1,1,1,0,1
+54,Beypazarı İpekyolu Konağı,Ankara,Beypazarı,No:Kurtuluş MahallesiEski Hükümet Sk No:1 Beypazarı  /,7.3,600,1,0,1,1,0,0,0,0,0
+55,Yeni Bahar Hotel,Ankara,Ulus,Anafartalar MahallesiÇankırı Cd. No:25 Ankara Ankara / Türkiye,8.3,902,1,0,1,1,0,0,1,0,0
+56,Elit Palas Hotel,Ankara,Kavaklıdere,Kavaklıdere MahallesiBestekar Sk. No:26 Ankara Ankara / Türkiye,7.9,1069,1,0,1,1,0,0,1,1,0
+57,City Hotel Ankara,Ankara,Çankaya,Turan Güneş Bulvarı no:19 Yıldız Ankara / Türkiye,5.3,1147,0,0,1,1,1,0,0,1,0
+58,Ramada by Wyndham Ankara,Ankara,Kavaklıdere,Tunali Hilmi caddesi No:66 Kavaklidere  Ankara / Türkiye,8.6,1234,1,1,1,1,1,0,1,0,0
+59,A Apart Hotels Ankara Beytepe,Ankara,Çankaya,Beytepe Mah.1815 Sk No:33-35 Ankara / Türkiye,6.7,750,1,0,1,1,0,0,0,0,0
+60,VE Hotels Gölbaşı ,Ankara,Gölbaşı,Gaziosmanpaşa MahallesiKonya Yolu 22. Km363. Sok. No:6 /Gölbaşı/ Ankara/ VE Hotels Gölbaşı Vilayetler Evi Ankara / Türkiye,8.5,1150,1,0,1,1,0,0,1,1,0
+61,Asal Hotel Ankara,Ankara,Ulus,DoğanbeyÇankırı Cd No:29 Altındağ Ankara / Türkiye,9.3,588,1,0,1,0,0,0,1,0,0
+62,A Apart Otel Kavaklıdere,Ankara,Kavaklıdere,Güvenevler MahallesiGüneş Sk. No:19 Ankara Ankara / Türkiye,10.0,610,1,0,1,1,0,0,0,0,0
+63,Hotel 2000 Kavaklıdere,Ankara,Kavaklıdere,Bestekar Sokak No.29 Kavaklıdere  Ankara / Türkiye,8.0,1049,1,0,1,1,0,0,1,0,0
+64,Rota Bulvar Hotel ,Ankara,Ankara Merkez,cumhuriyet mah. atatürk bulvarı no 63 rota bulvar otel cumhuriyet mah. atatürk bulvarı no 63 rota bulvar otel Ankara / Türkiye,4.9,545,1,0,1,1,0,0,0,1,0
+65,Cadence Design Hotel,Ankara,Çankaya,Filistin Caddesi No 43  Gaziosmanpasa  Cankaya  Ankara / Türkiye,6.2,703,1,1,1,1,0,0,1,0,0
+66,Atalay Hotel Ankara,Ankara,Ulus,Çankırı cd. no:20 06030 Ulus  Ankara / Türkiye,8.0,838,1,0,1,0,1,0,1,0,0
+67,Dr. Aslan Aile Apartı,Ankara,Çubuk,esenboğa mah. atatürk cad. bereket sokak no:8  Ankara / Türkiye,9.5,853,1,1,1,1,0,0,0,0,0
+68,Peracity Hotel Ankara,Ankara,Altındağ,Rüzgarlı cd No:10/A Altındağ Ankara  Ankara / Türkiye,7.7,750,1,0,1,0,0,0,1,1,0
+69,City Hotel Ankara,Ankara,Çankaya,Turan Güneş Bulvarı no:19 Yıldız Ankara / Türkiye,5.3,1147,0,0,1,1,1,0,0,1,0
+70,Animos Suit Otel,Ankara,Dikmen,Aydınlar  Pirsultan Sk. No:8  06460 Çankaya/Ankara Ankara / Türkiye,6.0,705,1,0,1,1,0,0,0,0,0
+71,The Ankara Hotel,Ankara,Çankaya,Eti Mahallesi Celal Bayar Bulvarı No:78 Maltepe /Çankaya Ankara / Türkiye,8.9,1725,1,0,1,1,0,0,1,0,0
+72,Colorful Apart Ankara,Ankara,Çankaya,Aşağı öveçler mahallesi  1314. Cadde  No:15 Ankara / Türkiye,2.0,400,1,1,1,1,0,0,0,0,0
+73,Class Hotel,Ankara,Çankaya,Bestekar Sok.no:64 Kavaklıdere  Ankara / Türkiye,8.3,1068,1,0,1,1,0,0,1,0,0
+74,Gordion Hotel,Ankara,Kavaklıdere,Remzi Oğuz Arık Mahallesi  Büklüm Caddesi  No:59 Ankara / Türkiye,7.8,1314,1,0,1,1,0,0,0,1,0
+75,Twins Boutique Hotel,Ankara,Çankaya,Boğaz Sokak No:18 Ankara / Türkiye,7.4,882,1,0,0,0,0,0,0,1,0
+76,Latanya Hotel Ankara,Ankara,Kavaklıdere,Büklüm Sokak No:1 Kavaklıdere  Ankara / Türkiye,9.0,2938,1,0,1,1,1,1,1,0,1
+77,Midas Hotel Haymana Termal,Ankara,Haymana,Caldag Mah. Erguvan Cad. No:10 Haymana  Ankara / Türkiye,10.0,2000,1,0,1,1,1,0,1,0,1
+78,Meyra Palace,Ankara,Çankaya,Muhsin Yazıcıoğlu Caddesi No : 55  Ankara / Türkiye,8.0,2340,1,0,1,1,1,0,1,0,1
+79,Kaplıca Termal Otel,Ankara,Kızılcahamam,Yenice Mah.Milli Egemenlik Cd. No:20 Ankara Ankara / Türkiye,8.4,1450,1,1,1,0,1,0,1,1,0
+80,Grand Silay Hotel,Ankara,Kızılay,Kocatepe mahallesi meşrutiyet caddesi no:40/06620 / Kızılay/Çankaya/Ankara/ Grand Silay Hotel Ankara / Türkiye,8.5,900,1,0,1,1,1,0,1,1,0
+81,Grand Mercure Ankara,Ankara,Söğütözü,Bestepeler Mah. Yasam Cad. No. 7 / B Sogutozu/Yenimahalle/ Ankara / Türkiye,8.8,1958,1,0,1,1,1,0,1,0,1
+82,Özdemir Hotel,Ankara,Çankaya,CUMHURİYET MH BAYINDIR1 SK NO 24 Ankara / Türkiye,7.9,649,1,0,1,0,0,0,1,1,0
+83,Abdullah Resort Hotel,Ankara,Polatlı,Cumhuriyet MahallesiNasrettin Hoca Blv. No:9 Ankara Ankara / Türkiye,6.7,1122,1,0,1,1,1,0,1,0,0
+84,Eliz Hotel Convention Center Thermal Spa & Wellness,Ankara,Kızılcahamam,ismetpaşa Mahallesi  Şehit Gülşenler Cad.No: 7/1Kızılcahamam  1. Cd.  06890 Kızılcahamam/Ankara Ankara / Türkiye,8.4,2927,1,0,1,1,1,1,1,1,1
+85,Koza Suit Otel,Ankara,Çankaya,Koza sokak No:52 06700 Gaziosmanpaşa Çankaya  Ankara / Türkiye,8.7,979,1,1,1,1,0,0,1,0,0
+86,Ankara Royal Hotel,Ankara,Kavaklıdere,Büklüm Sk No: 37 Kavaklidere  06650 Ankara  Ankara / Türkiye,8.4,892,1,0,1,0,1,0,1,0,0
+87,Ontur Butik Otel Ankara,Ankara,Çankaya,Gaziosmanpaşa MahallesiJohn F. Kennedy Cd. No:144 Çankaya Ankara / Türkiye,8.9,950,1,0,1,1,0,0,0,0,0
+88,Mimi Hotel Ankara,Ankara,Kavaklıdere,Kazım Özalp Mah.Kuleli Cad.No:51 Çankaya Koru Hotel Çankaya/Ankara Ankara / Türkiye,8.9,1120,1,0,1,1,1,0,0,0,0
+89,Metropolitan Hotel Ankara,Ankara,Söğütözü,Oğuzlar Mah. 1377.Sk. No:28 Balgat Balgat Ankara / Türkiye,8.8,2409,1,0,1,1,1,0,1,1,1
+90,İkbalhan Otel,Ankara,Polatlı,Cumhuriyet MahallesiAtatürk Cd. No:41 Ankara ankara / polatlı  Ankara / Türkiye,5.8,926,1,0,1,1,0,0,1,1,0
+91,Prestige Thermal Hotel Spa,Ankara,Ayaş,Hacıveli Mahallesi Ankara Caddesi No:1 Ayaş  Ankara / Türkiye,6.4,2200,1,0,1,1,1,0,1,1,1
+92,The Corner Hotel Sincan,Ankara,Sincan,Ahi Evran Mahallesi Bahçe Caddesi No: 40 Sincan  Ankara / Türkiye,9.1,2176,1,0,1,1,0,0,1,0,0
+93,İlci Residence Hotel,Ankara,Maltepe,Maltepe MahallesiGazi Mustafa Kemal Blv. No:135 Ankara Ankara / Türkiye,8.6,1650,1,0,1,1,1,1,1,1,0
+94,Turist Hotel,Ankara,Ulus,Doğanbey Mh.  Çankırı Cd No:37  06620  Ankara / Türkiye,5.8,779,1,0,1,1,0,0,1,0,0
+95,Park 12 Apart Otel,Ankara,Çankaya,Kazım Özalp Mahallesi Kız Kulesi Sokak 12 Numara Ankara / Türkiye,5.6,952,1,0,1,1,0,0,0,1,0
+96,Midas Hotel,Ankara,Çankaya,Tunus Cad.No:20 Kavaklıdere  Ankara / Türkiye,6.5,1234,1,0,1,0,1,0,1,0,0
+97,Siyav Otel,Ankara,Kavaklıdere,Kavaklıdere MahallesiKonur Sk. No:56 Ankara Ankara / Türkiye,6.0,962,0,0,1,1,0,0,0,0,0
+98,Hotel Monec,Ankara,Oran,Esat Özoğuz Sokak No:5 Oran  Oran Ankara / Türkiye,8.9,1900,1,0,1,1,1,0,1,1,1
+99,Alp Inn Suits Ankara,Ankara,Kavaklıdere,Güzeltepe Mahallesi  Abidin Daver Sokak  No:3  Ankara / Türkiye,6.0,1160,1,0,0,0,1,0,1,0,0
+100,Maxx Royal Belek Golf Resort,Antalya,Belek,Belek Mah. İskele Cad.Maxx Royal Blok No: 21/14İç Kapı No: Z1Serik Antalya / Türkiye,9.8,17290,1,0,1,1,1,1,1,1,1
+101,DoubleTree by Hilton Antalya City Center,Antalya,Muratpaşa,Etiler Mah. Adnan Menderes Bulvarı No:61 Antalya / Türkiye,9.2,2750,1,0,1,1,1,1,1,1,1
+102,Kadir's Tree Houses,Antalya,Olimpos Mevkii,Yazir Koyu Kumluca  Olimpos Antalya / Türkiye,7.2,1000,1,0,1,0,0,0,1,0,0
+103,First Class Hotel Alanya,Antalya,Kargıcak,D-400 Karayolu Uzeri Kargicak Beldesi Antalya / Türkiye,6.5,1000,1,0,1,0,1,0,1,0,1
+104,Green Garden Resort Hotel,Antalya,Obagöl,Göl Mahallesi 4.Sokak No:3  Antalya / Türkiye,9.1,1900,1,0,0,0,1,0,1,0,1
+105,Hawaii Suit Beach Hotel,Antalya,Alanya Merkez,Guller Pinari Mah. Ahmet Asim Tokus Bulvari No:125  Antalya / Türkiye,7.4,399,1,0,1,1,0,0,1,0,1
+106,Sette Serenity Hotel,Antalya,Alanya Merkez,Oba Mah. 8.Sok. No:8 Antalya / Türkiye,8.2,765,0,0,1,1,1,0,1,0,1
+107,Susesi Luxury Resort,Antalya,Belek,Iskele MevkiiBelek Antalya  Türkiye  Antalya / Türkiye,9.3,8100,1,0,1,0,1,0,1,0,1
+108,Kleopatra Bebek Otel,Antalya,Alanya,Saray MahallesiGüzelyalı CadBebek Sk. No:5 Antalya Antalya / Türkiye,7.0,400,1,0,1,1,1,0,1,1,1
+109,Tourist Hotel Antalya,Antalya,Lara-Kundu,Güzeloba Mah. Örnekköy Cad.No:5 Antalya / Türkiye,6.9,773,1,0,1,1,1,0,1,0,1
+110,Ersoy Ağa Otel Pansiyon,Antalya,Muratpaşa,Muratpaşa Mahallesi569. Sk. No:5 Antalya Antalya / Türkiye,3.6,285,1,0,1,1,0,0,0,0,0
+111,Porto Bello Hotel,Antalya,Konyaaltı,Liman Mh.Akdeniz Bulvarı . 1. Sk. Antalya Antalya / Türkiye,6.0,2610,1,0,1,1,1,1,1,1,1
+112,Golden Orange Hotel,Antalya,Konyaaltı,Gürsü Mahallesi  304 Sokak  No:52 Antalya / Türkiye,8.0,775,1,0,1,0,0,0,1,1,1
+113,Prime Otel,Antalya,Muratpaşa,Genclik Mah. Tevfik Işık Cad.   /,8.9,1240,1,0,1,1,1,1,0,0,1
+114,IC Hotels Santai Family Resort,Antalya,Belek,Üç Kum Tepesi Mevkii / BELEK  Antalya / Türkiye,9.1,4630,1,0,1,0,1,1,0,0,1
+115,Doria Hotel Yacht Club Kaş,Antalya,Kaş Merkez,Uğur Mumcu Cad. Yat Limanı İçi Antalya / Türkiye,9.5,4080,1,1,1,1,0,0,1,0,1
+116,Bilem Hotel Beach & Spa,Antalya,Muratpaşa,Eski Lara Yolu Şirinyalı mah. 1512 Sok. No: 2  Antalya / Türkiye,6.8,1371,1,0,1,1,1,0,1,0,0
+117,Tema Lara Apart ,Antalya,Muratpaşa,Çağlayan Mahallesi2008. Sk. No:11  Antalya / Türkiye,6.5,676,1,0,1,1,0,0,0,0,0
+118,Sherwood Exclusive Lara,Antalya,Lara-Kundu,Kemerağzı MahallesiKemeragzi Koyu Kopak Çay Mevkii Aksu Antalya / Türkiye,9.3,2380,1,0,1,1,1,1,1,0,1
+119,IC Hotels Green Palace,Antalya,Lara-Kundu,Ozlu Koyu Kocacam Kundu Mevkii Antalya Kundu Antalya / Türkiye,9.1,4630,1,0,1,0,1,1,1,0,1
+120,True Blue Boutique Hotel,Antalya,Kalkan,Kalkan Mah. Begonvil Sok. No: 25 Kaş/ANTALYA Antalya / Türkiye,10.0,2011,1,1,1,1,0,0,0,0,1
+121,Tema Martılı Apart,Antalya,Lara-Kundu,Güzeloba Mah. 2359. Sok No:3 Antalya / Türkiye,4.5,751,1,0,1,1,0,0,0,0,1
+122,Peninsula Gardens Hotel (Adults Only +14),Antalya,Kaş,Selahattin Sönmez Cad. Andifli Sok. No:6 Cukurbag Peninsula Antalya / Türkiye,9.7,3068,0,0,1,1,1,1,0,1,1
+123,Sun Hotel By En Vie Beach +16,Antalya,Alanya Merkez,Güllerpınarı Mah. Ahmet Asım Tokuş Cad. No: 24 Antalya / Türkiye,7.4,828,0,0,1,1,0,0,1,0,0
+124,Tema 242 Hotel,Antalya,Muratpaşa,Yeşilbahçe Mahallesi 1470 Sokak No:20 Yeşilbahçe Mahallesi 1470 Sokak No:20 Antalya / Türkiye,8.0,989,1,0,1,1,0,0,0,0,1
+125,Mera Park Hotel,Antalya,Muratpaşa,Zerdalilik Mah. Cebesoy cad. 1385 Sok. No:2 Antalya / Türkiye,6.6,522,1,0,1,1,0,0,1,1,0
+126,Club Çapa,Antalya,Kaş,Çukurbağ Yarimadasi.No:8  Kaş  Türkiye Antalya / Türkiye,6.6,913,1,0,0,1,1,0,1,0,1
+127,Elips Royal Hotel,Antalya,Muratpaşa,Etiler Mah. 851. Sok. No:2 Antalya / Türkiye,8.0,1068,1,0,1,1,1,0,1,0,1
+128,Simge Pansiyon,Antalya,Çıralı,Kemer Antalya / Türkiye,6.0,791,1,0,1,1,0,0,1,0,0
+129,Liman Boutique Otel,Antalya,Kemer Merkez,Merkez mahallesi liman caddesi Merkez mahallesi liman caddesi Antalya / Türkiye,5.2,396,1,0,1,1,0,0,1,0,0
+130,Luna Beach Hotel Alanya,Antalya,Alanya,Tosmur Merkez Mah 7 Sok No:2 Antalya / Türkiye,5.7,475,1,0,1,1,0,0,1,0,1
+131,Side Özgürhan Otel,Antalya,Manavgat,13 Cennetler Caddesi Antalya / Türkiye,6.7,425,1,0,1,1,0,0,1,0,1
+132,Sweet Home Butik Otel,Antalya,Side,Kemer Mah 1504 Sk. No. 7  Antalya / Türkiye,9.0,741,1,0,0,1,1,1,1,0,1
+133,Aspen Hotel,Antalya,Kaleiçi,Selçuk Mahallesi Mermerli SOKAK.No:25 Kaleiçi  Muratpaşa Antalya / Türkiye,8.5,887,1,0,1,1,0,0,1,0,1
+134,Özyiğit Otel,Antalya,Gazipaşa,Cumhuriyet Mahallesi  Ulusal Egemenlik Bulvarı 105  Antalya / Türkiye,9.0,1691,1,0,1,1,1,0,1,0,0
+135,Sunway Apart Otel,Antalya,Alanya,Kızlar Pınarı Mah. Yıldız Sk. No:18 Antalya / Türkiye,3.0,469,1,0,1,0,0,0,1,0,1
+136,Gemicihan Bungalow Pansiyon,Antalya,Adrasan,Adrasan MahallesiAdrasan Yolu Antalya Antalya / Türkiye,7.1,807,1,0,1,1,0,0,1,1,1
+137,Afflon Hotels Loft City,Antalya,Muratpaşa,Deniz Mahallesi 121. Sokak No:6 TürkTelekom Sitesi Antalya / Türkiye,8.1,1335,1,0,1,1,0,0,1,1,0
+138,Hadrian Gate Hotel,Antalya,Kaleiçi,Barbaros mahallesıhesapçı sokakno:10 muratpaşa  Antalya / Türkiye,8.0,751,1,0,1,0,0,0,1,0,1
+139,RodINN Park HOTEL,Antalya,Konyaaltı,ALTINKUM MAHALLESİ 445 SOKAK NO 1 Antalya / Türkiye,8.8,1316,1,0,1,1,0,0,1,1,1
+140,Q Spa Resort,Antalya,Evrenseki,Evren mahallesi 3.sokak no.6 Yeni Palmiye Sitesi Yanı  Evrenseki Antalya / Türkiye,8.8,1133,1,1,1,0,1,0,1,0,1
+141,Koala Bungalows,Antalya,Olimpos Mevkii,Yazır Köyü Kilise Yakası Mevkii Köy Sokağı No: 136 / A Antalya / Türkiye,9.2,1235,1,1,1,1,0,0,1,0,1
+142,Canada Hotel ve Bungalows,Antalya,Çıralı,Çıralı Mah. Ulupınar Köyü No:77 Kemer  Antalya / Türkiye,9.2,981,1,0,1,0,0,0,1,1,1
+143,Grand Erken Hotel,Antalya,Kaleiçi,Barbaros MahallesiHadi Efendi Sk. Antalya Antalya / Türkiye,7.7,592,1,0,1,0,0,0,0,0,0
+144,Kutle Hotel Çıralı,Antalya,Çıralı,Ulupinar Koyu Cirali Mahallesi  Antalya / Türkiye,8.8,1357,1,1,1,0,0,0,1,0,0
+145,Af-Ra Hotel,Antalya,Konyaaltı,Arapsuyu Mah. Kuşkavağı Cad. No:16 Antalya / Türkiye,9.3,902,1,0,1,1,0,0,1,0,1
+146,Yıldız Apart Demre,Antalya,Demre,beymelek mahallesi saz 1. Sokak no:27 Antalya / Türkiye,9.5,546,1,0,1,1,0,0,0,0,0
+147,Hotel Lunay,Antalya,Konyaaltı,Arapsuyu Mahallesi642. Sk. No:30 Antalya Antalya / Türkiye,6.0,633,1,0,1,1,0,0,1,0,1
+148,Trend Park Hotel,Antalya,Konyaaltı,608. Sokak No:1 Antalya / Türkiye,6.9,2255,1,0,1,0,0,0,1,0,1
+149,Lucky Monkey Hotel,Antalya,Muratpaşa,Yeşilbahçe  1470 Sokak No:14 Antalya / Türkiye,8.7,1761,1,0,1,1,1,0,1,1,1
+150,Eski Masal Hotel (Adult Only +11),Antalya,Kaleiçi,Barbaros Mh. Mescit Sk. No : 25 Muratpaşa  Antalya / Türkiye,2.7,3415,0,0,1,0,0,0,1,0,1
+151,Tamara Business Antalya,Antalya,Muratpaşa,Tahılpazarı Mahallesi 466 Sokak No: 4  /,5.5,1200,1,0,1,1,1,1,1,1,1
+152,Anjeliq House Hotel,Antalya,Alanya Merkez,Güllerpınarı mah  Ahmet Tokuş blv  buıldıng 44  07400 Alanya/ Alanya Turkey Antalya / Türkiye,8.0,1080,1,0,0,0,0,0,0,0,0
+153,Day One Beach Resort & Spa,Antalya,Alanya,Cumhuriyet  Ahmet Tokuş Blv. No:100  Antalya / Türkiye,9.5,2469,0,0,0,0,0,0,0,0,1
+154,Ahsen Hotel,Antalya,Antalya Şehiriçi,Muratpaşa Mah. 592 sok no:18 Antalya / Türkiye,4.4,630,1,0,1,1,0,0,1,0,0
+155,Zinbad Hotel,Antalya,Kalkan,Mustafa Kocakaya Cad. No:26 Kalkan Antalya / Türkiye,8.5,1167,1,0,1,1,0,0,1,0,0
+156,Hera Hotel Kaş,Antalya,Kaş Merkez,Küçükçakıl Mevkii - Kaş  Antalya / Türkiye,7.8,1282,1,0,1,1,1,0,1,0,1
+157,Aspen Hotel,Antalya,Kaleiçi,Selçuk Mahallesi Mermerli SOKAK.No:25 Kaleiçi  Muratpaşa Antalya / Türkiye,8.5,887,1,0,1,1,0,0,1,0,1
+158,Sunway Apart Otel,Antalya,Alanya,Kızlar Pınarı Mah. Yıldız Sk. No:18 Antalya / Türkiye,3.0,469,1,0,1,0,0,0,1,0,1
+159,Monna RozaApart,Antalya,Kemer Merkez,merkez mah 134 sok no:6 Antalya / Türkiye,5.0,541,1,0,1,1,0,0,0,0,1
+160,Joyy Suit Apart,Antalya,Kaş,ANDİFLİ MAH. HALK KONUTLARI SOK. NO:1 Antalya / Türkiye,9.0,1409,1,0,1,1,0,0,0,0,0
+161,Niss Lara Hotel,Antalya,Lara-Kundu,Çağlayan Mahallesi 2049 Sk N0:16 Antalya / Türkiye,7.2,1112,1,0,1,1,0,0,0,0,1
+162,Erdem Hotel,Antalya,Konyaaltı,Akdeniz Bulvarı No:122 Antalya / Türkiye,5.5,800,1,1,1,1,1,0,0,1,0
+163,Etenna Bungalow,Antalya,Çıralı,Sahil Yolu CiraliUlupınar Mahallesi Antalya / Türkiye,7.7,2370,1,1,1,1,0,0,1,0,0
+164,Old Town Point Hotel,Antalya,Antalya Merkez,ALTINDAĞ MAH. GÜLLÜK CAD. NO: 63 İÇ KAPI NO: 1 Antalya / Türkiye,9.1,964,1,0,1,1,1,0,1,0,1
+165,Villa Efsane Apart Bungalows,Antalya,Çıralı,Ulupınar Mah. Çıralı Sk. No:195/2 Çıralı / Kemer Antalya / Türkiye,9.4,1221,1,0,1,1,0,0,0,0,0
+166,Payava Hotel by True Blue,Antalya,Kalkan,Kalkan Mahallesi Cumhuriyet Caddesi No:80 Antalya / Türkiye,9.9,1527,1,0,1,1,0,0,0,0,1
+167,Alanya Beach Otel,Antalya,Alanya Merkez,Güller Pınarı Mah. Saracoğlu Cad. No:6  Antalya / Türkiye,8.2,712,1,0,1,1,0,0,1,0,1
+168,Minta Apart Otel,Antalya,Kemer,Yeni Mahalle Atatürk Bulvarı No:59 Kemer Antalya Antalya Antalya / Türkiye,6.0,676,1,0,1,0,0,0,1,0,1
+169,Conny's Boutique Hotel,Antalya,Manavgat,Side mah. 511 sokak no 4  Antalya / Türkiye,6.0,1187,0,0,1,1,0,0,1,1,1
+170,Palma Rosa Hotel,Antalya,Çamyuva,Çamyuva Mh.Ahmet Can C. no:18  Antalya / Türkiye,6.0,611,1,0,1,1,0,0,1,0,1
+171,Ada Apart Otel,Antalya,Konyaaltı,Kuşkavağı Mahallesi  551.SOKAK NO:1 Antalya / Türkiye,6.0,710,1,0,1,1,0,0,0,0,1
+172,HavaSuPark Bungalow,Antalya,Mavikent,Arpabeleni  Mavikent  Kumluca Antalya / Türkiye,6.0,1045,1,1,1,1,0,0,1,0,1
+173, My Home Apart Alanya,Antalya,Alanya,Saray Mah.  Atatürk Cad.  Latif Ergün Sok.  No 4 Antalya / Türkiye,6.0,665,1,0,1,1,1,1,1,1,1
+174,Arcadia Beach,Antalya,Çıralı,Çıralı Mahallesi No:403 Antalya / Türkiye,6.0,1577,1,0,1,0,1,0,0,0,0
+175,Summer Rose Hotel,Antalya,Side,Side Mah. Cennetler Mevkii  Fatih Sultan Mehmet Bulvarı. No: 57  Side Antalya / Türkiye,7.2,445,1,0,1,1,0,0,1,1,1
+176,Select Apart Hotel,Antalya,Alanya,Kadıpaşa MahallesiSipahiler Sk. No:7 Antalya / Türkiye,6.3,476,1,0,1,1,1,0,1,1,1
+177,Estera Hotel & Spa,Antalya,Muratpaşa,çağlayan mah 2052 sok no 19 Antalya / Türkiye,9.6,1088,1,0,1,0,1,0,0,0,1
+178,Dolunay Apart Otel,Antalya,Çıralı,Ulupınar Mahallesi çıralı sokak no93 kemer/Antalya Antalya / Türkiye,9.5,2018,1,0,1,1,0,0,1,0,1
+179,Day One Beach Resort & Spa,Antalya,Alanya,Cumhuriyet  Ahmet Tokuş Blv. No:100  Antalya / Türkiye,9.5,2469,0,0,0,0,0,0,0,0,1
+180,Sweet Home Butik Otel,Antalya,Side,Kemer Mah 1504 Sk. No. 7  Antalya / Türkiye,9.0,741,1,0,0,1,1,1,1,0,1
+181,Side Özgürhan Otel,Antalya,Manavgat,13 Cennetler Caddesi Antalya / Türkiye,6.7,425,1,0,1,1,0,0,1,0,1
+182,Hillcity Hotel Kaş (Adults Only +14),Antalya,Kaş,Çukurbağ Yarımadası Andifli Mah. Beyhan Cenkçi Cad. No:51/1 Antalya / Türkiye,8.0,1015,0,0,1,1,0,0,0,1,0
+183,A Suite Side ,Antalya,Manavgat,Side  1095. Sk.  07330 Manavgat/Antalya  Türkiye Antalya / Türkiye,10.0,1127,1,0,1,1,1,0,0,1,1
+184,Upper House Hotel,Antalya,Kaş,PTT Cad.Ozturk Sk.No:15 Antalya  Kaş  Türkiye Antalya / Türkiye,7.7,594,1,0,1,1,0,0,0,0,0
+185,Erdem Hotel,Antalya,Konyaaltı,Akdeniz Bulvarı No:122 Antalya / Türkiye,5.5,800,1,1,1,1,1,0,0,1,0
+186,Etenna Bungalow,Antalya,Çıralı,Sahil Yolu CiraliUlupınar Mahallesi Antalya / Türkiye,7.7,2370,1,1,1,1,0,0,1,0,0
+187,Old Town Point Hotel,Antalya,Antalya Merkez,ALTINDAĞ MAH. GÜLLÜK CAD. NO: 63 İÇ KAPI NO: 1 Antalya / Türkiye,9.1,964,1,0,1,1,1,0,1,0,1
+188,Villa Efsane Apart Bungalows,Antalya,Çıralı,Ulupınar Mah. Çıralı Sk. No:195/2 Çıralı / Kemer Antalya / Türkiye,9.4,1221,1,0,1,1,0,0,0,0,0
+189,Alanya Beach Otel,Antalya,Alanya Merkez,Güller Pınarı Mah. Saracoğlu Cad. No:6  Antalya / Türkiye,8.2,712,1,0,1,1,0,0,1,0,1
+190,Payava Hotel by True Blue,Antalya,Kalkan,Kalkan Mahallesi Cumhuriyet Caddesi No:80 Antalya / Türkiye,9.9,1527,1,0,1,1,0,0,0,0,1
+191,Innvista Hotel,Antalya,Belek,Kadriye Mahallesi  Besgoz Cad. No:8-1 Serik  Belek  Türkiye Antalya / Türkiye,8.8,1700,1,0,1,0,1,0,0,0,1
+192,Conny's Boutique Hotel,Antalya,Manavgat,Side mah. 511 sokak no 4  Antalya / Türkiye,6.0,1187,0,0,1,1,0,0,1,1,1
+193,Palma Rosa Hotel,Antalya,Çamyuva,Çamyuva Mh.Ahmet Can C. no:18  Antalya / Türkiye,6.0,611,1,0,1,1,0,0,1,0,1
+194,Ada Apart Otel,Antalya,Konyaaltı,Kuşkavağı Mahallesi  551.SOKAK NO:1 Antalya / Türkiye,6.0,710,1,0,1,1,0,0,0,0,1
+195,HavaSuPark Bungalow,Antalya,Mavikent,Arpabeleni  Mavikent  Kumluca Antalya / Türkiye,6.0,1045,1,1,1,1,0,0,1,0,1
+196, My Home Apart Alanya,Antalya,Alanya,Saray Mah.  Atatürk Cad.  Latif Ergün Sok.  No 4 Antalya / Türkiye,6.0,665,1,0,1,1,1,1,1,1,1
+197,Arcadia Beach,Antalya,Çıralı,Çıralı Mahallesi No:403 Antalya / Türkiye,6.0,1577,1,0,1,0,1,0,0,0,0
+198,Kimera Lounge Hotel,Antalya,Çıralı,Ulupınar KöyüÇıralı Mah. No: 492 Kemeryolu No: 492  Kemer  Antalya / Türkiye,6.0,1681,1,0,1,1,1,1,1,1,1
+199,Minta Apart Otel,Antalya,Kemer,Yeni Mahalle Atatürk Bulvarı No:59 Kemer Antalya Antalya Antalya / Türkiye,6.0,676,1,0,1,0,0,0,1,0,1
+200,Esperanza Boutique Hotel Of Lykia,Antalya,Kumluca,Mavikent Mahallesi  Karaöz mevkii okul sokak  no:35 Antalya / Türkiye,9.3,1490,0,0,1,1,0,0,1,0,1
+201,Hotel 1207,Antalya,Kaleiçi,Kaleiçi Barbaros Mah. Koacatepe sk. No:13 Antalya / Türkiye,7.8,1305,1,0,1,1,0,0,0,0,0
+202,Holiday Inn Antalya Lara,Antalya,Muratpaşa,Guzeloba Mah. 2290 Sok. No:5 Antalya / Türkiye,8.9,1296,1,0,1,1,0,1,1,1,1
+203,The Mori Club Hotel,Antalya,Lara-Kundu,Çağlayan Mah. 2053. Sk. No:46 Antalya / Türkiye,8.7,1172,1,0,1,1,0,0,1,0,0
+204,Kleopatra Wasa Hotel,Antalya,Alanya Merkez,saray mah. alaatınoglu sk alanya no 11 Antalya / Türkiye,8.7,700,1,0,1,1,0,0,1,0,0
+205,Kaleiçi Marina Boutique Hotel,Antalya,Kaleiçi,Selcuklu Mah.Mermerli Sok.No.4Kaleiçi Antalya / Türkiye,8.4,1041,1,0,0,1,0,0,1,1,0
+206,Prana Resort Doğan Hotel ,Antalya,Kaleiçi,Mermerli Banyo Sok. No:5 Kaleiçi Muratpaşa No:5 Kaleiçi Antalya / Türkiye,8.0,967,1,0,1,1,0,0,1,1,1
+207,Lemon Garden Lodge,Antalya,Çıralı,Ulupınar mahallesi. Çıralı mevkii NO: 226  Antalya / Türkiye,9.0,921,1,0,1,1,0,0,1,0,0
+208,Route Hotel Kaleiçi (Adult Only),Antalya,Kaleiçi,Kılınçarslan Mah. Hıdırlık Sk. No:23 Antalya / Türkiye,9.4,1088,0,0,1,1,0,0,1,0,0
+209,Perge Hotels - Adult only +18,Antalya,Muratpaşa,Gençlik Mahallesi1311. Sk. No:5  Antalya / Türkiye,8.0,2612,0,0,1,1,1,0,1,1,0
+210,Taş Motel,Antalya,Side,Selimiye Mah. Sümbül Sk. No:24/A Side  Antalya / Türkiye,6.2,790,1,0,1,0,0,0,1,0,0
+211,Polat Tatil Evleri,Antalya,Alanya,obagol mah. mesut caddesi haytur apt no;23 Antalya / Türkiye,9.1,712,1,0,1,0,0,0,0,0,1
+212,Aspendos Seaside,Antalya,Konyaaltı,Altınkum mah413. Sokak No:1  Antalya / Türkiye,9.0,989,1,0,1,1,0,0,0,0,1
+213,Park Marina Hotel,Antalya,Kemer Merkez,merkez mah. deniz cad. no:54 Antalya / Türkiye,7.2,332,1,0,1,0,0,0,1,0,1
+214,Prana Resort Doğan Hotel ,Antalya,Kaleiçi,Mermerli Banyo Sok. No:5 Kaleiçi Muratpaşa No:5 Kaleiçi Antalya / Türkiye,8.0,967,1,0,1,1,0,0,1,1,1
+215,Lemon Garden Lodge,Antalya,Çıralı,Ulupınar mahallesi. Çıralı mevkii NO: 226  Antalya / Türkiye,9.0,921,1,0,1,1,0,0,1,0,0
+216,Route Hotel Kaleiçi (Adult Only),Antalya,Kaleiçi,Kılınçarslan Mah. Hıdırlık Sk. No:23 Antalya / Türkiye,9.4,1088,0,0,1,1,0,0,1,0,0
+217,Perge Hotels - Adult only +18,Antalya,Muratpaşa,Gençlik Mahallesi1311. Sk. No:5  Antalya / Türkiye,8.0,2612,0,0,1,1,1,0,1,1,0
+218,Taş Motel,Antalya,Side,Selimiye Mah. Sümbül Sk. No:24/A Side  Antalya / Türkiye,6.2,790,1,0,1,0,0,0,1,0,0
+219,Cicerone Lodge Hotel,Antalya,Kaleiçi,Barbaros Mah. Hesapcı Sokak No.14 Antalya / Türkiye,7.6,650,1,0,1,0,0,0,1,0,0
+220,Golden Spark,Antalya,Konyaaltı,Altınkum Mah. 428. Sok. No: 9 Konyaaltı Antalya / Türkiye,4.6,563,1,1,1,1,0,0,1,0,1
+221,Gizli Bahçe Pansiyon,Antalya,Kaleiçi,Selçuk Mah. Karadayı Sok. No.5 Antalya / Türkiye,7.4,665,1,0,1,0,0,0,0,0,0
+222,Dream Town Hotel,Antalya,Tekirova,Tekirova mh. Rüştü Egel Sk. No 46/1 Antalya / Türkiye,8.6,617,1,0,1,1,0,0,1,0,1
+223,Afşin Hotel,Antalya,Konyaaltı,kuşkavağı mahallesi kuşkavağı caddesi no:19  /,8.7,833,1,0,1,1,0,0,0,0,1
+224,Ersoy Efe Pansiyon,Antalya,Muratpaşa,Muratpaşa Mahallesi562. Sk. No:13 Antalya  /,2.0,400,1,0,1,1,0,0,0,0,0
+225,Le Marden Hotel Spa,Antalya,Tekirova,tekirova mahallesi 7014 sokak no:2 tekirova mahallesi 7014 sokak no 2 Antalya / Türkiye,7.3,789,1,0,1,1,1,1,1,1,1
+226,Concorde De Luxe Resort,Antalya,Lara-Kundu,Concorde De Luxe Resort  Lara Turizm Merkezi   Kundu  Türkiye Antalya / Türkiye,9.6,3250,1,0,1,1,1,0,1,0,1
+227,Otel Güleryüz,Antalya,Muratpaşa,Gençlik MahallesiTınaztepe Cd. No:8  Antalya / Türkiye,7.2,530,1,1,1,1,0,0,1,0,0
+228,Les Lion Luxury Hotel & Spa,Antalya,Muratpaşa,Sinan Mah.1262.Sok.No:7  Antalya / Türkiye,8.0,1045,1,0,1,1,1,0,1,1,0
+229,Bella Bravo Suit Hotel,Antalya,Alanya,Obakoy MevkiiAtatürk Cd. No:27 Antalya Antalya / Türkiye,6.7,855,1,0,1,1,0,0,1,1,1
+230,Mitos Apart Hotel,Antalya,Obagöl,Obagöl mah. Fatih cad. No:33/1  Antalya / Türkiye,10.0,522,1,0,1,1,0,0,1,1,1
+231,Kleopatra Suit Hotel,Antalya,Alanya,Saray Mah. 912 Sok. No : 6  Antalya / Türkiye,8.5,1447,1,0,1,1,0,0,1,1,1
+232,Resitalya Hotel,Antalya,Alanya,Gullerpinari Mah. Altin Sokak No:1  Antalya / Türkiye,6.3,290,1,0,1,1,0,0,1,0,1
+233,Hotel Royal Hill,Antalya,Konyaaltı,Arapsuyu Mah. 575. Sk. NO:6  Antalya / Türkiye,8.7,1028,1,0,1,1,0,1,1,1,1
+234,Best Western Plus Khan Hotel,Antalya,Muratpaşa,Elmalı Mah. 7. Sok. No:10 Antalya / Türkiye,7.3,1780,1,0,1,1,1,1,1,0,1
+235, Pukka Hotel ,Antalya,Konyaaltı,altınkum mahallesi belediye caddesi no:134/2  Antalya / Türkiye,7.7,925,1,0,1,0,0,0,0,0,0
+236,Pacco Sea City Hotel Spa ,Antalya,Konyaaltı,arapsuyu mah.akdeniz blv.No;90/1 Antalya / Türkiye,8.3,648,1,0,1,1,1,0,1,0,0
+237,Merhaba Hotel,Antalya,Alanya,Keykubat Cad. Alanya Merhaba Hotel Antalya / Türkiye,6.7,577,1,0,1,1,0,0,1,0,1
+238,CanaRio Pension,Antalya,Çıralı,Ulupınar Mahallesi. Çıralı Sok. No:48 Antalya Antalya / Türkiye,8.6,625,1,1,1,1,0,0,0,0,0
+239,Mare Nostrum Apart Kaş,Antalya,Kaş,Andifli Mahallesi  Gül Sokak No:6  07580  Kaş/Antalya Antalya / Türkiye,9.7,714,1,0,1,0,0,0,0,0,0
+240,Sirena Apart& SPA,Antalya,Konyaaltı,Arapsuyu7. Cd. No:3  Antalya / Türkiye,9.0,3383,1,1,1,1,1,0,0,0,1
+241,Club Barbarossa Villas,Antalya,Kaş,Çukurbağ Yarımadası Andifli Mah. Bülent Kalkavan Sok. No:2 Antalya / Türkiye,6.0,4750,1,0,1,1,0,0,1,1,1
+242,Çıralı Zakkum Bungalow,Antalya,Çıralı,ulupınar mah.çıralı sok.no:412 Antalya / Türkiye,2.0,1067,1,0,1,0,0,0,1,0,0
+243,Cook's Club Alanya +12 Adult Only,Antalya,Alanya Merkez,Saray Mah. Atatürk caddesi No:160  Antalya / Türkiye,10.0,2825,0,0,1,0,1,1,1,0,1
+244,Gürtaş Hotel,Antalya,Antalya Merkez,Muratpaşa Mah. Şarampol Cad. No: 110 Antalya / Türkiye,10.0,1191,1,0,1,1,0,0,1,0,0
+245,Zeynel Hotel,Antalya,Konyaaltı,Arapsuyu Mah. 610.sok.  Antalya / Türkiye,10.0,900,1,0,1,1,0,0,1,0,1
+246,Sky Kamer Hotel Antalya,Antalya,Muratpaşa,Kışla Mah. 53 SK. No: 4/A  Antalya / Türkiye,8.4,822,1,0,1,1,1,0,1,0,0
+247,Regnum Carya ,Antalya,Belek,Kadriye Bölgesi  Üçkumtepesi Mevkii Antalya  Belek  Türkiye  Antalya / Türkiye,9.5,12292,1,0,1,1,1,0,1,0,1
+248,Hotel La Mosae,Antalya,Alanya,Güller Pınarı MahallesiNavalıoğlu Sk. Antalya Antalya / Türkiye,4.7,732,1,0,1,1,0,0,0,0,1
+249,Anka Butik Hotel - Adults Only ,Antalya,Side,520 Sokak No:5 Side 520 Sokak  No.5 Antalya / Türkiye,10.0,819,0,0,1,1,0,0,1,0,1
+250,Prenses Sealine Beach Hotel,Antalya,Belek,Boğazkent MahKanuni Cad. 74. Sk No:4/101 Antalya / Türkiye,7.7,554,1,0,1,0,1,0,1,0,1
+251,Laren Family Boutique Hotel,Antalya,Muratpaşa,Çağlayan Mahallesi 2054 sok. No:21 Antalya / Türkiye,9.8,1662,1,0,1,1,1,1,1,1,1
+252,Turka Loca City Hotel,Antalya,Lara-Kundu,Zümrütova MahallesiSinanoğlu Cd. No:73/B Antalya / Türkiye,6.8,845,1,1,1,1,0,0,1,1,0
+253,İrbeç Apart & Bungalow,Antalya,Demre,Büyük Kum Mah Büyük Kum Cad No: 6  /,8.0,617,1,0,1,1,0,0,0,0,1
+254,Bir Hotel,Antalya,Lara-Kundu,Güzeloba Mah. Lara Cad. No:453 Antalya / Türkiye,8.5,1000,1,1,1,1,0,0,1,0,1
+255,Lemon Hotel,Antalya,Konyaaltı,Arapsuyu Mah. Belediye caddesi No:16  /,4.8,779,1,0,1,1,0,0,0,1,1
+256,Wien Star Hotel,Antalya,Alanya Merkez,Güller pınarı Mah. Karabüllü sok. No:2 Antalya / Türkiye,8.1,570,1,0,1,1,0,0,1,0,0
+257,Güçkar Şehrinn Oteli Serik,Antalya,Serik,İşler Caddesi Güçkar Plaza Antalya Antalya / Türkiye,7.8,1127,1,0,1,1,0,0,0,0,0
+258,Melles Hotel & Apart,Antalya,Konyaaltı,Altınkum mah. 414 Sok. No:6 Antalya / Türkiye,4.4,514,1,0,1,1,0,0,1,0,0
+259,M.C.A Marquis Hotel,Antalya,Alanya,Güllerpınarı Mah. Ahmet Tokuş Bulvarı No:18 Antalya / Türkiye,7.3,722,1,0,1,1,0,0,0,0,0
+260,Patron Hotel,Antalya,Kaleiçi,Tuzcular Mah. Uzun çarşı sok. No:9 Antalya / Türkiye,8.6,850,1,0,1,0,0,0,0,0,0
+261,Otto Lara Hotel,Antalya,Muratpaşa,Çağlayan Mahallesi 2003 Sokak No:30 Antalya / Türkiye,7.5,567,1,0,1,1,0,0,1,1,0
+262,Türkay Hotel ,Antalya,Konyaaltı,Altınkum Mah. Atatürk Bul. No:154 Antalya / Türkiye,9.4,1200,1,0,1,0,0,0,0,1,0
+263,Anjeliq Downtown Hotel,Antalya,Alanya Merkez,Saray MahallesiTürkmenbaşı Sk No 1  Antalya / Türkiye,8.0,648,1,0,1,1,0,0,1,0,0
+264,Hotel Antroyal,Antalya,Muratpaşa,Güllük Cad. No : 66 Antalya / Türkiye,8.3,969,1,0,1,1,0,0,1,0,0
+265,Özkaymak Falez Hotel,Antalya,Muratpaşa,Bahçelievler MahallesiTarık Akıltopu Cd. No:1  Antalya / Türkiye,5.2,1400,1,0,1,1,1,1,1,0,1
+266,Puding Hotel,Antalya,Kaleiçi,Selçuk Mh.Mermerli Sokak (Kaleiçi) No:15 Antalya Antalya / Türkiye,8.4,1229,1,0,1,1,1,1,1,0,1
+267,Side Kleopatra Beach Hotel,Antalya,Side,Selimiye Mah. Yasemin Sok. No:36/1 Side Antalya / Türkiye,9.4,1691,0,0,1,1,0,0,1,0,0
+268,Club Sidar Apart Otel,Antalya,Alanya,Saray Mah. M.Sukru Ulusoy Cad. No.24 Antalya / Türkiye,6.7,751,1,0,1,1,1,0,1,0,1
+269,The Corner Park Hotel,Antalya,Konyaaltı,Akdeniz Bulvarı  Arapsuyu mah 603 Sokak. No: 2  Antalya / Türkiye,7.8,1009,1,0,1,1,0,0,1,0,1
+270,Duygu Apart,Antalya,Kaş Merkez,Andifli Mahallesi Seyret Sokak No:9 Antalya / Türkiye,6.0,1068,1,0,0,0,0,0,0,0,0
+271,Tepe Hotel Business Suite,Antalya,Muratpaşa,Çağlayan MahallesiBarınaklar Blv. No:8 Antalya Antalya / Türkiye,6.0,631,1,1,1,1,0,0,0,0,0
+272,Eluxio Suite Hotel ,Antalya,Muratpaşa,Çağlayan Mahallesi 2050 Sokak No:13  Antalya / Türkiye,6.0,1273,1,0,1,0,0,0,0,0,0
+273,Nashira City Resort Hotel ,Antalya,Muratpaşa,Meltem Mah. Sakip Sabanci Bulvari No:12  Antalya / Türkiye,6.0,1600,1,0,1,1,1,0,1,0,1
+274,Loft 1502,Antalya,Muratpaşa,Şirinyalı Mah. 1502 Sk. No:9 Antalya / Türkiye,6.0,1958,1,0,1,1,0,0,0,0,0
+275,Villa Kaş Bohem,Antalya,Kaş,Kaş Bohem Andifli Mahallesi Büyükçakıl Caddesi 21/9 Antalya / Türkiye,6.0,5921,1,0,1,1,0,0,0,0,1
+276,Luvi Kaş Otel -Adults Only (+16),Antalya,Kaş Merkez,Andifli Mahallesi Doğruyol Caddesi no:3/1  Antalya / Türkiye,9.7,1611,0,0,1,0,0,0,0,0,0
+277,Lara Beach Homes,Antalya,Antalya Merkez,Güzeloba mah 2383 sok no 7 Antalya / Türkiye,6.9,738,1,0,1,1,0,0,0,0,1
+278,Lara Otel,Antalya,Lara-Kundu,Güzeloba  Lara Cd. No:144 Antalya / Türkiye,8.2,1009,1,0,1,1,1,0,1,0,1
+279,Lara Park Hotel,Antalya,Lara-Kundu,Lara Park Hotel  Güzeloba  Lara Cd. No:198 Lara / Murat paşa Antalya / Türkiye,8.9,1620,1,0,1,0,0,0,0,0,1
+280,Kleopatra Blue Hawaii Hotel,Antalya,Alanya Merkez,Ataturk Cad. No:150  Antalya / Türkiye,7.9,601,1,0,1,0,1,0,1,0,1
+281,Esvida Arzum Bungalow Olimpos,Antalya,Olimpos Mevkii,Yazır Mahallesi Olimpos Sokak No: 147 Antalya / Türkiye,10.0,840,1,1,1,1,0,0,1,1,1
+282,Olimpos Mercan Bungalow,Antalya,Olimpos Mevkii,Yazir Mahallesi Olympos Sokak No 25 Kumluca Antalya / Türkiye,7.5,731,1,0,1,1,0,0,1,0,0
+283,Sunrise Çıralı Bungalow,Antalya,Çıralı,Ulupınar Mahallesi Antalya Antalya / Türkiye,6.0,672,1,0,1,1,0,0,1,0,0
+284,Apa Mountain Lodge - 12 Adult Only,Antalya,Konyaaltı,Çağlarca Mah. 4433 Sok 24-1  4433 SK 24 1  07070 Konyaaltı/Antalya Antalya / Türkiye,6.0,2416,0,0,1,1,0,0,1,0,1
+285,Casaba Otel,Antalya,Göynük,Esentepe Mahallesi  Hasan Tahsin Caddesi No:11 Goynuk / Kemer Antalya / Türkiye,6.0,870,1,0,1,1,0,0,0,0,0
+286,Luwi Life Concept Tiny House,Antalya,Kumluca,Adrasan Mahallesi Deniz Caddesi Koybuk Mevkii 1774 Parsel  Antalya / Türkiye,6.0,757,1,1,1,1,0,0,0,0,0
+287,Berraksu Hotel,Antalya,Antalya Merkez,Kültür Mahallesi3822. Sk No:7 Antalya Antalya / Türkiye,6.0,961,1,0,1,1,0,0,1,0,0
+288,Grand Antalya Hotel,Antalya,Antalya Şehiriçi,Tahıl Pazarı Mh. 404 Sk. Antalya / Türkiye,6.9,448,1,0,1,0,0,0,0,0,0
+289,Ale Park Hotel Apartments,Antalya,Konyaaltı,Altınkum Mah. 414 Sok. No:9 Antalya / Türkiye,7.9,610,1,0,1,1,0,0,1,0,1
+290,Han-De Homes,Antalya,Kemer Merkez,Aslanbucak KemerCumhuriyet Cd. Antalya Antalya / Türkiye,9.3,676,1,0,1,1,0,0,0,0,1
+291,Neu Mann's Apart Otel,Antalya,Side,Evrenseki Mah Kömürcüler Mevkii Küme Evler No:2 Antalya / Türkiye,8.6,427,1,0,1,1,0,0,0,0,0
+292,La Finca Marina Hotel,Antalya,Alanya,Dinek mah. Akhan sokak No. 9-11 Antalya / Türkiye,7.3,1503,1,0,1,1,1,0,1,0,1
+293,Golden World Suite Hotel,Antalya,Konyaaltı,HURMA MAH. 257 SOKAK NO:3 Antalya / Türkiye,9.4,804,1,0,1,1,1,0,0,0,1
+294,Ale Apartments Hotel,Antalya,Konyaaltı,Arapsuyu  661. Sk. No:8  Konyaaltı Antalya / Türkiye,6.5,1015,1,0,1,1,0,0,0,0,0
+295,Kleopatra Aytur Apart,Antalya,Alanya Merkez,Saray Mahallesi Atatürk bulvarı Alaatinoğlu sok. Kalearkası sok.No:3alanya Antalya / Türkiye,7.7,507,1,1,1,0,1,0,1,0,1
+296,Samira Resort Hotel & Apart & Villa,Antalya,Kalkan,Menteşe Mah. İstiklal Cad. Çınar Sk. No:1 Kalkan Antalya / Türkiye,8.3,836,1,0,1,1,0,0,1,0,1
+297,Mono Hotel Kaleiçi,Antalya,Kaleiçi,Kılıçarslan Mah. Hesapçı Sok. No:70 Antalya / Türkiye,8.5,1222,1,0,1,0,0,0,1,0,0
+298,Ale Apartments Hotel,Antalya,Konyaaltı,Arapsuyu  661. Sk. No:8  Konyaaltı Antalya / Türkiye,6.5,1015,1,0,1,1,0,0,0,0,0
+299,Kleopatra Aytur Apart,Antalya,Alanya Merkez,Saray Mahallesi Atatürk bulvarı Alaatinoğlu sok. Kalearkası sok.No:3alanya Antalya / Türkiye,7.7,507,1,1,1,0,1,0,1,0,1
+300,Samira Resort Hotel & Apart & Villa,Antalya,Kalkan,Menteşe Mah. İstiklal Cad. Çınar Sk. No:1 Kalkan Antalya / Türkiye,8.3,836,1,0,1,1,0,0,1,0,1
+301,Mono Hotel Kaleiçi,Antalya,Kaleiçi,Kılıçarslan Mah. Hesapçı Sok. No:70 Antalya / Türkiye,8.5,1222,1,0,1,0,0,0,1,0,0
+302,İrem Garden Apart Hotel,Antalya,Side,Fatih Sultan Mehmet Bulvari 513 Sok. No:6  Antalya / Türkiye,6.8,700,1,0,1,1,1,0,1,0,1
+303,Delphin Apart Hotel,Antalya,Manavgat,Selimiye Mahallesi615. Sk Manavgat Antalya / Türkiye,7.4,321,1,0,1,1,1,0,1,0,0
+304,Melody City Hotel,Antalya,Alanya,Müftüler Sok.  müftüler sokak Antalya / Türkiye,6.3,593,0,0,1,0,0,0,1,0,0
+305,San Simon Hotel Çıralı ,Antalya,Çıralı,Ulu pınar mah cıralı sk. No:92 Antalya / Türkiye,10.0,939,1,1,1,1,0,0,1,0,0
+306,Acropol Beach Hotel,Antalya,Konyaaltı,Kuşkavağı Mah. Akdeniz Bulv No. 130  Antalya / Türkiye,5.6,1409,1,0,1,1,1,0,1,0,1
+307,Held Hotel,Antalya,Kaleiçi,Kılınç Arslan Mahallesi Tabakhane Sokak No:6  Antalya / Türkiye,7.4,789,1,0,1,0,0,0,0,0,1
+308,Kahraman Hotel,Antalya,Side,Side  1015. Sk. No:21  07600 Manavgat/Antalya Antalya / Türkiye,6.0,380,1,1,1,1,0,0,1,0,1
+309,Delphin Be Grand Resort,Antalya,Lara-Kundu,Güzeloba Mah. Yaşar Sobutay Bulvarı No: 38 Antalya / Türkiye,9.5,3639,1,0,1,1,1,1,1,0,1
+310,Medusa Hotel (+12 Adult Only),Antalya,Kaş,Andifli mah. Hükümet caddesi no 53 Küçükçakıl Antalya / Türkiye,8.4,964,0,0,1,1,0,0,0,0,1
+311,Mojo Sunset Boutique Hotel,Antalya,Kaş,Andifli Mah. Çetikli Küme Evleri No:9/1 Antalya / Türkiye,8.8,1900,0,1,0,0,0,0,0,0,1
+312,Özgür Bey Spa Hotel,Antalya,Alanya,Oba Mah. 14.Sok. No:5 Alanya  Antalya / Türkiye,8.4,996,1,1,1,1,1,0,1,0,1
+313,Elanis Suites Hotel,Antalya,Muratpaşa,Şirinyalı mahallesi 1506 sok.No:18/1 Antalya / Türkiye,6.0,2113,1,0,1,0,0,0,0,1,1
+314,Neruda Pansiyon,Antalya,Kalkan,no 48Kalkan MahallesiGül Sk. Antalya Antalya / Türkiye,8.7,850,1,0,1,1,0,0,1,0,0
+315,Gvar Apart Otel,Antalya,Muratpaşa,Elmalı Mahallesi15. Sk. Antalya Antalya / Türkiye,8.0,571,1,0,1,1,0,0,0,0,0
+316,Babylon Town Otel ,Antalya,Olimpos Mevkii,Yazir Mah. Kiliseyakasi Sokak  No. 148  Antalya / Türkiye,10.0,1529,1,1,1,1,0,0,1,0,1
+317,Villa Zeytin Çıralı,Antalya,Çıralı,Çıralı Caddesi Ulupınar Mahallesi Kemer Antalya Antalya / Türkiye,8.0,890,1,0,1,1,0,0,0,0,0
+318,Sanctakana Boutique HotelSPA,Antalya,Kaleiçi,Tuzcular Mah. Uzunçarşı Sok. No: 21 Kaleiçi _ Muratpaşa Antalya / Türkiye,6.6,890,1,0,1,0,1,0,1,1,0
+319,Hotel Berke Ranch&Nature,Antalya,Çamyuva,Merkez MahallesiKüme Evleri No:15 Antalya Antalya / Türkiye,8.4,1235,1,1,1,1,0,0,1,1,1
+320,Sunis Evren Beach Resort Hotel & Spa,Antalya,Manavgat,Ilıca Mahallesi30 Nolu Sok. No:3 Antalya Antalya / Türkiye,9.3,3000,1,0,1,1,1,1,1,1,1
+321,Azak Beach Hotel,Antalya,Alanya Merkez,Saray Mah. Guzelyali Cad.  Antalya / Türkiye,5.2,840,1,0,1,1,1,0,1,0,1
+322,Kleopatra Micador Hotel,Antalya,Alanya Merkez,Kızlar pınarı Mah. Mehmet Akif Ersoy Cd. No:26  Antalya / Türkiye,7.3,949,1,0,1,0,1,0,1,0,1
+323,Erdem City Hotel,Antalya,Kaş Merkez,Andifli Mah. İbiş Çıkmazı Sok No:1  Kaş  Türkiye  /,9.8,1385,1,0,1,1,0,0,1,0,0
+324,Pera Boutique Hotel,Antalya,Muratpaşa,Selçuk Mah. Uzun Çarşı Sk. No 38 kaleiçi Antalya / Türkiye,6.8,530,1,0,1,0,0,0,0,0,0
+325,Babylon Town Otel ,Antalya,Olimpos Mevkii,Yazir Mah. Kiliseyakasi Sokak  No. 148  Antalya / Türkiye,10.0,1529,1,1,1,1,0,0,1,0,1
+326,Best Western Vib Antalya Hotel - Adult Only,Antalya,Döşemealtı,Antalya Organize Sanayi Bolgesi 1. Kisim 5. Caddesi No: 3  /,7.9,3383,0,0,1,1,1,1,1,0,1
+327,Sanctakana Boutique HotelSPA,Antalya,Kaleiçi,Tuzcular Mah. Uzunçarşı Sok. No: 21 Kaleiçi _ Muratpaşa Antalya / Türkiye,6.6,890,1,0,1,0,1,0,1,1,0
+328,Isola 12 Boutique Hotel,Antalya,Kaş Merkez,Andifli Mah Atatürk Blv. No:40 Atatürk Blv No:40 Antalya / Türkiye,9.1,760,1,1,1,0,0,0,1,0,0
+329,Villa Zeytin Çıralı,Antalya,Çıralı,Çıralı Caddesi Ulupınar Mahallesi Kemer Antalya Antalya / Türkiye,8.0,890,1,0,1,1,0,0,0,0,0
+330,Erdem City Hotel,Antalya,Kaş Merkez,Andifli Mah. İbiş Çıkmazı Sok No:1  Kaş  Türkiye  /,9.8,1385,1,0,1,1,0,0,1,0,0
+331,Pera Boutique Hotel,Antalya,Muratpaşa,Selçuk Mah. Uzun Çarşı Sk. No 38 kaleiçi Antalya / Türkiye,6.8,530,1,0,1,0,0,0,0,0,0
+332,Best Western Vib Antalya Hotel - Adult Only,Antalya,Döşemealtı,Antalya Organize Sanayi Bolgesi 1. Kisim 5. Caddesi No: 3  /,7.9,3383,0,0,1,1,1,1,1,0,1
+333,Bayındır Palme Hotel,Antalya,Muratpaşa,Bayındır Mah. Pınar Cad No:45  Antalya / Türkiye,8.7,676,1,0,1,1,0,0,1,1,0
+334,El Mundo Suites,Antalya,Muratpaşa,2121. Sk. No:11 Antalya / Türkiye,8.0,711,1,0,1,0,0,0,0,0,0
+335,Temiz Otel,Antalya,Alanya Merkez,Cumhuriyet Mahallesiİskele Cd. No:10  Antalya / Türkiye,3.3,742,1,0,1,1,0,0,1,0,0
+336,Prima Hotel Antalya,Antalya,Muratpaşa,Sirinyali Mah 1512 Sk No 11  Antalya / Türkiye,5.0,1080,1,0,1,0,1,0,1,0,1
+337,Pınar Pansiyon,Antalya,Kaş,Atatürk cad. Meltem Sk. No:1 Kaş  Antalya / Türkiye,7.8,1315,1,0,1,1,0,0,0,0,0
+338,Latino Hotel Kemer,Antalya,Kemer Merkez,Merkez Mahallesi143. Sk. No:5 Antalya Antalya / Türkiye,7.1,352,1,0,1,1,0,0,0,0,0
+339,Kelebek Hotel Kalkan,Antalya,Kalkan,Kalkan mah. karayolları sok. no:4 kaş  Antalya / Türkiye,8.6,845,1,1,1,1,0,0,1,0,1
+340,Mevre Hotel,Antalya,Muratpaşa,Elmalı Mah 24 Sok No:2   /,6.0,900,1,0,1,0,0,0,1,0,0
+341,Send Apart Otel,Antalya,Konyaaltı,Arapsuyu  639. Sk. No:15 Antalya / Türkiye,8.6,550,1,0,1,0,0,0,1,0,0
+342,Yücesan Hotel,Antalya,Avsallar,Avsallar Kasabasi  Merkez Mah. Incekum Cad. No:47  Antalya / Türkiye,7.6,427,1,1,1,1,0,0,1,0,1
+343,Durkaya Otel,Antalya,Manavgat,Aşağıpazarcı MahallesiFevzi Paşa Cd. No:26  Antalya / Türkiye,6.1,601,1,0,1,1,0,0,0,0,0
+344,Ale Boutique Apartments,Antalya,Konyaaltı,Altınkum Mah. 432 sokak No: 16  Antalya / Türkiye,10.0,1026,1,0,1,1,0,0,1,0,1
+345,Aspendos Suites,Antalya,Konyaaltı,Altınkum  413. Sk. No:10 Antalya / Türkiye,7.2,845,1,0,1,1,0,0,0,0,1
+346,Eva Hotel & Spa,Antalya,Konyaaltı,Gürsu mah. 304.sok. No:4 Antalya / Türkiye,7.0,1008,1,0,1,1,1,0,0,0,0
+347,Isola 12 Boutique Hotel,Antalya,Kaş Merkez,Andifli Mah Atatürk Blv. No:40 Atatürk Blv No:40 Antalya / Türkiye,9.1,760,1,1,1,0,0,0,1,0,0
+348,Mene City Hotel,Antalya,Muratpaşa,Gençlik Mahallesi1326. Sk. No:47  Antalya / Türkiye,9.3,1298,1,0,1,1,0,0,1,0,1
+349,Villa Turka Hotel,Antalya,Alanya,Tophane Mah.Kargı Sok. No:7  Antalya / Türkiye,9.5,1315,0,0,1,1,0,0,1,0,1
+350,Melanippe Relaxing Hotel - +16 ,Antalya,Mavikent,Acargün Sokak No: 19 Antalya / Türkiye,9.0,2497,0,0,1,1,1,0,1,1,1
+351,Luna Kaş Hotel,Antalya,Kaş,Andifli MahallesiArısan Sk. no 18/2 Antalya / Türkiye,9.1,2056,1,0,1,1,0,0,0,0,1
+352,Latanya Palm Otel,Antalya,Muratpaşa,Aspendos Blv.No:36 Antalya / Türkiye,6.6,1700,1,0,1,1,1,1,1,1,1
+353,The Marmara Antalya,Antalya,Muratpaşa,Şirinyalı MahallesiEski Lara yolu No:136 Antalya Antalya / Türkiye,9.3,1634,1,1,1,1,1,1,1,1,1
+354,Akra Hotel,Antalya,Muratpaşa,Sirinyali Mah. Lara Cad. No:24  Lara Yolu Antalya / Türkiye,9.3,2437,1,0,1,1,1,1,1,1,1
+355,Cender Hotel,Antalya,Muratpaşa,Gençlik Mah. Işıklar Cad. No:42  Antalya / Türkiye,5.8,1187,1,0,1,1,1,0,1,0,1
+356,Sherwood Premio Hotel ,Antalya,Muratpaşa,Şirinyalı Mahallesi1503. Sk. No:4 Muratpaşa Antalya / Türkiye,8.8,1260,1,0,1,0,0,0,1,0,0
+357,Kleopatra Atlas Hotel (Yetişkin Oteli +16 ),Antalya,Alanya Merkez,Çarşı Mah. Seral Sokak Damlataş Caddesi Antalya / Türkiye,8.9,824,0,0,1,1,1,0,1,0,1
+358,Yelken Apart Hotel ,Antalya,Konyaaltı,KUŞKAVAĞI MAHALLESİ 543. SOKAK NO:3  Antalya / Türkiye,7.0,1276,1,1,1,0,0,0,0,0,1
+359,Maren City Rooms Hotel,Antalya,Alanya Merkez,Güllerpınarı Mah. Kalan Sok. No: 7  Antalya / Türkiye,6.0,494,1,0,1,1,0,0,0,0,1
+360,Yaz Apart,Antalya,Kaş Merkez,Andifli Mahallesi Bilginler Sokak No:9  /,6.0,1955,0,0,1,0,0,0,0,0,0
+361,Castle Inn Hotel,Antalya,Kaleiçi,Kılınç Arslan Mahallesi Kandıller Çıkmazı No:9/A Muratpaşa Kılınç Arslan Mahallesi Kandıller Çıkmazı No:9/A Muratpaşa Antalya / Türkiye,6.0,1187,1,0,1,1,0,0,1,0,0
+362,Karden Otel ,Antalya,Lara-Kundu,Çağlayan Mahallesi 2002 SokakNo:21  Antalya / Türkiye,8.5,834,1,0,1,1,0,0,0,0,0
+363,Babil Butik Otel,Antalya,Konyaaltı,Arapsuyu mah belediye cad no 42/A Antalya / Türkiye,8.0,600,1,0,1,0,0,0,0,1,0
+364,Aida Hotel Çıralı,Antalya,Çıralı,Ulupınar mah. Cıralı sok. No 54  Çıralı - Kemer  Antalya / Türkiye,9.3,1691,1,0,1,1,1,0,1,0,1
+365,Pure Blanche Hotel,Antalya,Muratpaşa,Şirinyalı mah. Lara Cad. No:193  Antalya / Türkiye,9.0,1380,1,0,1,1,0,0,0,0,1
+366,Sealife Lounge Hotel,Antalya,Konyaaltı,Arapsuyu Mahallesi Arapsuyu Caddesi No. 1 Konyaaltı  Antalya / Türkiye,8.9,1400,0,0,1,1,1,0,1,1,1
+367,Dantel Butik Ev Pansiyon,Antalya,Kaş,Andifli Mahallesi Likya Caddesi No:49/3 Kaş/Antalya Andifli Mahallesi Likya Caddesi No:49/3 Kaş/Antalya Antalya / Türkiye,9.7,500,1,0,1,0,0,0,0,0,0
+368,Dionisus Hotel,Antalya,Kadriye,Kadriye Mah. Kocabıyıklar Cad. No:22  Antalya / Türkiye,6.6,850,1,0,1,1,1,0,1,0,1
+369,Belcan Hotel,Antalya,Beldibi,Beldibi Mh. Başkomutan  Atatürk Cd. No:78 Beldibi-Kemer Antalya / Türkiye,9.3,427,1,0,1,0,0,0,1,0,0
+370,Otel Wood House,Antalya,Kaleiçi,barbaros mahallesi kandiller sokak no/4  kaleiçi muratpaşa Antalya / Türkiye,7.8,514,1,0,1,0,0,0,0,0,0
+371,Winecity Boutique Hotel,Antalya,Demre,Buyukkum Mahallesi Cumhuriyet Caddesi No:1 Demre Antalya / Türkiye,5.3,732,1,0,1,1,0,0,1,0,1
+372,Antalya Business Hotel,Antalya,Muratpaşa,Cumhuriyet mh. 703. Sokak No:1/101  Antalya / Türkiye,7.9,850,1,0,1,1,0,0,0,0,0
+373,Anelli Hotel,Antalya,Kepez,Kültür Mah. Hürriyet Cad. No:42/B Antalya / Türkiye,7.5,785,1,0,1,1,0,0,1,0,0
+374,Melissa Moment Apart Hotel,Antalya,Kemer,Merkez  Atatürk caddesi No:28  Kemer Antalya / Türkiye,9.8,694,0,0,1,0,0,0,1,0,1
+375,Alanya Queen Apart Otel,Antalya,Alanya,Güllerpınarı mah. Salur sok. no:6 Antalya / Türkiye,8.7,672,1,0,1,1,0,0,0,0,1
+376,Club Barbarossa Hotel & Villas,Antalya,Kaş,Çukurbağ Yarımadası Andifli Mah. Bülent Kalkavan Sok. No:2 Antalya Antalya / Türkiye,7.5,1330,1,1,1,1,0,0,1,0,1
+377,Evon Otel,Antalya,Gazipaşa,Pazarcı MahallesiUğurmumcu Cad No:307  Antalya / Türkiye,9.3,1026,1,0,1,1,1,1,1,1,1
+378,Sultan Sipahi Resort Hotel,Antalya,Alanya,Saray MahallesiGüzelyalı Cad. No:30  Antalya / Türkiye,7.3,669,1,0,1,1,1,1,1,0,1
+379,Kristal Beach Hotel,Antalya,Konyaaltı,Arapsuyu Mah.Akdeniz Bul.No:114  Antalya / Türkiye,7.4,1095,1,0,1,1,1,0,1,1,1
+380,Onkel Rada Apart Otel,Antalya,Konyaaltı,Liman mah. 33 sk. 25/A Onkel Rada Residence C Blok  Antalya / Türkiye,7.8,1157,1,0,1,1,0,0,0,0,1
+381,Linda Apart Hotel,Antalya,Side,Side Mahallesi  Asterya Sok. No:2   Antalya / Türkiye,8.0,563,1,1,1,1,0,0,1,0,1
+382,Hotel Reutlingen Hof,Antalya,Kaleiçi,KaleiçiKiliçaslan Mah. Mermerli BanyoSok. No: 2307100 AntalyaTurkey Antalya / Türkiye,10.0,770,1,0,1,1,0,0,0,1,0
+383,Lale Hotel Kaş,Antalya,Kaş Merkez,Andifli Mahallesi  Küçük Çakıl Sok.Kaş/Antalya  07580 Kaş/Antalya  /,9.3,1216,0,0,1,1,0,0,1,0,0
+384,Hma Hotel & Suites,Antalya,Alanya,Şekerhane MahallesiŞevket Tokuş Cd. No:25 Antalya Antalya / Türkiye,9.5,751,1,0,1,0,0,0,1,0,1
+385,Mogons Exclusive Hotel,Antalya,Kalkan,Kalkan mah. Ortaokul cad. No:13 Kaş/ANTALYA Antalya / Türkiye,7.9,1315,0,1,1,1,1,0,1,1,1
+386,Ryma Hotel,Antalya,Manavgat,Çolaklı MahallesiDeniz Caddesi No:3 Antalya Antalya / Türkiye,5.2,513,1,0,1,1,1,0,1,1,1
+387,Leda Beach Hotel,Antalya,Side,Side Mahallesi Side Caddesi No:106  Side Antalya / Türkiye,7.9,855,1,0,1,1,1,0,1,0,1
+388,Perle Apart Hotel,Antalya,Alanya Merkez,Şekerhane MahallesiTevfikiye Cd.1117. Sokak No:7  Antalya / Türkiye,10.0,617,1,0,1,0,0,0,1,1,1
+389,Erdemcity Apart Hotel,Antalya,Kaş Merkez,Andifli Mahallesiçukurbağlılar cad.no:10/2kaş antalya  /,10.0,1315,1,0,1,0,0,0,0,0,0
+390,3 Oda Konukevi,Antalya,Kaş,Çukurbağ Mah No:71 Antalya / Türkiye,9.2,1757,1,0,1,1,0,0,1,0,0
+391,Lorem Hotel ,Antalya,Muratpaşa,Çağlayan Mah. 2004. sok No:17 Antalya / Türkiye,4.7,1582,1,0,1,0,0,0,1,0,1
+392,Kalkan Saray Suites ( +13 Adult Only),Antalya,Kalkan,Kalkan Mah.Cumhuriyet CaddesiNilüfer Sk. No:46AntalyaTurkey Antalya / Türkiye,8.6,1381,0,0,1,1,1,0,1,1,1
+393,Antalya Start Hotel,Antalya,Muratpaşa,Ali Çetinkaya Caddesi No: 19 Antalya / Türkiye,8.2,969,1,0,1,1,1,0,1,1,0
+394,Nebilüx Hotel,Antalya,Lara-Kundu,Çağlayan Mah. 2048 Sok. No:2 Antalya / Türkiye,8.2,1048,1,0,1,1,0,0,1,0,0
+395,Bilgehan Hotel ,Antalya,Muratpaşa,Tahilpazari mah. Adnan Menderes bulvari . no:1 Muratpasa Antalya / Türkiye,6.4,1058,1,0,1,1,1,1,1,1,0
+396,Elite Luxury Suite & Spa,Antalya,Alanya,Konaklı Mahallesi 301. Sokak No 15  Antalya / Türkiye,8.3,1485,1,0,1,1,1,1,1,1,1
+397,Mia Hotel,Antalya,Kaleiçi,Tuzcular Mh. Paşa Cami Sk. No:25 Kaleiçi Muratpaşa Antalya / Türkiye,8.1,1071,1,1,1,0,0,0,1,1,0
+398,Ali's Bungalow,Antalya,Kaş,yeni antalya yolu üzeri no:31/1A KAŞ/ANTALYA yeni antalya yolu üzeri no:31/1A KAŞ/ANTALYA Antalya / Türkiye,8.7,950,1,0,1,1,0,0,0,0,0
+399,Lila Apart Side,Antalya,Evrenseki,Evrenseki Antalya / Türkiye,6.0,500,1,1,1,1,0,0,0,0,0
+400,Ergün Hotel,Antalya,Alanya Merkez,Kadıpaşa Mahallesi  Antalya / Türkiye,7.6,383,1,0,1,1,0,0,1,0,1
+401,Karikatür Bi Hotel ,Antalya,Alanya,Şekerhane mah. Hükümet Cad.No 79b Antalya / Türkiye,9.3,761,1,0,1,1,0,0,0,1,0
+402,Uğur Otel Beach Kemer,Antalya,Kemer Merkez,Merkez Antalya Antalya / Türkiye,6.7,700,1,0,1,1,0,0,1,0,1
+403,Soral Apart,Antalya,Demre,BEYMELEK MAHALLESİ HAL ARKASI SOKAK NO : 18 DEMRE/ANTALYA Antalya / Türkiye,6.0,564,1,0,1,0,0,0,0,0,1
+404,Argos Hotel Antalya,Antalya,Kaleiçi,Tuzcular Mah. Balıkpazarı Sok. No:6/1 Kaleiçi Antalya / Türkiye,6.8,1040,1,0,1,0,0,0,1,0,1
+405,Green Beyza Suites ,Antalya,Lara-Kundu,Çağlayan Mh. 2050 Sk. No:6 Barınaklar - Lara  Antalya / Türkiye,9.4,1245,1,0,1,1,0,0,1,0,0
+406,8 Pansiyon Kaş,Antalya,Kaş,Ilkokul Sokak no. 9 Antalya / Türkiye,8.4,885,0,0,1,1,0,0,0,0,0
+407,Castle Old Town (c.o.t.),Antalya,Kaleiçi,Kilincarslan M. Tabakhane Sokak No 7 Kaleiçi07040 AntalyaTurkey Antalya / Türkiye,6.8,1127,1,0,1,0,0,0,1,1,1
+408,Linda Star Palace Hotel,Antalya,Muratpaşa,Muratpaşa Mah. 567 Sk. No:33 Antalya / Türkiye,5.3,577,1,0,1,1,0,0,0,0,0
+409,La Boutique Hotel & Suites,Antalya,Muratpaşa,Şirinyalı  Eski Lara Yolu  1537. Sokak No:16  Antalya / Türkiye,8.0,2016,1,0,1,0,0,0,1,0,0
+410,Enda Boutique Hotel,Antalya,Kalkan,Kalkan Mah.  Gül Sk. No:22  Kalkan  Kaş Antalya / Türkiye,7.3,1307,0,0,1,1,0,0,1,0,1
+411,The Suite Apart Hotel,Antalya,Kaleiçi,Kilicarslan Mah Kadirpasa Sok No:1207100 AntalyaTurkey Antalya / Türkiye,10.0,1146,1,0,1,1,0,0,0,0,1
+412,Tal Beach Hotel ,Antalya,Beldibi,beldibi mah. baş komutan Atatürk cad. no:144 Antalya / Türkiye,7.1,665,1,0,1,1,1,0,1,0,1
+413,Docs Boutique Hotel,Antalya,Kemer,102 Sokak No:32 Kemer Antalya / Türkiye,4.7,961,1,1,1,1,0,0,1,0,1
+414,Nostalgia World Hotel,Antalya,Manavgat,Kızılot Mahallesi Mısırlı Sahil Küme Evleri No:3 Antalya / Türkiye,8.2,522,1,1,1,1,0,0,1,0,1
+415,En Vie Beach Boutique Hotel,Antalya,Alanya Merkez,Güller Pınarı  Ahmet Tokuş Blv. No:22   Antalya / Türkiye,7.9,1541,0,0,1,0,0,0,1,0,0
+416,Boutique House Mim-A Residence,Antalya,Konyaaltı,Hurma Mahallesi 242 /1 Sokak No:17 Antalya / Türkiye,8.0,939,1,0,1,1,0,0,1,1,1
+417,Alp Paşa Konağı,Antalya,Kaleiçi,Barbaros Mah. Hesapçı Sok. No: 30 Kaleiçi Hesapçı Sok. No: 30  Antalya / Türkiye,8.4,1353,0,0,1,1,0,0,1,0,1
+418,Cevahir Hotel İstanbul Asia,İstanbul,Maltepe,Yalı Mahallesi   Ziya Gökalp Caddesi No:21 İstanbul İstanbul / Türkiye,8.7,1778,1,0,1,1,1,1,1,0,1
+419,Dedeman Istanbul,İstanbul,Beşiktaş,Yıldız Posta Caddesi No: 50 İstanbul / Türkiye,6.5,3289,1,1,1,1,1,0,1,1,0
+420,Suadiye Hotel,İstanbul,Kadıköy,Bağdat Caddesi Plaj YoluNo: 25 Suadiye  İstanbul / Türkiye,8.1,1981,1,0,1,1,1,0,1,0,0
+421,Ağaoğlu My City Hotel,İstanbul,Ümraniye,Çakmak Mahallesi Tavukcuyolu Caddesi No: 22 İstanbul / Türkiye,8.4,1485,1,0,1,1,1,0,1,0,1
+422,Wyndham Grand Istanbul Kalamış Marina Hotel,İstanbul,Kadıköy,Fenerbahçe  Fener Kalamış Cd. No 38  34726 Kadıköy/İstanbul İstanbul / Türkiye,8.2,2898,1,0,1,1,1,0,1,0,1
+423,A11 Hotel Cadde,İstanbul,Kadıköy,BAĞDAT CAD. 229/1 GÖZTEPE KADIKÖY İstanbul / Türkiye,7.5,1444,1,0,1,1,0,0,1,0,0
+424,TRYP by Wyndham Ataşehir,İstanbul,Ataşehir,KÜÇÜKBAKKALKÖY MAH. RÜYA SK. NO: 2-6 ATAŞEHİR İstanbul / Türkiye,8.4,1600,1,0,1,1,0,0,0,0,0
+425,Divan İstanbul City,İstanbul,İstanbul,Büyükdere Caddesi No:84  İstanbul / Türkiye,8.5,2280,1,0,1,1,1,0,1,0,0
+426,Tango Arjaan By Rotana,İstanbul,Maltepe,Altayçeşme MahallesiSamanyolu Sk. No:23 İstanbul İstanbul / Türkiye,8.2,2825,1,1,1,1,1,1,1,1,1
+427,A11 Ataşehir,İstanbul,Ataşehir,şenlik sk. no:1  İstanbul / Türkiye,7.0,1235,1,0,1,1,0,0,0,0,0
+428,Dedeman Bostancı Hotel and Convention Center,İstanbul,Kadıköy,Değirmenyolu Cad. No:39/B Bostancı  İstanbul / Türkiye,8.3,2576,1,1,1,1,1,1,1,1,1
+429,Days Hotel by Wyndham Istanbul Maltepe,İstanbul,Maltepe,Gülsuyu  E-5 Yan yol  Maltepe/İstanbul İstanbul / Türkiye,8.4,1407,1,0,0,1,1,1,1,1,0
+430,Divan İstanbul Asia,İstanbul,Pendik,E5 Karayolu üzeri No:209 Üst Kaynarca Pendik  İstanbul / Türkiye,8.2,2371,0,0,1,1,1,0,1,0,1
+431,Akgün İstanbul Hotel,İstanbul,Fatih,Adnan Menderes Bulvarı Çayır Meydanı Caddesi No:43 İstanbul / Türkiye,8.7,2446,1,0,1,1,1,1,1,1,1
+432,Sidonya Hotel,İstanbul,Kadıköy,Rıhtım cad. Nemlizade sok. no : 34 Kadıköy  İstanbul / Türkiye,8.4,1796,1,0,1,1,1,0,1,0,0
+433,Avantgarde Levent Hotel,İstanbul,Beşiktaş,Levent MahallesiBüyükdere Cd. No:161 İstanbul İstanbul / Türkiye,8.6,2343,1,0,1,1,1,0,0,0,1
+434,Sarnıç Butik Otel Kadıköy,İstanbul,Kadıköy,Caferağa Mah. Dumlupınar Sk. No:12 İstanbul İstanbul / Türkiye,8.7,1326,1,0,1,1,0,0,1,1,0
+435,Sheraton Grand İstanbul Ataşehir,İstanbul,Ataşehir,Barbaros Mah. Mor Sümbül Sok. No 1 Ataşehir  İstanbul / Türkiye,9.0,3313,1,0,1,1,1,1,1,1,1
+436,Ramada By Wyndham Beylikdüzü,İstanbul,Beylikdüzü,Gökevler Mah  529. Sk. No:2 Beylikdüzü İstanbul / Türkiye,8.4,1679,1,0,1,1,1,0,1,1,0
+437,Sheraton Istanbul Atakoy Hotel,İstanbul,Bakırköy,Rauf Orbay Caddesi Sahilyolu  No:10  Bakirkoy İstanbul / Türkiye,8.0,3260,1,0,1,1,1,1,1,1,1
+438,Symbola Bosphorus Hotel,İstanbul,Ortaköy,Ortaköy Mh.Portakal Ykş. Cd. No:17 İstanbul İstanbul / Türkiye,7.4,2027,1,0,1,1,0,0,1,1,0
+439,Air Boss İstanbul Airport and Fair Hotel,İstanbul,Küçükçekmece,Muammer Aksoy Cd. Akkuş Sk. No:1 K.Çekmece  İstanbul / Türkiye,10.0,863,1,0,1,0,0,0,1,0,0
+440,Style Hotel Şişli,İstanbul,Şişli,Merkez Mah.  Abide-i Hurriyet Cad  Iskenderoglu Sok. No: 28/A İstanbul / Türkiye,7.4,855,1,0,1,1,0,0,0,0,0
+441,Anatolia Inn,İstanbul,Kartal,Kordonboyu MahallesiÖzçin Sk. No:20 Istanbul İstanbul / Türkiye,8.2,1346,1,0,1,0,0,0,0,0,0
+442,Zin D Home Dudullu,İstanbul,Ümraniye,Yukarı Dudullu Mahallesiİnanç Türkeş Caddesi No 3 İstanbul İstanbul / Türkiye,7.0,497,1,0,1,1,0,1,0,0,1
+443,Ramada Encore By Wndham İstanbul Avcılar,İstanbul,Avcılar,Üniversite Mah. Firüzköy Bulvarı No:42 Avcılar  Avcılar İstanbul / Türkiye,8.1,2272,1,0,1,1,0,1,1,1,0
+444,Sürmeli İstanbul Hotel,İstanbul,İstanbul,GayrettepeProf. Dr. Bülent Tarcan Sokak No:3 Beşiktaş İstanbul / Türkiye,6.3,1878,1,0,1,1,0,1,1,1,0
+445,The Stay Bosphorus,İstanbul,Ortaköy,Yıldız Mh. Ortaköy Salhanesi Sk. No:1 İstanbul / Türkiye,6.0,5728,1,0,1,1,0,0,1,0,0
+446,Ramada Encore Bayrampaşa,İstanbul,Bayrampaşa,YENİDOĞAN MAH. ŞEHİT NACİÇAKAR SOKAK NO:11 BAYRAMPAŞA  İstanbul / Türkiye,8.1,1525,1,0,1,1,0,0,1,0,0
+447,Zin D Home Çekmeköy,İstanbul,Ümraniye,Merkez MahallesiÜsküdar Cd. No:23 İstanbul İstanbul / Türkiye,5.5,490,1,0,1,1,1,1,0,0,1
+448,Dosso Dossi Hotels Yenikapı,İstanbul,Fatih,Langa Bostanları Sokak No:24 İstanbul / Türkiye,10.0,2163,1,0,1,1,0,0,0,1,0
+449,Dila Hotel Kadıköy,İstanbul,Kadıköy,Osmanağa  Mühürdar Fuat Sk. No:5 Kadıköy  İstanbul / Türkiye,8.4,1647,1,0,1,1,0,0,1,1,0
+450,Carlton Hotel,İstanbul,Laleli,Fevziye Cad. No:6 İstanbul / Türkiye,10.0,2281,1,0,1,0,1,0,1,1,0
+451,Buem Hotel Koşuyolu,İstanbul,Kadıköy,Acıbadem Mahallesi Şeyh Galip Sokak No:11 İstanbul / Türkiye,7.1,2450,1,1,1,1,0,1,1,0,0
+452,Six Senses Kocatas Mansions,İstanbul,Sarıyer,Merkez Mahallesi Meserburnu Caddesi No: 7 İstanbul / Türkiye,10.0,8746,1,0,1,1,1,1,1,1,0
+453,Hotel Amira İstanbul,İstanbul,Sultanahmet,Küçük Ayasofya Mah. Mustafapasa Sok. No: 43 İstanbul / Türkiye,6.0,4056,1,0,1,1,0,1,1,1,0
+454,Zin D Home Alemdağ,İstanbul,Ümraniye,Ekşioğlu Mahallesi30. Sk. No: 22 İstanbul İstanbul / Türkiye,8.7,610,1,0,1,1,1,1,1,0,1
+455,Vogue Hotel Supreme Istanbul,İstanbul,Fatih,Alemdar Mh.Yerebatan Cd. No 13 İstanbul İstanbul / Türkiye,6.0,6506,1,0,1,0,0,0,1,1,0
+456,Seres Hotel Old City,İstanbul,Sirkeci,Hoca Paşa MahallesiHüdavendigar Cd. No:25 Istanbul İstanbul / Türkiye,8.7,2366,1,0,1,0,0,0,1,1,0
+457,Bilek Hotel Kavacık,İstanbul,Beykoz,Kavacık Mah. Muhtar Sk. No:9  Beykoz  İstanbul / Türkiye,7.6,2065,1,0,1,1,0,0,1,0,0
+458,Sirkeci Park Hotel,İstanbul,Sirkeci,Ebusuud caddesi No:24 ebusuud cad.24 /sirkeci fatih /istanbul İstanbul / Türkiye,5.3,1051,1,0,1,0,0,0,0,0,0
+459,Euro Stars Hotel Old City,İstanbul,Sirkeci,Hoca Paşa MahallesiHocapaşa Hamamı Sk No:1 İstanbul İstanbul / Türkiye,10.0,3176,1,0,1,0,1,1,1,1,0
+460,Noble22 Suites,İstanbul,Taksim,Gümüşsuyu Mahellesi Kolcak Sokak No:11 İstanbul / Türkiye,10.0,3182,1,0,1,1,0,0,0,0,0
+461,Dream Bosphorus Hotel,İstanbul,Fatih,Hoca Paşa MahallesiKum Meydanı Sk. No:16 İstanbul İstanbul / Türkiye,5.3,5633,1,0,1,1,0,0,0,1,0
+462,Ramada Encore by Wyndham Istanbul Basın Express,İstanbul,Küçükçekmece,Mehmet Akif Mah. Inonu Cad. No:96/1 İstanbul / Türkiye,7.7,1877,1,0,1,1,1,0,0,0,0
+463,Dosso Dossi Hotels Laleli,İstanbul,Laleli,Aksaray  Kemalpaşa Mahallesi  Yeşil Tulumba Sk. No:8 İstanbul / Türkiye,6.0,1842,1,0,1,0,0,0,0,0,0
+464,Ağva Nirvana New World Otel (12+),İstanbul,Ağva,Bucaklı MahallesiÇekek yolu no:15 İstanbul İstanbul / Türkiye,7.5,527,0,1,1,1,0,0,0,1,1
+465,Ağva My Dream Hotel,İstanbul,Ağva,Ağva Merkez Mah. Yakuplu Cad. No:114/1 Ağva-Şile İstanbul İstanbul İstanbul / Türkiye,9.2,1500,0,0,1,1,0,0,1,1,0
+466,Ağva Nehir Evi Butik Otel (Yetişkin Oteli +14),İstanbul,Ağva,Ağva Merkez MahallesiYakuplu Cd. No:228 İstanbul İstanbul / Türkiye,9.1,845,0,0,1,1,0,0,0,0,0
+467,Ağva Deniz Yıldızı Otel,İstanbul,Şile,Ağva MerkezMah. Korkutbey sok. No:9 Ağva Şile İSTANBUL İstanbul / Türkiye,8.4,458,1,0,1,0,0,0,1,0,0
+468,Ağva Heaven Hill Butik Otel,İstanbul,Ağva,Ağva Dut sokakNo:3İsaköy Mahallesi İstanbul / Türkiye,8.5,949,1,0,1,1,0,0,1,1,0
+469,Ağva Green & Blue Otel,İstanbul,Ağva,Kurfallı Mah. Mansur Cad. No:38/2 İstanbul / Türkiye,9.7,940,1,1,1,1,0,0,1,0,0
+470,Sea House Hotel Ağva,İstanbul,Ağva,merkez mah.kuzey cad doktor sokak no:2/1 İstanbul / Türkiye,7.5,550,1,0,1,0,0,0,1,1,0
+471,Ada Palas Büyükada,İstanbul,Büyükada,Maden MahallesiÇiçekli Yalı Sk. No:24 Adalar İstanbul / Türkiye,9.5,1116,0,0,1,0,0,0,1,1,0
+472,Sweet Home River Hotel Ağva(Adult +15 ),İstanbul,Ağva,Ağva Merkez MahallesiYakuplu Cd. no.214 İstanbul İstanbul / Türkiye,9.2,1235,0,1,1,1,0,0,1,1,0
+473,Ağva Venüs Otel,İstanbul,Ağva,Kuzey caddesi no 13 Ağva Istanbul İstanbul / Türkiye,8.8,599,1,0,1,1,0,0,1,0,0
+474,Ağva Gizemli Nehir Hotel,İstanbul,Ağva,Yakuplu Caddesi No:222/ Şile - Ağva  İstanbul / Türkiye,8.1,1187,0,0,1,1,0,0,1,0,1
+475,Büyükada Yalı Butik Otel,İstanbul,Büyükada,Aralık Sok. Kumsal Cad. No:4 Buyukada34400Turkey Büyükada İstanbul / Türkiye,7.9,469,1,0,1,0,0,0,0,1,0
+476,Ramada by Wyndham Şile Hotel,İstanbul,Şile,Turan Aziz Beler cad. no:43 Kumbaba Şile / İSTANBUL İstanbul / Türkiye,7.5,1400,1,0,1,1,1,0,1,0,1
+477,Ağva Beyaz Konak,İstanbul,Ağva,Şile cd. No:1 Ağva  İstanbul / Türkiye,9.1,807,0,0,1,1,0,0,1,0,0
+478,Ağva Kurfal Otel,İstanbul,Ağva,Plaj Caddesi No.35 Ağva-Şile İstanbul / Türkiye,8.3,1126,1,0,1,1,0,0,1,0,1
+479,Ağva Greenline Guest House (Yetişkin Oteli +12),İstanbul,Ağva,Ağva Merkez MahallesiYakuplu Sapağı No:284 İstanbul İstanbul / Türkiye,8.9,1800,0,0,1,1,0,0,1,1,0
+480,Ağva Palas Hotel,İstanbul,Ağva,NO:3Ağva Merkez MahallesiDumlupınar Cd. İstanbul İstanbul / Türkiye,6.0,617,1,0,1,1,0,0,0,1,0
+481,Anastasia Meziki Hotel,İstanbul,Büyükada,Malül Gazi Cad. No:24  İstanbul / Türkiye,8.7,1482,1,0,1,0,1,0,1,0,0
+482,Ağva Stone House,İstanbul,Ağva,kurfallı mahallesi mansur caddesi no 42/1 ağva/şile/istanbul İstanbul / Türkiye,9.7,855,0,0,1,1,0,0,1,0,0
+483,Ağva Asmalı Garden Otel,İstanbul,Ağva,Agva Merkez Mahallesi  Sarikaya Sok. No 14 Ağva İstanbul / Türkiye,9.2,850,0,0,1,0,0,0,1,0,1
+484,Ağva Palas Hotel,İstanbul,Ağva,NO:3Ağva Merkez MahallesiDumlupınar Cd. İstanbul İstanbul / Türkiye,6.0,617,1,0,1,1,0,0,0,1,0
+485,Anastasia Meziki Hotel,İstanbul,Büyükada,Malül Gazi Cad. No:24  İstanbul / Türkiye,8.7,1482,1,0,1,0,1,0,1,0,0
+486,Ağva Green River Hotel ( Yetişkin konsepti +14 ) ,İstanbul,Ağva,Şile teke ağva yolu İsaköy Köprüsü No:2  İstanbul / Türkiye,6.0,799,0,0,1,1,0,0,1,1,0
+487,Ağva Temmuz Otel,İstanbul,Ağva,yakuplu cad no:254/a İstanbul / Türkiye,6.9,1092,1,1,0,1,0,0,1,1,0
+488,Ağva Carpediem Otel,İstanbul,Ağva,Ağva Merkez MahallesiRıhtım Cd No:1 İstanbul İstanbul / Türkiye,5.0,676,1,0,1,0,0,0,1,0,0
+489,Ağva Piazza Otel,İstanbul,Ağva,Agva Merkez Mah.Guzelyali Sok. No:8 Şile İstanbul / Türkiye,8.2,499,1,0,1,0,0,0,1,0,0
+490,Şile Kumsal Butik Hotel,İstanbul,Şile,Kumbaba MahallesiKumbaba Cd. No:42 İstanbul İstanbul / Türkiye,7.6,648,1,0,1,1,0,0,0,0,1
+491,Ağva Orman Evleri Forest Lodge,İstanbul,Ağva,Çamlık bölgesiKurfallı Mahallesi Mansur cad. Ağva-Şile/İstanbul No:22/1 İstanbul / Türkiye,8.9,785,1,1,0,1,0,0,1,1,1
+492,Selimpaşa Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi Oteli,İstanbul,Silivri,Selimpaşa Mah. Araptepe Mevkii 3361 Sk. No 12 İstanbul / Türkiye,6.0,517,1,0,1,1,0,0,0,0,0
+493,Ağva Defne Otel,İstanbul,Ağva,merkez mah. dumlupınar cad. no/4 İstanbul / Türkiye,9.0,760,1,0,1,1,0,0,0,0,0
+494,Ağva Marina Otel,İstanbul,Ağva,AĞVA MERKEZ MAH. NEZAKET SK. MARINA MOTEL NO: 1 ŞİLE/ İSTANBUL Nezaket Sokak No:1 İstanbul / Türkiye,6.2,450,1,0,1,0,0,0,1,0,0
+495,Ağva Tartaruga Motel,İstanbul,Ağva,göçe mahallesi dolmabahçe cad. bahçeler sokak. no57 34990 İstanbul / Türkiye,6.7,394,1,0,1,0,0,0,1,0,0
+496,Selanikli Pansiyon Heybeliada,İstanbul,Heybeliada,Heybeliada MahallesiAyyıldız Cad. No:35 Istanbul - Asia İstanbul / Türkiye,8.3,600,1,1,1,0,0,0,0,1,0
+497,Ağva Robin's Nest (Yetişkin Oteli + 12),İstanbul,Ağva,YakupluCaddesi No:118/a Ağva - Şile İstanbul / Türkiye,8.2,1464,0,0,1,1,0,0,1,0,1
+498,Ağva Safir Otel,İstanbul,Ağva,Yakuplu Mahallesi Nigbolu Sokak No:14 Agva İstanbul / Türkiye,9.1,549,1,0,1,1,0,0,0,0,0
+499,Taksim Yazıcı Residence,İstanbul,Beyoğlu,Tomtom Mahallesiİstiklal Caddesi Akarsu Sokak No:4 İstanbul İstanbul / Türkiye,10.0,3549,1,0,1,0,0,0,1,1,0
+500,Taksim Terrace Hotel,İstanbul,Asmalımescit,Aybasti Sokak No 8 EVliya Çelebi Mahallesi İstanbul / Türkiye,2.7,1335,1,0,1,1,1,0,0,1,0
+501,Taksim Palace Hotel İstanbul,İstanbul,Beyoğlu,Şehit Muhtar Mah. Mahyacı Sk. No:1/1 İstanbul / Türkiye,5.0,1045,1,0,1,1,0,0,0,1,0
+502,Taksim Premium Hotel,İstanbul,Beyoğlu,Kuloğlu Mh.Yeniçarşı Cd. 5 İstanbul / Türkiye,8.7,1690,1,0,1,1,0,0,0,0,0
+503,Taksim Prelude Hotel,İstanbul,Beyoğlu,Kuloğlu Mahallesi Sadri Alışık Sokak No: 26 İstanbul / Türkiye,10.0,3474,1,0,1,0,0,0,0,1,0
+504,Darussaade Hotel,İstanbul,Sultanahmet,Akbiyik Caddesi No:90 Sultanahmet  İstanbul / Türkiye,10.0,1690,1,0,1,0,0,0,1,0,0
+505,Daru Sultan Hotels,İstanbul,Beyoğlu,Evliya Çelebi Mh.meşrutiyet Cd.no:108 Şişhane  Beyoğlu İstanbul / Türkiye,8.7,7211,1,0,1,1,1,0,1,0,0
+506,Sirkeci Emek Hotel,İstanbul,Fatih,Hoca Paşa Mahallesi İstanbul İstanbul / Türkiye,8.0,938,1,0,1,1,0,0,1,0,0
+507,Ajia Hotel,İstanbul,Beykoz,Kanlıca mahallesi/Halide Edip Adıvar Caddesi/no:27/Kanlıca/Beykoz/Ahmet Rasimpaşa Yalısı İstanbul / Türkiye,8.8,4694,1,0,1,1,1,0,1,1,0
+508,Orka Royal Hotel ,İstanbul,Sirkeci,Hocapaşa mah.Nöbethane Cd No:10 İstanbul İstanbul / Türkiye,7.0,7183,1,0,1,0,1,1,1,0,1
+509,Centro Westside by Rotana,İstanbul,Bağcılar,Mahmutbey Mah. Tasocagi Yolu Cad No :39/A İstanbul / Türkiye,8.3,1877,1,0,1,1,1,1,1,1,1
+510,İstanbul Central Hotel,İstanbul,Fatih,Hobyar MahallesiCemal Nadir Sk. No:10 İstanbul İstanbul / Türkiye,4.7,1277,0,0,1,0,0,0,0,0,0
+511,Antique Hostel Pansiyon,İstanbul,Sultanahmet,Kutlugün Sokak No:51 Sultanahmet İstanbul / Türkiye,7.3,593,1,0,1,1,0,0,1,1,0
+512,Nidya Hotel Galataport,İstanbul,Beyoğlu,Kılıçali Paşa MahallesiMeclis-i Mebusan Cd. No:2134333 TophaneBeyoğlu İstanbul / Türkiye,6.9,2552,1,0,1,0,1,0,1,1,0
+513,Alpek Hotel,İstanbul,Fatih,HobyarMah. Arpacılar Cd. No:6 İstanbul İstanbul / Türkiye,8.7,3943,0,0,1,1,0,0,1,1,0
+514,The Elysium Taksim,İstanbul,Taksim,İnönü Mah. Yadikuyular Cad. No1 Taksim  İstanbul / Türkiye,8.7,5990,1,0,1,1,1,0,1,1,1
+515,Cher Hotel İstanbul,İstanbul,Beyoğlu,Hacıahmet Mah  Kurtuluş Dere Cad  No 31 Taksim İstanbul / Türkiye,9.3,4329,1,0,1,1,1,1,1,1,1
+516,Hidden Hills İstanbul Airport Hotel,İstanbul,Arnavutköy,MUSTAFA KEMAL PASA MAH. KAZIM KARABEKIR CAD. NO:107 ARNAVUTKOY İstanbul / Türkiye,7.2,2028,1,0,1,1,0,0,1,1,0
+517,Casa Rosso Hotel,İstanbul,Kadıköy,Caferağa mahallesi imamata sokak no 3 İstanbul / Türkiye,7.2,1567,1,0,1,1,0,0,0,1,0
+518,Santa Ottoman Hotel,İstanbul,Beyoğlu,Şehit Muhtar MahallesiKurabiye Sk. No:1 İstanbul İstanbul / Türkiye,4.0,2704,1,0,1,0,0,0,1,1,0
+519,Business Life Hotel,İstanbul,Mecidiyeköy,Fulya Mah. Vefa Deresi Sk.No:15 Şişli İstanbul / Türkiye,7.7,1445,1,0,1,0,1,0,0,0,0
+520,Titanic Port Bakırköy,İstanbul,Bakırköy,Fisekhane Cad. No:7/3 34140 Bakirköy  Bakırköy İstanbul / Türkiye,2.0,3439,0,0,1,1,1,1,1,1,1
+521,Modern Sultan Hotel,İstanbul,Sultanahmet,Aksaray mahallesi küçük langa aralığı cad no9  İstanbul / Türkiye,10.0,2134,1,0,1,1,0,0,1,0,0
+522,Ay Işığı Otel Ağva,İstanbul,Ağva,Kuzey caddesi No:21 Ağva Şile  İstanbul / Türkiye,6.3,500,1,1,1,1,0,0,1,0,0
+523,Fors Hotel,İstanbul,Sultanahmet,Piyerloti Cad. Kadirga Hamami Sk. No.10 Old City Sultanahmet  Fatih İstanbul / Türkiye,10.0,676,1,0,1,1,0,0,1,0,0
+524,Grand Pamir Hotel,İstanbul,Laleli,Kemalpasa Mah. Mektep Sok No 5 Fatih  Fatih  İstanbul / Türkiye,9.1,1690,1,0,1,0,1,0,0,0,0
+525,Eser Diamond Hotel&Convention Center,İstanbul,Silivri,Çanta Mimarsinan Mh.Kınalı Cad. No:17 SilivriÇorlu Sk34500Turkey İstanbul / Türkiye,6.8,934,1,0,1,1,1,1,1,1,1
+526,Taxim Lounge Hotel,İstanbul,Taksim,Katip Mustafa Çelebi Mahallesi Hasnun Galip Sokak No:9 Beyoğlu  İstanbul / Türkiye,9.1,2241,1,0,1,0,0,0,1,1,0
+527,Golden Siyav Hotel,İstanbul,Kadıköy,Rıhtım Cd. Reşitefendi Sk. No:5 34714 Kadıköy  İstanbul / Türkiye,8.5,1859,1,0,1,0,0,0,1,0,0
+528,Ever Otel Avrupa,İstanbul,Bağcılar,Göztepe Mah. Batışehir Cad. No:2 K3 Blok Bağcılar İstanbul / Türkiye,7.7,1369,1,0,1,1,0,0,1,0,0
+529,Adalar Konak Butik Otel,İstanbul,Büyükada,Nizam mahallesi Çankaya caddesi No:34 Büyükada-İstanbul İstanbul / Türkiye,5.8,1140,1,0,1,0,0,0,0,1,0
+530,The Fox Hotel,İstanbul,Şişli,İnönü Mah. Babil Sok. No:69 Şişli İstanbul / Türkiye,10.0,2687,1,0,1,1,0,0,0,1,0
+531,Bankerhan Hotel,İstanbul,Karaköy,Bereketzade MahallesiBanker Sk. No:2 Beyoğlu İstanbul / Türkiye,10.0,5239,1,0,1,1,0,0,0,1,0
+532,Parmada Hotel Aksaray,İstanbul,Fatih,Kemalpaşa MahallesiOrdu Cd. No:74 Laleli İstanbul / Türkiye,10.0,1183,1,0,1,0,0,0,0,0,0
+533,Tünel Residence,İstanbul,Beyoğlu,Evliya Çelebi MahallesiMeşrutiyet Cd. No:96 İstanbul İstanbul / Türkiye,10.0,1690,1,0,1,1,1,1,1,1,1
+534,İstanbul Golden City Hotel,İstanbul,Beyoğlu,No: 34420Arap Cami MahallesiTersane Cd. No:111 İstanbul İstanbul / Türkiye,8.7,3971,1,0,1,1,0,0,1,1,0
+535,Ascot Hotel Büyükada,İstanbul,Büyükada,Büyükada Çınar Caddesi No:78 İstanbul / Türkiye,9.0,909,1,0,1,0,0,0,0,1,1
+536,Wineport Lodge Ağva,İstanbul,Ağva,Dolmabahce CaddesiNO 48 AĞVA\İSTANBUL İstanbul / Türkiye,9.0,3370,1,0,0,1,0,0,1,0,1
+537,Tree Tops Park Hotel,İstanbul,Ağva,Göçe Köyü mah. No:16 Agva   İstanbul / Türkiye,5.9,891,1,1,1,1,0,0,1,0,1
+538,The Tango Hotel İstanbul,İstanbul,Osmanbey,Bozkurt Mah.. Dolapdere Cad. No: 213  Şişli İstanbul / Türkiye,6.0,5070,1,0,1,1,0,0,0,0,0
+539,Tempo Fair Suites,İstanbul,Bahçelievler,Hürriyet cad. Hürriyet mah. No:1434192   /,8.2,929,1,0,1,0,0,0,1,0,0
+540,Grand Park Hotel Istanbul,İstanbul,Esenyurt,NAMIK KEMAL MAH. 116 SK. NO:42 NAMIK KEMAL MAH. 116 SK. NO:42 İstanbul / Türkiye,7.7,1197,1,0,1,1,0,0,1,1,0
+541,Turkart Hotel,İstanbul,Sultanahmet,Cankurtaran Mah. Tevkifhane Sok. No:12Sultan Ahmet Mahallesi34122 IstanbulTurkey İstanbul / Türkiye,10.0,1201,0,0,1,1,0,0,1,0,0
+542,Holiday Inn Express Istanbul Ataköy Metro Otel ,İstanbul,İstanbul,Sirinevler Mah. Maresel Fevzi Cakmak Cad. 1.Sokak No:13Bahcelievler 3418834Turkey Şirinevler İstanbul / Türkiye,8.5,2000,1,0,1,1,0,0,0,1,0
+543,Bizim Hotel Beyazıt,İstanbul,İstanbul,Mimar Hayrettin MahallesiDivani Ali Sk. No:2 İstanbul Mimar Hayrettin MahallesiDivani Ali Sk. No:2 İstanbul İstanbul / Türkiye,9.3,3380,1,0,1,0,0,0,0,0,0
+544,Esans HotelSpecial Class,İstanbul,Sultanahmet,İshakpasa Cd.Yenisarachane Sk. No: 4 Fatih İstanbul / Türkiye,6.0,2061,1,0,1,1,0,0,0,0,0
+545,Ortaköy Ayşem Sultan Hotel,İstanbul,Ortaköy,Cevirmeci Sokak No:4 Ortaköy İstanbul / Türkiye,7.4,828,1,0,1,0,0,0,0,0,0
+546,Elysium Styles Taksim,İstanbul,Taksim,Taksim Inonu Mah Yedikuyular Caddesi Kuzu Kulagi Sokak No 20 Sisli Taksim İstanbul / Türkiye,7.6,2084,1,0,1,0,0,0,1,0,0
+547,Orka Royal Hotel ,İstanbul,Sirkeci,Hocapaşa mah.Nöbethane Cd No:10 İstanbul İstanbul / Türkiye,7.0,7183,1,0,1,0,1,1,1,0,1
+548,Centro Westside by Rotana,İstanbul,Bağcılar,Mahmutbey Mah. Tasocagi Yolu Cad No :39/A İstanbul / Türkiye,8.3,1877,1,0,1,1,1,1,1,1,1
+549,İstanbul Central Hotel,İstanbul,Fatih,Hobyar MahallesiCemal Nadir Sk. No:10 İstanbul İstanbul / Türkiye,4.7,1277,0,0,1,0,0,0,0,0,0
+550,Antique Hostel Pansiyon,İstanbul,Sultanahmet,Kutlugün Sokak No:51 Sultanahmet İstanbul / Türkiye,7.3,593,1,0,1,1,0,0,1,1,0
+551,Nidya Hotel Galataport,İstanbul,Beyoğlu,Kılıçali Paşa MahallesiMeclis-i Mebusan Cd. No:2134333 TophaneBeyoğlu İstanbul / Türkiye,6.9,2552,1,0,1,0,1,0,1,1,0
+552,Alpek Hotel,İstanbul,Fatih,HobyarMah. Arpacılar Cd. No:6 İstanbul İstanbul / Türkiye,8.7,3943,0,0,1,1,0,0,1,1,0
+553,The Elysium Taksim,İstanbul,Taksim,İnönü Mah. Yadikuyular Cad. No1 Taksim  İstanbul / Türkiye,8.7,5990,1,0,1,1,1,0,1,1,1
+554,Albatros Hagia Sophia,İstanbul,Fatih,Alemdar Mh.Prof. Kazim Ismail Gurkan Cad. No:14 İstanbul İstanbul / Türkiye,6.0,2954,1,0,1,1,0,0,1,1,0
+555,Hotel Prinkipos,İstanbul,Büyükada,Cinar Cad No:33 Büyükada  İstanbul / Türkiye,4.9,427,1,0,1,0,0,0,1,1,0
+556,Liv City Hotels,İstanbul,Halkalı,Basınekspres Caddesi No : 2 KÜÇÜKÇEKMECE İstanbul / Türkiye,7.3,1300,1,0,1,1,0,0,1,1,0
+557,Montagna Hera Hotel,İstanbul,Beyoğlu,İnönü Mah. Elmadağ Cad. No:64 Şişli   /,5.9,1723,1,0,1,0,0,0,1,0,0
+558,Sapko Airport Hotel,İstanbul,Küçükçekmece,Tevfik Bey Mah. Vahit Efendi Sokak No:10 Sefaköy/Küçükçekmece İstanbul / Türkiye,7.9,1502,1,0,1,1,0,0,1,0,0
+559,Hotel Avcılar City,İstanbul,Avcılar,Merkez MahallesiFatih Sokağı no:40 İstanbul  /,7.0,938,1,0,1,0,0,0,1,0,0
+560,Best Hotel Kadıköy,İstanbul,Kadıköy,OSMANAĞA MAHALLESİ NÜSHET EFENDİ SK. NO:34 İstanbul / Türkiye,7.8,1424,1,0,1,0,0,0,0,0,0
+561,Golden Siyav Hotel,İstanbul,Kadıköy,Rıhtım Cd. Reşitefendi Sk. No:5 34714 Kadıköy  İstanbul / Türkiye,8.5,1859,1,0,1,0,0,0,1,0,0
+562,Ever Otel Avrupa,İstanbul,Bağcılar,Göztepe Mah. Batışehir Cad. No:2 K3 Blok Bağcılar İstanbul / Türkiye,7.7,1369,1,0,1,1,0,0,1,0,0
+563,Taxim Lounge Hotel,İstanbul,Taksim,Katip Mustafa Çelebi Mahallesi Hasnun Galip Sokak No:9 Beyoğlu  İstanbul / Türkiye,9.1,2241,1,0,1,0,0,0,1,1,0
+564,Eser Diamond Hotel&Convention Center,İstanbul,Silivri,Çanta Mimarsinan Mh.Kınalı Cad. No:17 SilivriÇorlu Sk34500Turkey İstanbul / Türkiye,6.8,934,1,0,1,1,1,1,1,1,1
+565,Grand Esen Hotel Sirkeci,İstanbul,Fatih,Hoca Paşa MahallesiOrhaniye Cd. 36 İstanbul İstanbul / Türkiye,8.1,1765,1,0,1,0,0,0,0,0,0
+566,Çenar Konak Butik Otel,İstanbul,Büyükada,Nizam Mah. Çınar MeydanıSok. No:13  İstanbul / Türkiye,9.5,1314,1,0,1,1,0,0,1,0,0
+567,Tiara Büyükada Hotel,İstanbul,Büyükada,Yirmiüç Nisan Cd. No:22 İstanbul / Türkiye,8.0,1014,1,1,1,0,0,0,1,1,0
+568,Büyükada Prenses Koyu Butik Otel,İstanbul,Büyükada,Kamelya Sokak No:14 Büyükada34970Turkey İstanbul / Türkiye,7.8,18779,1,0,1,0,0,0,1,1,0
+569,Özdemir Pansiyon Heybeliada,İstanbul,Heybeliada,Ayyılıdz Cad. No:31  Adalar   /,7.0,285,1,0,1,0,0,0,0,0,0
+570,Lotus Restaurant & Home Şile,İstanbul,Şile,Hacı Kasım Mah. Liman Sok. No:28 İstanbul / Türkiye,7.1,1490,1,0,1,1,0,0,1,1,0
+571,Hotel Favori Nişantaşı,İstanbul,Nişantaşı,No: 11 Osmanbey Nişantaşı Şişli İstanbulMatbaacı Osmanbey Sk. İstanbul İstanbul / Türkiye,9.2,1802,1,0,1,0,1,1,1,1,0
+572,Time Hotel Mecidiyeköy,İstanbul,Mecidiyeköy,Mecidiyeköy Mh. Oğuz Sk. No:7 Şişli  İstanbul / Türkiye,7.1,845,1,0,1,1,0,0,1,0,0
+573,Sim Hotel Fatih,İstanbul,Fatih,aksaray mah namık kemal cad abdullah çavuş sok no 14 fatih İstanbul / Türkiye,4.4,1352,1,0,1,1,0,0,0,1,0
+574,Prestige Hotel Old City,İstanbul,Fatih,Mimar Kemalettin MahallesiKoska Cd. No:6 İstanbul İstanbul / Türkiye,7.3,2314,1,0,1,0,0,0,1,1,0
+575,Cumbalı Luxury Butik Hotel,İstanbul,Osmanbey,Cumhuriyet Mah. Tavukçu Fethi Sk. No:31 Osmanbey  İstanbul / Türkiye,8.7,1408,1,0,1,0,0,0,1,1,0
+576,Molton Şişli MSL Hotel,İstanbul,Şişli,Tuna Turizm  19 Mayıs Mah Operatör Raifbey Sok  Tuna Otel No:37 İstanbul / Türkiye,2.0,1032,1,0,1,0,0,0,1,0,0
+577,The Meretto Hotel İstanbul Old City,İstanbul,Fatih,Kemal Paşa MahallesiSelim Paşa Sk. No:25 İstanbul İstanbul / Türkiye,6.9,8233,1,0,1,1,1,0,1,0,0
+578,Four Points by Sheraton İstanbul Kağıthane,İstanbul,Kağıthane,Hamidiye Mah. Cendere Cad. No:15 İstanbul / Türkiye,9.1,2402,1,0,1,1,1,0,1,0,0
+579,Golden Tulip İstanbul Bayrampaşa Hotel,İstanbul,Bayrampaşa,Yenidogan Mahallesi Cicoz Yolu Caddesi No:13 İstanbul / Türkiye,7.9,1521,1,0,1,1,1,0,1,1,1
+580,La Cielo Suites Bostancı,İstanbul,Bostancı,Altıntepe  Eski Bağdat Cd. No: 9 İstanbul / Türkiye,8.8,1284,1,1,1,1,0,0,0,0,0
+581,Bilek Hotel 4Levent,İstanbul,4. Levent,Eski BüyükDere Caddesi No:29 4.Levent  Kağıthane İstanbul / Türkiye,8.3,2275,1,0,1,1,1,1,1,1,0
+582,İbis İstanbul West,İstanbul,Halkalı,Halkalı Merkez MahallesiTokel Sk. No:1 İstanbul İstanbul / Türkiye,8.2,1282,0,1,1,0,0,0,1,0,0
+583,Velena Hotel Ağva ,İstanbul,Ağva,Ağva Mh. Yakuplu Cad. Dere Sk. No:8 Şile  İstanbul / Türkiye,8.3,699,1,0,1,1,0,0,1,0,1
+584,The Escape Hotel,İstanbul,Ağva,Yakuplu Cad No:234/1 İstanbul / Türkiye,9.3,1950,0,0,1,0,0,0,1,1,1
+585,Nil Hotel,İstanbul,Osmanbey,Cumhuriyet Mah. Tavukçu Fethi Sk No:21 İstanbul / Türkiye,8.0,1159,1,0,1,1,0,0,1,1,0
+586,The Marmara Pera,İstanbul,Asmalımescit,Mesrutiyet Caddesi Tepebasi 34430 Asmalımescit / Pera  34430 Beyoğlu/İstanbul İstanbul / Türkiye,7.0,4611,1,1,1,1,0,1,1,1,1
+587,Park Grazza Hotel,İstanbul,Osmanbey,No:158Ergenekon Mh. Muhtarlığı Beyoğlu İstanbul / Türkiye,8.5,1352,1,0,1,1,0,0,0,1,0
+588,Albatros Hagia Sophia,İstanbul,Fatih,Alemdar Mh.Prof. Kazim Ismail Gurkan Cad. No:14 İstanbul İstanbul / Türkiye,6.0,2954,1,0,1,1,0,0,1,1,0
+589,Hotel Prinkipos,İstanbul,Büyükada,Cinar Cad No:33 Büyükada  İstanbul / Türkiye,4.9,427,1,0,1,0,0,0,1,1,0
+590,Liv City Hotels,İstanbul,Halkalı,Basınekspres Caddesi No : 2 KÜÇÜKÇEKMECE İstanbul / Türkiye,7.3,1300,1,0,1,1,0,0,1,1,0
+591,Hotel Avcılar City,İstanbul,Avcılar,Merkez MahallesiFatih Sokağı no:40 İstanbul  /,7.0,938,1,0,1,0,0,0,1,0,0
+592,Best Hotel Kadıköy,İstanbul,Kadıköy,OSMANAĞA MAHALLESİ NÜSHET EFENDİ SK. NO:34 İstanbul / Türkiye,7.8,1424,1,0,1,0,0,0,0,0,0
+593,Montagna Hera Hotel,İstanbul,Beyoğlu,İnönü Mah. Elmadağ Cad. No:64 Şişli   /,5.9,1723,1,0,1,0,0,0,1,0,0
+594,Sapko Airport Hotel,İstanbul,Küçükçekmece,Tevfik Bey Mah. Vahit Efendi Sokak No:10 Sefaköy/Küçükçekmece İstanbul / Türkiye,7.9,1502,1,0,1,1,0,0,1,0,0
+595,Erzurumlu Otel,İstanbul,Kilyos,Kilyos  Kale Cad. No:59  Sarıyer İstanbul / Türkiye,8.0,1558,1,0,1,1,1,0,1,1,1
+596,Rios Edition Hotel,İstanbul,Bakırköy,Cevizlik Mahallesi Kennedy Caddesi No:5 Bakırköy İstanbul / Türkiye,7.3,1069,1,0,1,1,1,0,1,0,1
+597,Pi Art Otel,İstanbul,Kadıköy,Rasimpaşa MahallesiUzun Hafız Sk. No:11 İstanbul İstanbul / Türkiye,8.2,902,1,1,1,0,0,0,0,0,0
+598,Mest Hotel Istanbul Sirkeci,İstanbul,Fatih,RÜSTEMPAŞA MAH. ÇİÇEK PAZARI CAD. NO: 22 FATİH/İSTANBUL İstanbul / Türkiye,6.0,11564,1,0,1,0,0,0,1,0,0
+599,Loren Hotel & Suites,İstanbul,Ortaköy,Mecidiye Mahallesi  Dışbudak Sk. No:11  37347 Ortaköy/İstanbul İstanbul / Türkiye,6.0,1166,1,0,1,1,0,0,0,0,0
+600,Beydağı Suite ,İstanbul,Kadıköy,OSMANAĞA MAHALLESİ GENÇLİK SOKAK NO:6/a İstanbul / Türkiye,6.0,859,1,1,1,0,0,0,0,0,0
+601,Lasagrada Hotel İstanbul,İstanbul,Şişli,Meşrutiyet MahallesiHalaskargazi Cd. No:96 İstanbul İstanbul / Türkiye,6.0,4348,1,0,1,1,1,1,1,1,1
+602,Palde Hotel Spa,İstanbul,Sirkeci,Hoca Paşa Mah. Hüdavendigar Cad. Serdar Sok. No: 2 Sirkeci Eminönü İstanbul İstanbul / Türkiye,6.0,8366,1,0,1,1,1,0,1,1,1
+603,Best Nobel Hotel 2,İstanbul,Fatih,İskenderpaşa MahallesiAhmediye Cd. No:12 İstanbul İstanbul / Türkiye,6.0,1561,1,0,1,0,0,0,0,0,0
+604,Brandroom Hotel,İstanbul,Avcılar,Merkez Mahallesi Engin Sokak No:16 Avcılar/İstanbul İstanbul / Türkiye,6.0,988,1,0,1,1,0,0,0,0,0
+605,Palmiye Suit Otel,İstanbul,Bakırköy,Cevizlik Mah. Ebu Ziya Cad. No:24 Bakırköy İstanbul / Türkiye,6.0,750,1,0,1,1,0,0,0,0,0
+606,The Ritz Carlton Istanbul,İstanbul,Şişli,Süzer Plaza  Askerocağı Caddesi  No:6  Elmadağ İstanbul / Türkiye,6.0,7066,1,0,1,1,1,1,1,0,1
+607,MB Deluxe Hotel,İstanbul,Güngören,fidan sokak no:6 merter İstanbul / Türkiye,6.0,2352,1,0,1,1,0,0,0,1,0
+608,Premist Hotels Sultanahmet,İstanbul,Sultanahmet,Cankurtaran mah. İshakpaşa Cad. No:12-14-16 İstanbul / Türkiye,6.0,1690,1,0,1,0,0,0,0,1,0
+609,Homey Airport Hotel,İstanbul,Arnavutköy,MERKEZ MAH. NİŞAN SOK. NO-1 ARNAVUTKÖY - İSTANBUL İstanbul / Türkiye,6.0,1284,1,0,1,1,0,0,0,0,0
+610,Grand Gold Beach Hotel,İstanbul,Büyükçekmece,Kumburgaz Merkez Mahallesi İstanbul Cadddesi E-5 Karayolu Üzeri No:712/A Büyükçekme/ İstanbul İstanbul / Türkiye,6.0,853,1,0,0,0,0,0,1,0,1
+611,The Zanadu Hotel,İstanbul,Fatih,küçük ayasofya mahallesi şehit mahmet paşa sokak no:26/1 İstanbul / Türkiye,6.0,563,1,0,1,1,0,0,0,1,0
+612,Divan İstanbul,İstanbul,Harbiye,Asker Ocağı Caddesi No:1 Harbiye  İstanbul / Türkiye,9.0,4419,1,0,1,1,1,1,1,1,1
+613,The Marmara Şişli,İstanbul,Mecidiyeköy,Mecidiyeköy MahallesiOrtaklar Cd. No:30 İstanbul İstanbul / Türkiye,7.2,3095,1,1,1,1,0,1,1,1,0
+614,Hotel My Dora,İstanbul,Kadıköy,Rıhtım Caddesi Recaizade S. No:6  Kadıköy İstanbul / Türkiye,8.5,1766,1,0,1,0,0,0,0,0,0
+615,Le Marde Hotel,İstanbul,Bakırköy,Zeytinlik Mahallesi Kennedy Cad Ömer Naci Sok. no:49   Bakırköy İstanbul / Türkiye,5.4,950,1,0,1,1,0,0,1,1,0
+616,VVR Hotel,İstanbul,Şişli,Ergenekon Mah. Halaskargazi Cad. No:5 Harbiye İstanbul / Türkiye,3.3,1267,1,1,1,1,0,0,1,1,0
+617,Derpa Suite Hotel,İstanbul,Nişantaşı,Halaskargazi MahallesiHalaskargazi Cd. No:80 İstanbul İstanbul / Türkiye,6.0,1607,1,0,1,0,0,0,0,0,0
+618,Myy Boutique Hotel ,İstanbul,Pendik,BATI MAH.HAKİMLER ÇIKMAZI SOK. NO:1 PENDİK Hakimler Çıkmazı Sokak No:1 Pendik İstanbul / Türkiye,5.1,884,1,0,1,1,0,0,1,1,0
+619,Paradise Otel Ağva,İstanbul,Ağva,yakuplu mah. dere sok. no21 paradise otel ağva İstanbul / Türkiye,7.1,1350,1,1,1,1,1,0,1,1,0
+620,İstanbul Dedem Hotel,İstanbul,Avcılar,Gumuspala Mah. Nadide Sok. No:2 Avcilar İstanbul / Türkiye,6.0,455,1,0,1,1,0,0,1,0,0
+621,Park Dedeman Bostancı,İstanbul,Kadıköy,Değirmenyolu Cad No 39/C İçerenköy Mah İstanbul / Türkiye,8.4,1881,1,1,1,1,0,1,1,0,0
+622,Luce Di Pera,İstanbul,Beyoğlu,Balik Sokak No : 13 Taksim - Beyoglu34435 IstanbulTurkey İstanbul / Türkiye,6.1,1030,1,0,1,0,0,0,0,1,0
+623,Comfort Suites Hotel,İstanbul,Bahçelievler,Hürriyet Caddesi  Sedef Sokak  No 17 İstanbul / Türkiye,8.0,750,1,1,1,1,0,0,0,0,0
+624,Tevetoğlu Hotel,İstanbul,Sabiha Gökçen Havalimanı,Kurtköy Mahallesi  Zafer Sk. No:3  34912 Pendik/İstanbul İstanbul / Türkiye,6.0,1266,1,0,1,1,0,0,0,1,0
+625,Cadde Suite Bakırköy,İstanbul,Bakırköy,Cevizlik Mahallesi istanbul caddesi no 16 İstanbul / Türkiye,4.8,855,0,0,1,0,0,0,0,0,0
+626, Keyif Boutique Hotel & Restaurant,İstanbul,Şile,Karamandere Mah. Evrim Cad. No:71 Saklıgöl Mevkii İstanbul / Türkiye,8.4,1596,1,0,1,1,0,0,1,1,0
+627,Terrace Suites İstanbul,İstanbul,İstanbul,Sütlüce Mahallesiİmrahor Cd. No:30 İstanbul İstanbul / Türkiye,5.9,1222,1,0,1,0,0,1,1,0,0
+628,Ağva Dachas Cove Houses,İstanbul,Ağva,Kurfallı Mah. Kızılçam Sok. No: 41 Şile / Ağva / İstanbul / TÜRKİYE İstanbul / Türkiye,8.9,2500,1,1,0,1,0,0,1,0,1
+629,Yağız Otel,İstanbul,Ağva,Ağva Merkez mah. Yakuplu cad. Sağlık Sok. No:5 A İstanbul / Türkiye,9.3,521,1,1,1,0,0,0,1,1,0
+630,Balo Hotel,İstanbul,Beyoğlu,HÜSEYİNAĞA MAH TOPÇEKENLERSOK NO 22 BEYOĞLU  İstanbul / Türkiye,3.3,1786,1,0,1,1,0,0,1,0,0
+631,Luxury Airport Hotel,İstanbul,Arnavutköy,Taşoluk Mah. Mustafa Kemal Cad. No.10 İstanbul / Türkiye,6.0,1783,0,0,1,1,0,0,0,1,0
+632,Nova Plaza Pera ,İstanbul,Asmalımescit,Çatma Mescit Mah.Hayratçı Sokak No:1-3 İstanbul / Türkiye,6.0,2920,1,0,1,1,0,0,1,0,1
+633,Hotel Momento Golden Horn,İstanbul,Beyoğlu,arap cami mah. tersane cad. no:24 karaköy İstanbul / Türkiye,6.0,2020,1,0,1,1,0,0,1,1,0
+634,Mest Hotel Istanbul Sirkeci,İstanbul,Fatih,RÜSTEMPAŞA MAH. ÇİÇEK PAZARI CAD. NO: 22 FATİH/İSTANBUL İstanbul / Türkiye,6.0,11576,1,0,1,0,0,0,1,0,0
+635,Loren Hotel & Suites,İstanbul,Ortaköy,Mecidiye Mahallesi  Dışbudak Sk. No:11  37347 Ortaköy/İstanbul İstanbul / Türkiye,6.0,1166,1,0,1,1,0,0,0,0,0
+636,Beydağı Suite ,İstanbul,Kadıköy,OSMANAĞA MAHALLESİ GENÇLİK SOKAK NO:6/a İstanbul / Türkiye,6.0,859,1,1,1,0,0,0,0,0,0
+637,Lasagrada Hotel İstanbul,İstanbul,Şişli,Meşrutiyet MahallesiHalaskargazi Cd. No:96 İstanbul İstanbul / Türkiye,6.0,4353,1,0,1,1,1,1,1,1,1
+638,Palde Hotel Spa,İstanbul,Sirkeci,Hoca Paşa Mah. Hüdavendigar Cad. Serdar Sok. No: 2 Sirkeci Eminönü İstanbul İstanbul / Türkiye,6.0,8375,1,0,1,1,1,0,1,1,1
+639,Ortaköy Ayşem Sultan Hotel,İstanbul,Ortaköy,Cevirmeci Sokak No:4 Ortaköy İstanbul / Türkiye,7.4,828,1,0,1,0,0,0,0,0,0
+640,Parmada Hotel Aksaray,İstanbul,Fatih,Kemalpaşa MahallesiOrdu Cd. No:74 Laleli İstanbul / Türkiye,10.0,1184,1,0,1,0,0,0,0,0,0
+641,Tünel Residence,İstanbul,Beyoğlu,Evliya Çelebi MahallesiMeşrutiyet Cd. No:96 İstanbul İstanbul / Türkiye,10.0,1692,1,0,1,1,1,1,1,1,1
+642,The Tango Hotel İstanbul,İstanbul,Osmanbey,Bozkurt Mah.. Dolapdere Cad. No: 213  Şişli İstanbul / Türkiye,6.0,5076,1,0,1,1,0,0,0,0,0
+643,Tree Tops Park Hotel,İstanbul,Ağva,Göçe Köyü mah. No:16 Agva   İstanbul / Türkiye,5.9,892,1,1,1,1,0,0,1,0,1
+644,Tempo Fair Suites,İstanbul,Bahçelievler,Hürriyet cad. Hürriyet mah. No:1434192   /,8.2,930,1,0,1,0,0,0,1,0,0
+645,Bizim Hotel Beyazıt,İstanbul,İstanbul,Mimar Hayrettin MahallesiDivani Ali Sk. No:2 İstanbul Mimar Hayrettin MahallesiDivani Ali Sk. No:2 İstanbul İstanbul / Türkiye,9.3,3384,1,0,1,0,0,0,0,0,0
+646,Esans HotelSpecial Class,İstanbul,Sultanahmet,İshakpasa Cd.Yenisarachane Sk. No: 4 Fatih İstanbul / Türkiye,6.0,1861,1,0,1,1,0,0,0,0,0
+647,Halifaks Hotel İstanbul,İstanbul,Şişli,19 Mayıs Mahallesi Kucukbahce Sokak No: 25 Şişli   /,6.0,2538,1,0,1,1,0,0,1,0,0
+648,Kilyos Kale Otel,İstanbul,Kilyos,Kale Caddesi No:61 Kumköy KilyosSarıyer İstanbul İstanbul Sarıyer İstanbul / Türkiye,7.8,1466,1,0,1,1,0,0,1,1,1
+649,Elysium Styles Taksim,İstanbul,Taksim,Taksim Inonu Mah Yedikuyular Caddesi Kuzu Kulagi Sokak No 20 Sisli Taksim İstanbul / Türkiye,7.6,2086,1,0,1,0,0,0,1,0,0
+650,Büyükada Princess Hotel,İstanbul,Büyükada,Büyükada-Nizam Mh. 23 Nisan cad. No:234970 Adalar  İstanbul / Türkiye,8.0,1765,1,0,1,0,0,0,1,0,0
+651,Fuat Paşa Yalısı,İstanbul,Sarıyer,Büyükdere Mah. ÇayırbaşıCad. No:148 İstanbul / Türkiye,8.2,1829,1,0,1,1,0,0,1,1,1
+652,Hammamhane,İstanbul,Beyoğlu,Firuzaga Mah.Çukur Cuma Cd. No:45 İstanbul İstanbul / Türkiye,6.0,3196,1,0,1,0,0,0,1,0,0
+653,The Green Park Bostancı,İstanbul,Kadıköy,İçerenköy Mh. Ertaç Sk. No: 16 İstanbul / Türkiye,7.2,1200,0,0,1,1,1,1,1,1,1
+654,Han Hotel,İstanbul,Bahçelievler,Yenibosna Merkez Mh.Turgut Reis1 Sk No:334197 İstanbulTurkey Bahçelievler İstanbul / Türkiye,7.1,1271,1,0,1,0,0,0,1,0,0
+655,Gold Suite Hotel,İstanbul,Maltepe,Cevizli Mah. 30 Ağustos Cad. No:15 Maltepe İstanbul / Türkiye,5.0,1117,1,1,0,0,0,0,0,0,0
+656,Vesta Resort Butik Otel,İstanbul,Kartal,Çarşı Mahallesi. Dolayoba Caddesi. No:18 Ayazma/Yakacık/Kartal  /,7.2,950,1,0,1,1,0,1,1,0,0
+657,Ebruşun Konağı,İstanbul,Maltepe,Zümrütevler MahallesiElif Sk. No:3 Istanbul İstanbul / Türkiye,6.7,1057,1,0,1,0,0,0,1,0,0
+658,Asia Artemis Suite Hotel,İstanbul,Ümraniye,Serifali Mahallesi Turcan Caddesi No: 59 - Ataşehir Asia Artemis Suite Hotel İstanbul / Türkiye,6.8,1002,1,0,1,1,0,0,0,1,0
+659,Center Inn Hotel,İstanbul,Maltepe,Bağlarbaşı  Atatürk Cd. No:74 İstanbul / Türkiye,7.6,950,1,0,0,1,1,1,0,0,1
+660,Arkem Hotel 2,İstanbul,Maltepe,Fındıklı Mahallesi Ataturk Caddesi no 189 Maltepe  İstanbul / Türkiye,5.5,495,1,0,1,0,0,0,0,1,0
+661,The City Suites,İstanbul,Ümraniye,Atakent Mahallesi  Muammer Aksoy Sk.  34774 Ümraniye/İstanbul İstanbul / Türkiye,7.8,766,1,0,1,1,1,0,1,1,0
+662,Atacity Hotel,İstanbul,Ataşehir,Küçükbakkalköy MahallesiŞenlik Sk. No:2 Ataşehir İstanbul / Türkiye,5.8,794,1,0,1,1,0,0,0,1,0
+663,Swissotel Büyük Efes Izmir,İzmir,İzmir Merkez,İsmet Kaptan MahallesiGazi Osman Paşa Blv. No: 1 İzmir / Türkiye,9.4,3004,1,0,1,1,1,1,1,1,1
+664,İzmir Marriott,İzmir,İzmir Merkez,Akdeniz Mah. Gazi Bulvarı No 1 Alsancak İzmir / Türkiye,8.8,2644,1,1,1,1,1,1,1,1,1
+665,Ege Palas Business Hotel,İzmir,Alsancak,Cumhuriyet Bulvarı No:210 35220 Alsancak  İzmir / Türkiye,8.6,1750,1,0,1,1,1,0,1,0,0
+666,Wyndham Grand İzmir Özdilek,İzmir,Balçova,İnciraltı Mahallesi İnciraltı Cd. No:67 İzmir / Türkiye,9.2,2676,1,1,1,1,1,1,1,1,1
+667,Ramada Plaza By Wyndham İzmir,İzmir,Konak,Etiler Mahallesi Mürsel Paşa Bulvarı No: 12 Kahramanlar / Konak  İzmir / Türkiye,8.5,1619,1,0,1,1,0,0,1,1,0
+668,Ramada Encore by Wyndham İzmir,İzmir,Balçova,Mithatpaşa Caddesi No:44 Balçova  İzmir / Türkiye,7.6,1404,1,1,1,1,1,0,1,1,1
+669,Radisson İzmir Aliağa,İzmir,Aliağa,Siteler Mahallesi Necmettin Giritlioğlu CaddesiNo:23 Aliaga / İzmir İzmir / Türkiye,10.0,1404,1,0,1,1,1,1,1,1,0
+670,Hotel Beyond,İzmir,Konak,Kültür Mahallesi Kızılay Caddesi No:5 İzmir / Türkiye,9.2,2176,1,0,1,1,0,0,1,1,0
+671,İbis Styles Hotel Bornova,İzmir,Bornova,Kazımdirik Mahallesi282/2 Sk. NO:11 İzmir / Türkiye,8.9,1800,1,0,1,1,0,0,1,1,0
+672,Four Points by Sheraton İzmir,İzmir,Bayraklı,Cinaralti AvenueAnkara Asfalti StreetNo: 17-A Konak İzmir İzmir / Türkiye,8.8,2356,1,0,1,1,0,0,1,1,0
+673,Park Inn by Radisson İzmir,İzmir,İzmir Merkez,Alsancak MahallesiCumhuriyet Blv No:124  İzmir / Türkiye,8.6,1607,1,0,1,1,0,1,1,1,0
+674,Ontur Otel İzmir,İzmir,Konak,İsmet Kaptan Mahallesi Gazi Bulvarı No:130 Konak İzmir / Türkiye,8.4,1468,1,0,1,1,1,0,1,0,1
+675,İbis İzmir Alsancak,İzmir,Alsancak,Alsancak Mahallesi Atatürk Caddesi No. 404 – 410  İzmir / Türkiye,8.8,1632,1,0,1,1,0,0,1,0,0
+676,Kordon Otel Pasaport,İzmir,Konak,Akdeniz Caddesi No:2 Pasaport  İzmir / Türkiye,8.4,2105,1,0,1,1,0,0,1,1,0
+677,Hotel 86 By Katipoğlu,İzmir,Konak,Fevizpaşa Bulvarı No: 41/2Çankaya İzmir / Türkiye,8.8,1295,1,0,1,1,0,0,1,1,0
+678,Best Western Hotel Konak,İzmir,İzmir Merkez,Yeşiltepe MahallesiMithatpaşa Cd. No:128  İzmir / Türkiye,8.3,1500,1,1,1,1,0,0,1,1,0
+679,Walk In Hotel,İzmir,Konak,İsmet Kaptan  No:2  9 Eylül Meydanı No:9 Konak İzmir / Türkiye,5.2,850,1,0,1,1,0,0,1,0,0
+680,Ramada By Wyndham İzmir Aliağa,İzmir,Aliağa,Yalı mah 130 sk no 16  İzmir / Türkiye,9.3,1750,1,0,1,1,0,0,1,1,0
+681,Anemon Ege,İzmir,Bornova,Ege Üniversitesi Kampüsü  Bornova İzmir / Türkiye,7.3,1288,1,0,1,1,0,0,1,0,1
+682,Hampton By Hilton İzmir Aliağa,İzmir,Aliağa,Yalı Mahallesi130 Sok. No:11 İzmir İzmir / Türkiye,8.9,1650,1,0,1,0,0,1,1,0,0
+683,Coordinat Suits,İzmir,İzmir Merkez,kazım dirik mah. 351.sokak no: 3 İzmir / Türkiye,8.2,1650,1,0,1,1,1,0,0,0,1
+684,Blanca Hotel İzmir,İzmir,Konak,Kahramanlar Mahallesi1397. Sk. No:2 İzmir / Türkiye,9.0,1603,1,0,1,1,0,0,1,1,0
+685,Ramada By Wyndham Tire,İzmir,Tire,Fatih Mahallesi İstasyon Caddesi No:83   /,8.6,2290,1,1,1,1,1,0,1,1,1
+686,Doubletree by Hilton Airport İzmir,İzmir,Gaziemir,Fatih Mahallesi Ege Caddesi No:4  İzmir / Türkiye,9.2,1923,0,0,1,1,0,0,1,1,1
+687,Greymark Hotel,İzmir,Konak,Etiler MahallesiMürselpaşa Blv. No:8  İzmir / Türkiye,8.8,1423,1,0,1,1,0,0,1,1,0
+688,Anemon İzmir,İzmir,Konak,Oğuzlar Mahallesi Mürsel Paşa Bulvarı No:40 Konak İzmir / Türkiye,6.2,1682,1,0,1,1,0,1,1,0,0
+689,Boyalık Beach Hotel & Spa,İzmir,Boyalık,3200 Sok. No:1 Boyalik Mevkii Çeşme İzmir / Türkiye,8.4,2400,1,0,1,1,1,0,1,0,1
+690,Pırıl Hotel Thermal & Beauty Spa,İzmir,İzmir,İnönü  Çevre Karayolu  35930 Çeşme/İzmir İnönü  Çevre Karayolu  35930 Çeşme/İzmir İzmir / Türkiye,8.3,2600,1,0,1,1,1,0,1,0,1
+691,Sc Inn Hotels İzmir,İzmir,Konak,Etiler MahallesiMürselpaşa Blv. No:2 D:2  İzmir / Türkiye,5.7,1056,1,0,1,1,0,1,1,1,0
+692,Tav Airport Hotel İzmir,İzmir,Gaziemir,Adnan Menderes Havalimanı Dış Hatlar Terminali Gaziemir İzmir / Türkiye,8.6,1316,1,0,1,1,0,0,1,0,0
+693,Anemon Çiğli,İzmir,Çiğli,Anadolu Cad. 8001/2 Sok. No:2  İzmir / Türkiye,7.7,1992,1,0,1,1,1,0,1,0,1
+694,Ramada Hotel & Suites Kemalpaşa İzmir,İzmir,Kemalpaşa,Ankara Asfaltı 24. Km. No:44/6 İzmir / Türkiye,9.5,2078,1,0,1,1,1,0,1,0,1
+695,Mira Otel Alsancak,İzmir,Alsancak,Alsancak Mahallesi 1488. Sk. No 7 İzmir / Türkiye,6.0,1538,1,0,1,0,1,0,1,0,0
+696,Otel Marla,İzmir,İzmir Merkez,Akdeniz Mahallesi Vali Kazım Dirik Caddesi No:7 Konak  İzmir / Türkiye,7.6,1599,1,0,1,1,0,0,1,1,0
+697,Otel Vesta Liman,İzmir,Alsancak,1475 Sk.no:3 Alsancak  İzmir / Türkiye,6.4,950,1,0,1,1,0,0,1,0,0
+698,Balçova Termal Otel,İzmir,Balçova,Vali Hüseyin Öğütcen Caddesi No:2 Balçova İzmir / Türkiye,8.0,1685,1,0,1,1,1,0,1,0,1
+699,Otel Vesta Fuar,İzmir,Konak,1258 Sok.No:8 Oğuzlar Mah.  Kahramanlar / Konak İzmir / Türkiye,6.2,950,1,0,1,1,1,0,1,0,0
+700,Armis Hotel,İzmir,Konak,Mursel Pasa Bulvari  No:157  Kahramanlar / Konak İzmir / Türkiye,8.3,1638,1,0,1,1,1,0,1,0,0
+701,Kordon Hotel Çankaya,İzmir,Çankaya,Gazi Osman Paşa Bulvarı No:13 İzmir / Türkiye,8.7,1607,1,0,1,1,1,1,1,1,0
+702,HAY Hotel Alsancak,İzmir,Alsancak,Alsancak Mahallesi 1476/1 Sokak İzmir / Türkiye,9.0,2012,1,0,1,1,0,0,1,1,0
+703,Kaya İzmir Thermal & Convention,İzmir,Narlıdere,Ilica Mah. Zeytin Sk. No:112 Narlıdere İzmir / Türkiye,10.0,3412,1,0,1,1,1,0,1,0,1
+704,Kaya Prestige İzmir,İzmir,İzmir Merkez,İsmet Kaptan Mahallesi1371. Sk. No:7  İzmir / Türkiye,8.9,1979,1,0,1,1,0,0,1,1,0
+705,Kocaman Hotel,İzmir,Konak,Yenidoğan Mah 1195 Sokak No 2Yenişehir  İzmir / Türkiye,7.2,850,1,0,1,1,0,0,1,1,0
+706,Dalyan Elit Aparts,İzmir,Dalyan,Dalyan Mahallesi4227. Sk. No:5 İzmir  /,10.0,853,1,0,1,1,0,0,0,0,0
+707,Extenso Hotel,İzmir,Gaziemir,Akçay CaddesiNo: 218 İzmir / Türkiye,8.9,2000,1,0,1,1,1,1,1,1,0
+708,North Wind Hotels Karaburun,İzmir,Karaburun,mordogan mah palmiye sok no 1 İzmir / Türkiye,6.5,785,1,1,1,0,0,0,0,0,0
+709,Üstün Otel Alsancak,İzmir,Konak,1420 sokak. No:79 Alsancak  Konak İzmir / Türkiye,7.5,605,1,0,1,1,0,0,1,0,0
+710,Serin Otel Urla,İzmir,Urla,DENİZLİ MAHALLESİ 48 SOKAK NO:13 İZMİR/URLA İzmir / Türkiye,9.3,807,1,0,1,1,0,0,0,1,0
+711,Denizkızı Butik Pansiyon Karaburun,İzmir,Karaburun,İskele  İskele Cd. No: 44/A sokak no 23-1  35960 Karaburun/İzmir İzmir / Türkiye,2.0,1140,1,1,1,0,0,0,1,0,0
+712,Lavantalı Konak Taşev Otel Seferihisar,İzmir,Seferihisar,Hıdırlık Mahallesi 2124/1 Sokak No:3/2 İzmir / Türkiye,8.4,1045,1,1,1,1,0,0,1,0,1
+713,Selena Hotel Selçuk,İzmir,Selçuk,Ataturk Mahallesi 1044 Sokak No 7  İzmir / Türkiye,9.0,549,1,0,1,1,0,0,0,0,0
+714,Elda Alaçatı Hotel,İzmir,Alaçatı,Alaçatı mahallesi 6000 sokak no:15 35930 Çeşme/İzmir İzmir / Türkiye,8.1,432,1,0,1,1,0,0,1,1,1
+715,Alaçatı Private Hotel,İzmir,Alaçatı,Alaçatı MahallesiAtatürk Blv. 6 İzmir / Türkiye,10.0,550,1,1,1,0,0,0,0,0,0
+716,No Onbir Alaçatı,İzmir,Alaçatı,12038 Sk. No:11 İzmir / Türkiye,4.0,950,0,0,1,0,0,0,0,0,0
+717,Houdini Hotel Urla ,İzmir,Urla,Kalabak  Mareşal Fevzi Çakmak Blv. No:322  35000 Urla/İzmir URLA \ İZMİR  İzmir / Türkiye,7.3,1200,1,0,1,0,0,0,1,1,0
+718, NYX Hotel Güzelbahçe,İzmir,Güzelbahçe,Maltepe Mah. Mithatpaşa cad. no:165  İzmir / Türkiye,9.2,1691,0,0,1,1,0,0,1,1,0
+719,Sirius Mi Otel Çeşme ,İzmir,Çeşme,İsmet İnönü  2133. Sk. no:4  35930 Çeşme/İzmir İsmet İnönü  2133. Sk. no:4  35930 Çeşme/İzmir İzmir / Türkiye,3.3,775,1,1,0,0,0,0,0,0,1
+720,Salkım Konakları,İzmir,Şirince,Şirince Mahallesi220 Sokak No:41 İzmir / Türkiye,9.5,2137,1,0,1,0,0,0,1,0,1
+721,Vinifera Hotel Yedi Bilgeler Vineyards ,İzmir,Selçuk,Döltenaltı Mevkii   Gökçealan KöyüNo:9/A İzmir / Türkiye,8.9,2064,1,0,1,1,0,0,1,0,1
+722,Perla Arya Hotel,İzmir,Konak,Oğuzlar Mahallesi 1253 Sokak No: 1 Konak İzmir / Türkiye,7.8,771,1,0,1,0,0,0,1,0,0
+723,Olimpiyat Otel,İzmir,İzmir Merkez,1296 Sk. No: 24  İzmir / Türkiye,7.2,500,1,0,1,1,0,0,1,0,0
+724,GSZ Apart Karşıyaka,İzmir,Karşıyaka,Fazıl bey caddesi hülya apt no 2/1 Donanmacı mahallesi  İzmir / Türkiye,2.0,1187,1,1,1,1,0,0,0,0,0
+725,Grand Zeybek Hotel,İzmir,Konak,İsmet Kaptan MahallesiFevzipaşa Bulvarı 1368 Sokak No:6  Konak İzmir / Türkiye,7.2,1088,1,0,1,1,0,0,1,1,0
+726,The S Hotel By Ascend Collection,İzmir,Alaçatı,Yeni Lİman Mevkii 18000 Sok No:13  Alaçatı İzmir / Türkiye,4.8,1490,0,1,1,1,1,0,0,1,1
+727,Birgi İzzet Efendi Taşkonak,İzmir,Birgi,Birgi Mahallesi İzmir İzmir / Türkiye,6.7,855,1,0,1,1,0,0,0,0,0
+728,Urla Pera Hotel,İzmir,Urla,İskele MahallesiYorgo Seferis Sk. No:10 İzmir İzmir / Türkiye,7.8,1520,1,0,1,1,0,0,1,1,0
+729,Talles Comfort Alaçatı,İzmir,Alaçatı,11081sk.no:7 alaçatı mah. 11081sk.no:7 Alaçatı mah. İzmir / Türkiye,8.7,827,0,0,1,0,0,0,1,1,1
+730,Livia Hotel Ephesus,İzmir,Selçuk,Atatürk Mah. 1045 sok. No:25  İzmir / Türkiye,9.6,2030,0,0,1,1,0,0,1,0,0
+731,Galenos Hotel Bergama,İzmir,Bergama,Bahçelievler Mah.Atatürk Bulvarı No:132 İzmir / Türkiye,10.0,950,1,0,1,1,0,0,1,1,0
+732,Villa Levante Otel,İzmir,Bornova,Erzene Mahalesi 80. Sokak No:25  Bornova/İzmir İzmir / Türkiye,9.3,2521,1,0,1,0,0,0,1,0,0
+733,Aden Butik Otel Çeşme,İzmir,Çeşme,Musalla Mah  1114/1. Sk. No:2/1  35930 Çeşme/İzmir İzmir / Türkiye,9.7,675,1,1,1,0,0,0,0,0,1
+734,Hotel Karacam Foça,İzmir,Foça,Ismetpaşa Mahallesi Reha Midilli Caddesi No: 70 Eski Foça  İzmir / Türkiye,9.4,1146,1,0,1,0,0,0,1,1,0
+735,Destina Boutique Hotel Ilıca,İzmir,Ilıca,5153 sok. no.6  /,8.7,1065,1,1,1,0,0,0,0,0,1
+736,Kurabiye Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mah. 12030 Sok. No:1 35950  Çeşme/İzmir Alaçatı Mah. 12030 Sok. No:1 35950  Çeşme/İzmir İzmir / Türkiye,9.3,1443,1,1,1,0,0,0,1,0,1
+737,Gran Via Alsancak,İzmir,Alsancak,Can Yücel Sokak No:2 İzmir / Türkiye,9.4,1939,0,0,1,0,0,0,0,0,0
+738,Alakapı Otel,İzmir,Alaçatı,Alaçatı mah. 13033 sok. no:22/1  İzmir / Türkiye,10.0,2054,0,0,1,1,0,0,1,1,1
+739,Hotel Balca İzmir,İzmir,Konak,Alsancak Mahallesi1484. Sk. No:11 İzmir İzmir / Türkiye,7.5,802,1,0,1,0,0,0,1,0,0
+740,1890 Swan Deluxe Alaçatı,İzmir,Alaçatı,ALAÇATI MAH. 3010 SOK. NO:3 İzmir / Türkiye,6.0,9895,1,0,1,0,0,0,0,0,0
+741,The ABC Hotel,İzmir,Alaçatı,Alaçatı Mahallesi2001. Sk. No:32  İzmir / Türkiye,6.0,1660,0,1,1,0,0,0,0,1,1
+742,Enso Suıtes Alaçatı,İzmir,Alaçatı,Alaçatı mahallesi 12055. sokak no.17Çeşme/İzmir Alaçatı mahallesi 12055. sokak no:17 Çeşme/İzmir İzmir / Türkiye,6.0,2826,1,1,1,0,0,0,0,0,1
+743,Ağanbey Otel Alaçatı,İzmir,Alaçatı,13046 sk. no 17/1alaçatı çeşme izmir İzmir / Türkiye,6.0,7599,0,0,1,0,0,0,0,0,0
+744,Doors Boutique Hotel Urla,İzmir,Urla,Rüstem Mahallesi Çiçek Sokak No:2  Urla  İzmir / Türkiye,6.0,2835,1,1,1,0,0,0,0,0,1
+745,Kocaman Hotel,İzmir,Konak,Yenidoğan Mah 1195 Sokak No 2Yenişehir  İzmir / Türkiye,7.2,850,1,0,1,1,0,0,1,1,0
+746,Şenyıldız Hotel,İzmir,Foça,İsmetPaşa Mahallesi Reha Midilli Caddesi No:66 İzmir / Türkiye,9.4,1563,0,0,1,1,0,0,0,0,0
+747,Vatan Otel,İzmir,İzmir Merkez,Kurtuluş Mahallesi Anafartalar Caddesi No:628 İzmir / Türkiye,5.0,449,1,1,1,0,0,0,1,0,0
+748,Rıdvan Otel Çeşme,İzmir,İzmir,16 EYLÜL MH.CUMHURİYET MEYDANI NO : 11 ÇEŞME - İZMİR İzmir / Türkiye,8.2,617,1,0,1,0,0,0,0,0,0
+749,Zeniva Hotel,İzmir,Konak,Kızılay Cad. No:1/1 Alsancak  İzmir / Türkiye,6.3,1692,1,1,1,1,0,0,1,0,0
+750,Enso Köyiçi Alaçatı,İzmir,Alaçatı,Alaçatı Mh. 12000 Sk. No.25 Çeşme İZMİR İzmir / Türkiye,8.8,1629,0,1,1,0,0,0,0,0,0
+751,Foça Dome Glamping Suits,İzmir,Foça,Kozbeyli Mah Kozbeyli Köyü Küme Evler No:11/1 Iç Kapi No:1  İzmir / Türkiye,6.0,1899,1,0,1,1,0,0,1,1,0
+752,Sığacık Gardenya Butik OtelAdult Only (+12),İzmir,Sığacık,Sığacık Mahallesi 128. Sokak No:11 Seferhisar İzmir / Türkiye,9.5,1504,0,0,1,0,0,0,1,0,0
+753,Rue d'Azur Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi13053 Sokak No:13 İzmir İzmir / Türkiye,8.3,564,1,1,1,0,0,0,0,0,0
+754,Extenso Hotel,İzmir,Gaziemir,Akçay CaddesiNo: 218 İzmir / Türkiye,8.9,2000,1,0,1,1,1,1,1,1,0
+755,The S Hotel By Ascend Collection,İzmir,Alaçatı,Yeni Lİman Mevkii 18000 Sok No:13  Alaçatı İzmir / Türkiye,4.8,1490,0,1,1,1,1,0,0,1,1
+756,Birgi İzzet Efendi Taşkonak,İzmir,Birgi,Birgi Mahallesi İzmir İzmir / Türkiye,6.7,855,1,0,1,1,0,0,0,0,0
+757,Hotel Karacam Foça,İzmir,Foça,Ismetpaşa Mahallesi Reha Midilli Caddesi No: 70 Eski Foça  İzmir / Türkiye,9.4,1146,1,0,1,0,0,0,1,1,0
+758,Kurabiye Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mah. 12030 Sok. No:1 35950  Çeşme/İzmir Alaçatı Mah. 12030 Sok. No:1 35950  Çeşme/İzmir İzmir / Türkiye,9.3,1443,1,1,1,0,0,0,1,0,1
+759,Gran Via Alsancak,İzmir,Alsancak,Can Yücel Sokak No:2 İzmir / Türkiye,9.4,1939,0,0,1,0,0,0,0,0,0
+760,Destina Boutique Hotel Ilıca,İzmir,Ilıca,5153 sok. no.6  /,8.7,1065,1,1,1,0,0,0,0,0,1
+761,Alakapı Otel,İzmir,Alaçatı,Alaçatı mah. 13033 sok. no:22/1  İzmir / Türkiye,10.0,2054,0,0,1,1,0,0,1,1,1
+762,Lavantalı Konak Taşev Otel Seferihisar,İzmir,Seferihisar,Hıdırlık Mahallesi 2124/1 Sokak No:3/2 İzmir / Türkiye,8.4,1045,1,1,1,1,0,0,1,0,1
+763,Denizkızı Butik Pansiyon Karaburun,İzmir,Karaburun,İskele  İskele Cd. No: 44/A sokak no 23-1  35960 Karaburun/İzmir İzmir / Türkiye,2.0,1140,1,1,1,0,0,0,1,0,0
+764,Serin Otel Urla,İzmir,Urla,DENİZLİ MAHALLESİ 48 SOKAK NO:13 İZMİR/URLA İzmir / Türkiye,9.3,807,1,0,1,1,0,0,0,1,0
+765,Elda Alaçatı Hotel,İzmir,Alaçatı,Alaçatı mahallesi 6000 sokak no:15 35930 Çeşme/İzmir İzmir / Türkiye,8.1,432,1,0,1,1,0,0,1,1,1
+766,Alaçatı Private Hotel,İzmir,Alaçatı,Alaçatı MahallesiAtatürk Blv. 6 İzmir / Türkiye,10.0,550,1,1,1,0,0,0,0,0,0
+767,No Onbir Alaçatı,İzmir,Alaçatı,12038 Sk. No:11 İzmir / Türkiye,4.0,950,0,0,1,0,0,0,0,0,0
+768,Peri Art Hotel,İzmir,Alaçatı,Alaçatı Mahallesi3045. Sk. No:3 İzmir / Türkiye,9.5,3760,1,1,1,1,0,0,0,0,0
+769,Meglen Konak Şirince,İzmir,Şirince,Şirince Mahallesi 220.sokak no:43 Şirince İzmir / Türkiye,7.3,949,1,0,1,0,0,0,0,0,0
+770,Alaçatı Otel Rebetiko,İzmir,Alaçatı,Alaçatı Mahallesi 13068 Sokak 3-1 Rebetiko Otel İzmir / Türkiye,9.0,535,1,1,1,0,0,0,0,0,1
+771,Port Alaçatı Hotel,İzmir,Alaçatı,Alaçatı Mahallesi  Liman Cad. Alaçatı Yat limanı üstü  35950 Çeşme/İzmir İzmir / Türkiye,8.7,2223,1,0,1,0,0,0,0,0,1
+772,Urla Yakamoz Otel,İzmir,Urla,İskele Mahallesiİskele Cd. No:79 İzmir İzmir / Türkiye,8.6,1140,1,0,1,1,0,0,1,0,0
+773,Alayaz Otel Alaçatı ,İzmir,Alaçatı,Alaçatı Mahallesi Alaçatı cumhuriyet caddesi no:40 İzmir / Türkiye,9.1,850,1,0,1,0,0,0,0,0,0
+774,Ve Hotels Karşıyaka,İzmir,Karşıyaka,VE HOTELS KARŞIYAKA Bostanlı  Şht. Cengiz Topel Cd. No:27  35540 Karşıyaka/İzmir VE HOTELS KARŞIYAKA Bostanlı  Şht. Cengiz Topel Cd. No:27  35540 Karşıyaka/İzmir İzmir / Türkiye,6.0,2300,1,0,1,1,0,0,1,1,0
+775,Markiz Konakları,İzmir,Şirince,Şirince Mahallesi 6.Sok. No: 20/1-2 İzmir / Türkiye,9.3,1692,1,0,1,1,1,0,1,1,0
+776,Salbakos Herakleia Boutique Hotel ,İzmir,Alaçatı,12002 sokak no 20 İzmir / Türkiye,9.8,5132,0,0,1,1,0,0,1,1,1
+777,Gülnar Sultan Taş Konak,İzmir,Dikili,Merdivenli MahallesiAtatürk Cad. No:22  İzmir / Türkiye,10.0,1187,0,1,0,0,0,0,0,1,1
+778,Pangea Sığacık Pansiyon & Bistro,İzmir,Sığacık,Sığacık Mah. Kaleiçi 129. Sk. No:44  İzmir / Türkiye,8.3,650,1,0,0,0,0,0,1,0,0
+779,İnvivo Hotel,İzmir,Konak,Alsancak Mahallesi1454. Sokak İzmir / Türkiye,3.3,622,1,0,1,1,0,0,0,0,0
+780,1870s Taş Konak Otel Sanat Sokağı,İzmir,Urla,Yeni mahalle Filiz sk. No:15 İzmir / Türkiye,9.7,1600,0,0,1,1,0,0,1,1,0
+781,Alasonya Alaçatı by La Mira,İzmir,Alaçatı,Alaçatı Mahallesi  11058 Sokak No:5  35937 Çeşme/İzmi İzmir / Türkiye,7.1,361,1,0,1,1,0,0,1,1,0
+782,Rüzgar Gülü Butik Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi11077. Sk. No:37  İzmir / Türkiye,9.0,427,0,0,1,1,0,0,0,0,1
+783,Thats Alaçatı,İzmir,Alaçatı,Alaçatı Mah. 18026. Sokak No 87 İzmir / Türkiye,9.3,900,0,0,1,1,0,0,1,0,1
+784,Narimor Urla Butik Otel,İzmir,Urla,Camiatik MahallesiSümbüllü Çeşme Sk. No:15 İzmir İzmir / Türkiye,7.7,3008,0,0,1,1,0,0,1,0,0
+785,Myhouse Urla Butik Otel,İzmir,Urla,Yağcılar  9024 sk  Yağcılar Cd. no:14  35430 Urla/İzmir Yağcılar  9024 sk  Yağcılar Cd. no:14  35430 Urla/İzmir İzmir / Türkiye,8.6,1282,1,1,1,0,0,0,1,0,1
+786,Asma Han Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi3068. Sk. No:11 İzmir İzmir / Türkiye,8.2,617,0,0,1,1,0,0,1,1,0
+787,Hakcan Otel,İzmir,Gaziemir,Gazi MahallesiAkçay Cd. No: 206 İzmir İzmir / Türkiye,8.1,874,1,1,1,1,0,0,0,1,0
+788,Bay C Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi  Fahrettin Altay Caddesi No 50 İzmir / Türkiye,9.4,10039,0,0,1,1,0,0,1,0,1
+789,Viento Otel Alaçatı,İzmir,Alaçatı,Yeni Mecidiye Mah. 1039 Sokak No: 18  Alaçatı İzmir / Türkiye,9.7,2694,0,0,1,1,0,0,1,0,1
+790,Chloe Hotel Alaçatı ,İzmir,Alaçatı,Alaçatı mahallesi 1058 sokak numara 15A İzmir / Türkiye,6.0,1500,0,0,1,0,0,0,0,0,1
+791,Asma Han Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi3068. Sk. No:11 İzmir İzmir / Türkiye,8.2,617,0,0,1,1,0,0,1,1,0
+792,Bay C Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi  Fahrettin Altay Caddesi No 50 İzmir / Türkiye,9.4,10039,0,0,1,1,0,0,1,0,1
+793,Chloe Hotel Alaçatı ,İzmir,Alaçatı,Alaçatı mahallesi 1058 sokak numara 15A İzmir / Türkiye,6.0,1500,0,0,1,0,0,0,0,0,1
+794,Viento Otel Alaçatı,İzmir,Alaçatı,Yeni Mecidiye Mah. 1039 Sokak No: 18  Alaçatı İzmir / Türkiye,9.7,2694,0,0,1,1,0,0,1,0,1
+795,Vintage Boutique Hotel Alaçatı ,İzmir,Alaçatı,Alaçatı Mh. 13046 Sk. No:2/1  İzmir / Türkiye,10.0,1234,0,1,1,1,0,0,1,1,0
+796,Umurla Otel ,İzmir,Urla,Hacı İsa mah.Erdoğan Ker cad. no:10/1 Urla/İzmir Hacı İsa mah.Erdoğan Ker cad. no:10/1 Urla/İzmir İzmir / Türkiye,9.1,1282,1,0,1,1,0,0,0,0,0
+797,B House Hotel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi2051. Sk. No:14 İzmir İzmir / Türkiye,10.0,1231,0,0,1,1,0,0,0,0,1
+798,Sade Alaçatı Butik Otel,İzmir,Alaçatı,Yeni Mecidiye Mah. Inonu Cad. No: 72 İzmir / Türkiye,8.3,890,1,0,1,1,1,0,1,0,1
+799, Atrium Taş Otel Çeşme,İzmir,Çeşme,16 eylül mah 3014 sok no 59 çeşme 16 eylül mah 3014 sok no 59 çeşme İzmir / Türkiye,8.0,665,1,0,1,0,0,0,1,0,1
+800,İzan Hotel,İzmir,Konak,İsmetkaptan Mah. 1370/22  Çankaya / Konak  İzmir / Türkiye,7.7,855,1,0,1,1,0,0,1,0,0
+801,Met Boutique Hotel,İzmir,Çankaya,İsmet Kaptan  Gazi Blv. No:124 Çankaya/Konak/İzmir İzmir / Türkiye,9.3,1615,1,0,1,1,0,0,1,0,0
+802,Orty Airport Hotel,İzmir,Gaziemir,İzmir Adnan Menderes Havalimanı Gaziemir  İzmir / Türkiye,8.2,1299,1,1,1,1,0,0,1,0,0
+803,Twins Hotel Çeşme,İzmir,Çeşme,İnönü Mah.2100 Sokak 2/B  Çeşme İzmir / Türkiye,8.2,5640,0,0,1,1,0,0,1,0,1
+804,Laleli Hotel İzmir,İzmir,Konak,İsmet Kaptan MahallesiOsman Paşa Cd. No:7  İzmir / Türkiye,6.4,582,1,1,1,1,0,0,0,0,0
+805,Çiçek Apart Otel,İzmir,Çeşme,2122 Sokak No 47 İzmir İnönü mah. İzmir / Türkiye,4.6,560,1,0,1,0,0,0,0,0,1
+806,Rupa Otel Alaçatı - Adults Only,İzmir,Alaçatı,Alaçatı Mahallesi  2068. Sk. No:2  35450 Çeşme/İzmir İzmir / Türkiye,8.5,1280,0,0,1,1,0,0,1,1,1
+807,Kanuni Kervansaray Hotel Çeşme,İzmir,Çeşme,Musalla mah. 1015 sok no:5  Çesme İzmir / Türkiye,6.9,617,1,0,1,0,0,0,1,1,0
+808,Çaylan Hotel,İzmir,Basmane,İsmet Kaptan  Anafartalar Cd. No:789  Konak İzmir / Türkiye,6.0,380,0,0,1,0,0,0,0,0,0
+809,Zeybek Otel Seferihisar,İzmir,Seferihisar,Bengiler Mahallesi 6243 Sokak No.12 İzmir / Türkiye,7.5,285,1,0,1,0,0,0,1,1,0
+810,NK Hotel İzmir,İzmir,Konak,Mürselpaşa Bulvarı No:48  İzmir / Türkiye,8.3,1050,1,0,1,0,0,0,1,0,0
+811,Hotel Mary's House Selçuk,İzmir,Selçuk,Atatürk Mahallesi 1057. Sokak No:17  İzmir / Türkiye,10.0,1128,1,0,1,0,0,0,1,0,0
+812,Maison d Azur Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi 13053 Sokak No:15  İzmir / Türkiye,7.5,658,1,1,1,0,0,0,1,0,0
+813,Marlight Hotel,İzmir,İzmir Merkez,Fevzipaşa Bulvarı 1367 sok. No:3 Çankaya / Konak İzmir / Türkiye,7.4,992,1,0,1,1,1,0,1,0,0
+814,Gümrük Otel Urla,İzmir,Urla,İskele Mh. İskele Cd. No24/B Gümrük Otel Urla İskele Mh. İskele Cd. No24/B Gümrük Otel Urla İzmir / Türkiye,9.4,2717,0,0,1,0,0,0,1,1,0
+815,Mini Fuar Hotel,İzmir,Konak,Kahramanlar Mah 1397 Sok. No:10  İzmir / Türkiye,8.0,658,1,1,0,1,0,0,1,0,0
+816,Alican 2 Otel,İzmir,Konak,Etiler Mahallesi1268. Sk. No:12 İzmir İzmir / Türkiye,5.3,731,1,0,1,0,0,0,1,0,0
+817,Mini Fuar Hotel,İzmir,Konak,Kahramanlar Mah 1397 Sok. No:10  İzmir / Türkiye,8.0,658,1,1,0,1,0,0,1,0,0
+818,Alican 2 Otel,İzmir,Konak,Etiler Mahallesi1268. Sk. No:12 İzmir İzmir / Türkiye,5.3,731,1,0,1,0,0,0,1,0,0
+819,Lavender Otel Çeşme,İzmir,Çeşme,16 Eylül  3048. Sk. no:13/A  35930 Çeşme/İzmir İzmir / Türkiye,8.0,380,1,0,1,1,0,0,0,1,0
+820,GüneyUrla Butik Otel ,İzmir,Urla,guneyurla butik otel izmir çeşme caddesi altıntaş mahallesi İzmir / Türkiye,8.4,1880,1,1,1,0,0,0,0,0,1
+821,Melita Hotel & Restorant,İzmir,Urla,Kalabak Mh. Şehit Kemal Cd. No/2 İzmir / Türkiye,3.9,720,1,0,1,1,0,0,1,1,0
+822,Athena Pansiyon Şirince,İzmir,Şirince,Selçuk Şirince Köyü 220 Sokak No.22 İzmir / Türkiye,7.6,665,1,0,1,1,0,0,0,0,0
+823,Alaçatı Balbadem Otel ( +13 ADULT ONLY),İzmir,Alaçatı,Yenimecidiye Mah. 13093 Sok.No:1/2-3  İzmir / Türkiye,8.0,1692,0,0,1,1,0,0,1,0,1
+824,Rastgele Otel Cafe & Bistro Sığacık,İzmir,Sığacık,Sığacık Mahallesi 139 Sok No:69  İzmir / Türkiye,7.1,427,1,0,1,1,0,0,1,0,0
+825,Berksoy Hotel,İzmir,Bergama,Bahçelievler  Atatürk Blv. No:128 İzmir / Türkiye,8.4,831,1,1,1,1,0,0,1,0,1
+826,Beyaz Han Hotel Alaçatı,İzmir,Alaçatı,Alaçatı Mah. 13002 Sokak No:7 İzmir / Türkiye,10.0,774,0,0,1,1,0,0,0,0,0
+827,Molo Otel Urla,İzmir,Urla,İskele  İskele Cd. No:19  35430 Urla/İzmir İzmir / Türkiye,10.0,2100,1,1,1,0,0,0,0,0,0
+828,Lucky Angel Hotel Alaçatı ,İzmir,Alaçatı,Hacımemiş Mah.2017 Sokak No:11  Alaçatı İzmir / Türkiye,9.3,507,1,0,1,0,0,0,0,0,1
+829,Galya Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi3046. Sk. No:20 İzmir İzmir / Türkiye,8.9,5000,1,0,1,0,0,0,0,1,0
+830,Beliz'i Hotel Urla,İzmir,Urla,İskele mah. 2018 sk. No:47  Urla İzmir / Türkiye,9.3,1974,1,0,1,1,0,0,1,1,1
+831,Kayserkaya Dağ Evleri,İzmir,Şirince,Sirince Mahallesi Kayserkaya Sokak No:12 İzmir / Türkiye,7.3,3317,1,1,1,1,0,0,1,0,1
+832,Nossa Casa Pansiyon Sığacık,İzmir,Sığacık,Sığacık Mahallesi129. Sk. No:2 İzmir İzmir / Türkiye,10.0,1187,0,0,1,1,0,0,0,0,0
+833,Sevenday’s Pansiyon,İzmir,Urla,Atatürk Mahallesi Neyzen Teyfik Caddesi no:429 İskele  İzmir / Türkiye,5.9,500,1,0,1,0,0,0,0,0,0
+834,Perla Otel Dikili,İzmir,Dikili,Sehit Sami Akbulut Caddesi No:101 İzmir / Türkiye,7.3,1005,1,0,1,1,0,0,1,0,0
+835,Alaçatı Sakız Ev Otel,İzmir,Alaçatı,Alaçatı Mah. Ugur Mumcu Caddesi No:22  İzmir / Türkiye,8.7,712,0,0,1,1,0,0,1,0,0
+836,Lizbon Otel Narlıdere,İzmir,Narlıdere,Limanreis mah. Mithatpaşa caddesi No: 885 İzmir / Türkiye,7.5,641,1,0,1,1,0,0,1,0,0
+837,Palas Alaçatı ,İzmir,Alaçatı,Alaçatı  1061. Sk. No:11/1  35930 Çeşme/İzmir Alaçatı  1061. Sk. No:11/1  35930 Çeşme/İzmir İzmir / Türkiye,9.5,1026,0,0,1,1,0,0,0,1,0
+838,Hotel Apart Alsancak,İzmir,Alsancak,1483 Sokak No:24  İzmir / Türkiye,7.5,1187,1,0,1,1,0,0,0,0,0
+839,Del Puerto Hotel Aliağa,İzmir,Aliağa,Kültür mah. Fevzi paşa cad. no:31/A İzmir / Türkiye,9.6,1311,1,0,1,1,0,0,1,0,0
+840,Casa Rubino Butik Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesiİnönü Cd. NO:51 İzmir / Türkiye,8.0,1026,1,0,1,0,0,0,1,0,1
+841,Navalia Otel Foça,İzmir,Foça,Atatük Mah. 29 Sokak No:1 Eski Foça İzmir / Türkiye,9.1,1804,1,0,1,0,0,0,1,0,0
+842,Villa Lotus Butik Otel Sığacık,İzmir,Sığacık,Sığacık Mah. 127. Sok. No:42 Kaleiçi İzmir / Türkiye,6.0,712,1,0,1,1,0,0,1,0,0
+843,Alaçatı Lalasa Otel,İzmir,Alaçatı,alaçatı mah. 13050 sok. no:8 İzmir / Türkiye,6.0,2900,1,0,1,0,0,0,0,1,1
+844,Beyevi Alaçatı,İzmir,Alaçatı,Yeni Mecidiye Mahallesi Kemalpaşa CaddesiNo:126  İzmir / Türkiye,6.5,10575,0,1,1,0,0,0,1,0,1
+845,Cella Boutique Hotel & Spa ,İzmir,Selçuk,Atatürk Mah.1079. Sokak No:21 Selçuk İzmir / Türkiye,9.2,1222,1,0,1,1,1,0,1,0,1
+846,Bedirhan Konak Otel Alaçatı,İzmir,Alaçatı,AlacatiYenimecidiye Mahallesi 13058 Sokak No:5  İzmir / Türkiye,8.4,3384,1,1,1,0,0,0,0,1,0
+847,Alaçatı Asmalı Konak Otel,İzmir,Alaçatı,Yeni Mecidiye Mh. 3062 Sk No:4  Alacatı İzmir / Türkiye,8.8,676,1,1,1,0,0,0,0,0,1
+848,La Capria Suite Hotel Alaçatı,İzmir,Alaçatı,Yeni Mecidiye Mah. Inonu Cad. No: 35 Alaçatı İzmir / Türkiye,8.7,2538,0,0,1,1,1,0,1,0,1
+849,Susuzlu Seçkin Otel,İzmir,İzmir Merkez,Fevzipasa Bulvari No:166  Çankaya İzmir / Türkiye,8.0,1050,1,0,1,1,0,0,1,0,0
+850,İnce Kara Apart Hotel,İzmir,Alaçatı,3074 Sokak  No:10 Alaçatı MahallesiAlaçatı / Çeşme  İZMİR İzmir / Türkiye,6.0,752,1,0,1,0,0,0,0,0,0
+851,Kozan City Hotel,İzmir,İzmir Merkez,İsmet Kaptan Mahallesi 1367. Sokak No:1  Konak İzmir / Türkiye,7.3,902,1,0,1,1,0,0,1,0,0
+852,Grand Hekimoğlu Hotel İzmir,İzmir,Konak,Gazi Bulvarı İsmet Kaptan Mahallesi No:100 İzmir / Türkiye,6.6,900,1,0,1,0,0,0,0,0,0
+853,Metro Otel İzmir,İzmir,Konak,Etiler Mah. Gaziler Cad. No:88 Basmane Konak  İzmir / Türkiye,7.3,799,1,0,1,1,0,0,0,1,0
+854,Wox Ew Hotel,İzmir,Konak,Mürsel paşa bulvarı Bozkurt Cd. No:30 İzmir İzmir / Türkiye,6.7,1322,1,0,1,1,0,0,0,0,0
+855,Begonvil Otel Karşıyaka,İzmir,Karşıyaka,Bahariye mahallesi 1878 sokak no:2/1 Karşıyaka Bahariye mahallesi 1878 sokak no:2/1 Karşıyaka İzmir / Türkiye,7.4,600,0,0,1,0,0,0,0,0,0
+856,İsmira Hotel İzmir,İzmir,İzmir Merkez,Gazi Osman Paşa Bulvarı No:28 İzmir / Türkiye,7.8,1580,1,0,1,1,1,0,1,0,0
+857,Woodstock Alaçatı,İzmir,Alaçatı,Kemalpaşa Cad No:33  İzmir / Türkiye,8.9,380,1,1,1,1,0,0,1,1,0
+858,Kutlukaya Butik Otel,İzmir,Urla,Yeni Mahalle Zafer Caddesi No. 61 Urla İzmir Yeni Mahalle Zafer Caddesi No. 61 Urla İzmir İzmir / Türkiye,7.8,1154,1,0,1,0,0,0,1,0,0
+859,İcarus Otel Alaçatı ,İzmir,Alaçatı,Alaçatı  2009. Sk. No:1  35930 Çeşme/İzmir Alaçatı  2009. Sk. No:1  35930 Çeşme/İzmir İzmir / Türkiye,9.3,950,1,0,1,0,0,0,1,0,1
+860,Çeşme Marina Konuk Evi,İzmir,Çeşme,1016 Sk. No: 2/23 Çeşme İzmir / Türkiye,8.8,2575,1,0,1,1,0,0,0,0,1
+861,Susuzlu Otel,İzmir,Çankaya,Fevzi Paşa Bulvarı No : 160  İzmir / Türkiye,5.3,1139,1,0,1,1,0,0,1,0,0
+862,Pırlanta Butik Otel,İzmir,Çeşme,İsmet İnönü Mahallesi2037. Sok. No:13  Çeşme İzmir / Türkiye,8.4,564,1,1,1,1,0,0,1,0,0
+863,Ariel Hotel Alaçatı,İzmir,Alaçatı,Alaçatı  3004. Sokak No:3  35930 Çeşme/İzmir İzmir / Türkiye,10.0,50000,1,1,1,0,0,0,0,1,1
+864,Thea Teos Butik Hotel,İzmir,Sığacık,Sığacık Mahallesi139. Sk. No:64  İzmir / Türkiye,8.4,846,1,0,1,1,0,0,1,1,1
+865,Foça Antik Otel,İzmir,Foça,İsmet Paşa Mahallesi Reha Midilli Caddesi. No:154  Eski Foça İzmir / Türkiye,9.0,900,1,1,1,1,0,0,1,0,0
+866,Kırlangıç Pansiyon Sığacık,İzmir,Sığacık,Sığacık Mah. Kale içi 131.Sok No:1 İzmir / Türkiye,10.0,600,1,0,1,0,0,0,0,0,0
+867,Grand Yayla Otel,İzmir,Çeşme,Sakarya Mahallesi3100. Sk. no:1 İzmir İzmir / Türkiye,8.3,422,1,0,1,1,0,0,1,1,0
+868,Voger Alaçatı,İzmir,Alaçatı,16119 Sk. No:18 Alaçatı İzmir / Türkiye,10.0,1959,1,1,1,0,0,0,0,0,1
+869,Thea Teos Butik Hotel,İzmir,Sığacık,Sığacık Mahallesi139. Sk. No:64  İzmir / Türkiye,8.4,846,1,0,1,1,0,0,1,1,1
+870,Celsus Butik Hotel Selçuk,İzmir,Selçuk,Atatürk Mahallesi 1051 sokak No:2 İzmir / Türkiye,9.5,2444,1,0,1,1,0,0,0,1,1
+871,Grand Yayla Otel,İzmir,Çeşme,Sakarya Mahallesi3100. Sk. no:1 İzmir İzmir / Türkiye,8.3,422,1,0,1,1,0,0,1,1,0
+872,Celsus Butik Hotel Selçuk,İzmir,Selçuk,Atatürk Mahallesi 1051 sokak No:2 İzmir / Türkiye,9.5,2444,1,0,1,1,0,0,0,1,1
+873,Şirincem Saklı Vadi,İzmir,Şirince,Şirince MahallesiŞht. Er Yüksel Özülkü Cd  İzmir / Türkiye,7.5,1132,1,0,1,1,0,0,1,0,0
+874,Primus Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mah. 12080 Sok. No:24 Alaçatı / Çeşme  Alaçatı Mah. 12080 Sok. No:24 Alaçatı / Çeşme Primus Otel İzmir / Türkiye,9.5,1500,0,0,1,0,0,0,1,0,0
+875,Er Turistik Hotel,İzmir,Dikili,Bademli Köyü 15. Sokak No:6  İzmir / Türkiye,8.7,1692,1,1,1,1,0,0,1,0,1
+876,La Maison De Yasmine Alaçatı,İzmir,Alaçatı,Alaçatı  3007 sok No:12  35930 Çeşme/İzmir Alaçatı  3007 sok No:12  35930 Çeşme/İzmir İzmir / Türkiye,6.0,1574,1,0,1,0,0,0,0,0,1
+877,Sakız Hanım Konağı Foça,İzmir,Foça,Atatürk Mahallesi 194SsokakNo:9 İzmir / Türkiye,6.0,1500,1,0,1,0,0,0,0,0,0
+878,Sol De Verano Alaçatı,İzmir,Çeşme,Alaçatı  11082 Sokak No:1  35930 Çeşme/İzmir İzmir / Türkiye,6.0,1100,1,0,1,1,0,0,0,0,0
+879,Roop Alaçatı Hotel,İzmir,Alaçatı,Alaçatı Mahallesi  12038 sokak no:51  35930 Çeşme/İzmir İzmir / Türkiye,6.0,590,1,1,1,1,0,0,0,0,0
+880,Villa Lotus Butik Otel Sığacık,İzmir,Sığacık,Sığacık Mah. 127. Sok. No:42 Kaleiçi İzmir / Türkiye,6.0,712,1,0,1,1,0,0,1,0,0
+881,Navalia Otel Foça,İzmir,Foça,Atatük Mah. 29 Sokak No:1 Eski Foça İzmir / Türkiye,9.1,1804,1,0,1,0,0,0,1,0,0
+882,Aterna Hotel Dikili,İzmir,Dikili,Cumhuriyet Mah Uğur Mumcu Cad 407 Sok No 7 İzmir / Türkiye,7.0,383,1,1,1,0,0,0,0,0,1
+883,Novacitrus Otel Sığacık,İzmir,Sığacık,Sığacık Mah. 129 Sok. No.48 İzmir / Türkiye,9.3,1047,1,0,1,1,0,0,0,1,0
+884,Can Otel Urla,İzmir,Urla,yenikent mah çeşme asfaltı 107 urla urla can otel İzmir / Türkiye,8.2,522,1,0,1,0,0,0,0,1,0
+885,Nişanyan Evleri,İzmir,Şirince,Şirince Köyü Selçuklu  İzmir / Türkiye,8.7,1353,1,1,1,1,0,0,1,1,1
+886,Lazz By Ketenci,İzmir,Konak,Kahramanlar Mh. Mürselpaşa Bulvarı No:159 Konak İzmir / Türkiye,6.0,1000,1,0,1,1,0,0,1,0,0
+887,Voger Alaçatı,İzmir,Alaçatı,16119 Sk. No:18 Alaçatı İzmir / Türkiye,10.0,1959,1,1,1,0,0,0,0,0,1
+888,Vino Alaçatı,İzmir,Alaçatı,Alaçatı Mah 11005 sok No 62/A  İzmir / Türkiye,6.6,1425,0,1,1,0,0,0,0,0,0
+889,Mandalin Pansiyon Sığacık,İzmir,Sığacık,Sığacık Mh.130. Sokak No:2  İzmir / Türkiye,9.8,1278,1,0,1,1,0,0,0,0,0
+890,Er Turistik Hotel,İzmir,Dikili,Bademli Köyü 15. Sokak No:6  İzmir / Türkiye,8.7,1692,1,1,1,1,0,0,1,0,1
+891,Palas Ilıca By Taytanlı ,İzmir,Ilıca,5074 Sokak Izmir Cad. No: 22 Yıldızburnu  İzmir / Türkiye,8.9,3420,0,0,1,0,0,0,0,0,0
+892,Cumbalı Konak Alaçatı (+12),İzmir,Alaçatı,Yenimecidiye Mah. 3014 Sk. No:5Alaçatı  İzmir / Türkiye,9.4,1233,0,0,1,1,0,0,1,1,1
+893,Cassiopeia Otel Alaçatı,İzmir,Alaçatı,Alaçatı  11059 Sk No 3  35930 Çeşme/İzmir Alaçatı  11059 Sk No 3  35930 Çeşme/İzmir İzmir / Türkiye,6.0,1211,0,0,1,0,0,0,0,0,1
+894,White Moon Otel Urla,İzmir,Urla,6077 sokak 100/1 Özbek/Urla/İzmir İzmir / Türkiye,6.0,1187,1,1,1,1,0,0,1,1,0
+895,Ünaten Otel Gaziemir,İzmir,Gaziemir,ATIFBEY MAHALLESİ AKÇAY CADDESİ NO:262 İzmir / Türkiye,6.0,990,1,1,1,1,0,0,0,1,0
+896,Luna Alacati,İzmir,Alaçatı,ALAÇATI MAHALLESİ 16059 SOKAK NO:3 İzmir / Türkiye,6.0,1385,1,0,1,0,0,0,0,0,0
+897,Viva La Vita Boutique Hotel,İzmir,Konak,Alsancak Mahallesi Can Yücel Sokak No.5 İzmir / Türkiye,9.1,1088,0,0,1,0,0,0,0,0,0
+898,Grand Corner Boutique Hotel İzmir,İzmir,Konak,Anafartalar Caddesi No:783 İzmir / Türkiye,7.0,1200,1,0,1,1,1,0,1,0,0
+899,Mai Sema Boutique Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi 2010 Sokak No:4 İzmir / Türkiye,3.0,285,0,0,1,0,0,0,1,0,0
+900,Manej Urla ,İzmir,Urla,Kuşçular Mahallesi İzmir İzmir / Türkiye,9.4,4822,1,1,0,1,0,0,1,1,0
+901,Kırkınca Evleri Butik Hotel,İzmir,Şirince,Istihlas Mah.Sirince Koyu  İzmir / Türkiye,7.2,1522,1,1,1,1,0,0,1,0,0
+902,Kaipo Alaçatı,İzmir,Alaçatı,Hacımemiş Mahallesi Cumhuriyet Caddesi No : 53   /,8.4,2387,0,0,1,0,0,0,0,1,1
+903,Akın ın Yeri Konaklama Hizmetleri,İzmir,Urla,Özbek Mah. 6077 Sk. No:7 İzmir / Türkiye,9.4,1567,1,0,1,0,0,0,0,1,0
+904,La Mia Casa Hotel (+16 Adulty Only),İzmir,Alaçatı,Alaçatı Mah. Fahrettin Altay Cad. No:6 Çeşme  İzmir Alaçatı Mah. Fahrettin Altay Cad. No:6 Çeşme  İzmir İzmir / Türkiye,8.7,950,0,0,1,1,0,0,1,1,0
+905,Şifne Termal Hotel Çeşme,İzmir,Ilıca,Ardıç Mah. 5495 Sokak No:20/A (Şifne Termal Otel) İzmir / Türkiye,8.1,1100,1,0,1,1,1,0,1,0,1
+906,Lindos Garden Butik Otel Şirince,İzmir,Şirince,Şirince Mah Kayserkaya Mevkii No 10 İzmir / Türkiye,8.9,950,1,0,1,1,0,0,1,0,1
+907,Motif Otel Çeşme,İzmir,Çeşme,Sakarya Mahallesi 3011 Sokak No.58 35930 Çeşme  İzmir / Türkiye,9.4,3958,0,0,1,0,0,0,1,0,1
+908,Derin Butik Otel,İzmir,Sığacık,Sığacık Mahallesi 161. Sokak No:16  İzmir / Türkiye,8.7,600,1,0,1,1,0,0,0,0,0
+909,Gödence Hotel Seferhisar,İzmir,Seferihisar,Gödence Mahallesi  4001. Sk.  35460 Seferihisar/İzmir  Türkiye İzmir / Türkiye,10.0,1485,1,1,0,1,0,0,1,0,1
+910,Deniz Otel Sığacık,İzmir,Sığacık,Sığacık Mahallesi 162 Sokak No:6 İzmir / Türkiye,9.0,600,1,0,1,1,0,0,0,1,0
+911,Madi Otel İzmir,İzmir,Konak,İsmet Kaptan Mahallesi1367. Sk. No:6 İzmir / Türkiye,7.7,964,1,0,1,0,0,0,1,1,0
+912,Alaçatı Leylak Hotel,İzmir,Alaçatı,Alaçatı Belediyesi İzmir ATATÜRK BULV. NO: 38 İzmir / Türkiye,8.5,2850,1,0,1,1,0,0,0,0,0
+913,La Bella Hotel Bergama,İzmir,Bergama,Fatih Mahallesi Atatürk Bulvarı No:303  İzmir / Türkiye,8.5,1165,1,0,1,1,0,0,1,1,1
+914,Kekik Alaçatı Otel Mayko,İzmir,Alaçatı,Alaçatı Mahallesi11033 Sokak No:3 İzmir İzmir / Türkiye,7.8,370,1,0,1,1,0,0,1,1,0
+915,Alican Hotel,İzmir,Basmane,Fevzipaşa Bulv.no:157 Basmane İzmir / Türkiye,7.0,846,1,0,1,0,1,0,1,0,0
+916,1870's Taş Konak Otel Üç Oda Urla,İzmir,Urla,Cami Atik mahallesi  Haydar Çeşme Sk. No:19  35430 Urla/İzmir İzmir / Türkiye,10.0,1600,0,0,1,1,0,0,1,1,0
+917,My Rooms Urla,İzmir,Urla,iskele mahallesi mithatpasa caddesi no99 İzmir / Türkiye,10.0,902,1,0,1,0,0,0,0,0,0
+918,Engin Otel Gaziemir,İzmir,Gaziemir,Gazi Mahallesi 25. Sokak No:65 İzmir / Türkiye,9.4,1425,1,0,1,1,1,0,1,1,0
+919,Sarezya Luxury Boutıque Hotel And Spa,İzmir,Dalyan,Dalyan Mahallesi 4125 Sokak No 3 Çeşme /İzmir Dalyan Mahallesi 4125 Sokak No 3 Çeşme /İzmir İzmir / Türkiye,10.0,3365,1,0,1,1,1,0,1,1,1
+920,Şirincem Pansiyon,İzmir,Şirince,Şehit Yüksel Özülkü Cad 220 Sok No:7 İzmir / Türkiye,8.6,1128,1,0,1,0,0,0,1,0,0
+921,Chakra Suites Urla,İzmir,Urla,Yeni  Zafer Cd. No.72  35430 Urla/İzmir Yeni  Zafer Cd. No.72  35430 Urla/İzmir İzmir / Türkiye,10.0,980,1,1,1,1,0,0,0,0,0
+922,The New Hotel Zeybek,İzmir,İzmir Merkez,Fevzipaşa Bulvarı 1368 Sok. No:5  İzmir / Türkiye,6.6,949,1,0,1,1,0,0,1,0,0
+923,Hotel İz,İzmir,Çankaya,İsmet Kaptan Mahallesi  1362. Sk. 18/1  35210 Konak/İzmir Çankaya/Konak İzmir / Türkiye,6.8,641,1,0,1,0,0,0,0,1,0
+924,Radisson Blu Resort & Spa Çeşme,İzmir,Ilıca,Altinyunus Mah. 3435 Sok. No:25 Ilıca İzmir / Türkiye,8.4,2493,1,0,1,0,1,0,0,0,1
+925,Vinifera Ephesus Hotel Selçuk,İzmir,Selçuk,14 Mayıs Mah. Zeynel Irmak Caddesi  Selçuk İzmir / Türkiye,8.5,1590,1,0,1,1,0,0,1,0,0
+926,Trendblue Boyalık Boutique Hotel,İzmir,Boyalık,Altınyunus mh 3423 sok no :2 Çeşme İzmir İzmir / Türkiye,9.3,1600,1,1,1,1,0,0,1,0,1
+927,Azize Palas Apart,İzmir,Çeşme,16 eylül mah 3047/1 sk no:25/3 c blok  /,9.3,570,1,1,1,1,0,0,0,0,0
+928,Sığacık Kalyon Otel,İzmir,Sığacık,SığacıkMahallesi 129. Sokak No:40  İzmir / Türkiye,8.7,711,1,0,1,0,0,0,0,0,0
+929,Aliko Otel,İzmir,Alaçatı,Alacatı mah 11020 Sokak No:6 Alaçatı Çeşme  İzmir / Türkiye,9.3,5640,1,0,1,0,0,0,0,0,0
+930,Güllü Konakları,İzmir,Şirince,Şirince Köyü No.44 Selçuk  İzmir / Türkiye,8.4,2436,1,1,1,1,0,0,1,1,0
+931,Alaca Butik Otel Alaçatı,İzmir,Alaçatı,12012. sok No: 33 Alaca Butik Otel İzmir / Türkiye,9.4,712,0,0,1,0,0,0,1,1,0
+932,Aren Butik Otel Mordoğan,İzmir,Karaburun,Mordoğan mh. Kazım Karabekir cd. No:28 İzmir / Türkiye,8.9,950,1,1,1,1,0,0,1,0,1
+933,Otel Antikhan,İzmir,İzmir Merkez,Kurtuluş MahallesiAnafartalar Cd. No:600  İzmir / Türkiye,5.4,643,1,1,1,1,0,0,1,1,0
+934,Silenos Boutique Hotel,İzmir,Sığacık,Sığacık mahallesi Kaleiçi 135.Sokak No.6/1 İzmir / Türkiye,9.6,855,1,1,1,1,0,0,0,1,0
+935,Livia Garden Hotel,İzmir,Selçuk,Atatürk Mahallesi 1057 Sokak No:13  /,9.6,1776,1,0,1,1,0,0,1,1,1
+936,Amazon Antique Selçuk,İzmir,Selçuk,Atatürk mahallesi 1054 sokak no:6 İzmir / Türkiye,10.0,1083,1,0,1,0,0,0,0,0,0
+937,Şirin Ev Şirince Butik Pansiyon,İzmir,Şirince,Şirince Köyü 211 Sokak No:8 İzmir / Türkiye,8.1,1235,1,1,1,1,0,0,0,0,0
+938,Hotel Paris Prestige ,İzmir,Alsancak,Kahramanlar Mahallesi 1397 Sokak No:38-40  İzmir / Türkiye,8.5,1500,1,0,1,1,0,0,1,1,0
+939,En Hotel Boutique İzmir,İzmir,İzmir Merkez,Cumhuriyet Bulvarı No:130 Alsancak İzmir / Türkiye,9.8,1979,1,0,1,1,0,0,1,1,0
+940,Afet Hanım Konağı,İzmir,Alaçatı,Alaçatı Mahallesi 11001 Sk. No:3  İzmir / Türkiye,8.8,1484,1,0,1,0,0,0,1,1,0
+941,Barbarossa Hotel,İzmir,Ilıca,Ilıca mah. 5011.sok no 34  Ilıca mah. 5011.sok no 34  İzmir / Türkiye,7.3,897,1,0,1,0,0,0,1,1,1
+942,Espira Otel,İzmir,Çeşmealtı,Denizli Mahallesi 41 Sokak No:16 Urla İzmir / Türkiye,9.3,1250,1,0,1,1,0,0,0,1,0
+943,Ulusoy Hotel Bornova,İzmir,Bornova,1746/1 SOK NO:5-9 BORNOVA İzmir / Türkiye,7.5,880,1,0,1,0,0,0,0,0,0
+944,Mia City Hotel,İzmir,Gaziemir,Akçay Cad. No:125  Gaziemir İzmir / Türkiye,7.3,2409,1,0,1,1,1,0,1,1,1
+945,Atlas Oteli İzmir,İzmir,İzmir Merkez,İsmet KaptanŞair Eşref Blv. No:1  İzmir / Türkiye,8.7,2236,1,0,1,1,0,0,1,1,0
+946,Piano Hotel İzmir,İzmir,Çankaya,İsmet Kaptan Mah. 1364 Sokak No:11 Çankaya  İzmir / Türkiye,8.4,791,1,1,1,0,0,0,0,0,0
+947,İon Slow City-Adult only +12,İzmir,Sığacık,Sığacık Mahallesi 130. Sokak No:9 İzmir / Türkiye,9.3,983,0,0,1,0,0,0,1,0,0
+948,Foça Otel 1887 ,İzmir,Foça,İsmetpaşa Mahallesi206. Sk. No:7 İzmir İzmir / Türkiye,9.7,1029,0,0,1,0,0,0,0,1,0
+949,Punta Vista Hotel,İzmir,Konak,1414 Sokak No.:19 Kahramanlar İzmir / Türkiye,8.8,617,1,0,1,0,0,0,1,0,0
+950,Rumevi Alaçatı- Adults Only ,İzmir,Alaçatı,Alaçatı Mahallesi  1005 Sokak  No:47 İzmir / Türkiye,10.0,4512,0,1,1,1,0,0,0,0,0
+951,Cumbalıca Suite Otel Çeşme,İzmir,Ilıca,5074 sok. no;76 Ilıca/Çeşme/İzmir İzmir / Türkiye,8.0,742,1,1,1,0,1,0,0,0,0
+952,Tiny Town Kuyucak ( Adults Only +12 ),İzmir,Karaburun,kuyucak caddesi markez mahallesi 1256 sokak no 4 karaburun izmir İzmir / Türkiye,9.8,2280,0,0,1,1,0,0,0,0,0
+953,Ürkmez Hotel Selçuk,İzmir,Selçuk,Atatürk Mahallesi Namık Kemal Caddesi No:20  İzmir / Türkiye,9.4,651,1,0,1,0,0,0,1,0,0
+954,Methis Hotel Karşıyaka,İzmir,Karşıyaka,anadolu caddesi no 573/a  İzmir / Türkiye,7.6,1800,1,0,1,1,0,0,0,0,0
+955,Susuzlu Atlantis Otel,İzmir,Çankaya,Gazi Bulvarı No : 128   Konak/İzmir İzmir / Türkiye,7.4,1489,1,0,1,1,0,0,1,0,0
+956,Şirin Villa Otel,İzmir,Ilıca,5133 Sokak No:32 Ilica  Çeşme İzmir / Türkiye,8.3,1016,1,0,1,1,0,0,1,0,0
+957,Bizim Ev Otel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi  16001. Sk. No:5  35930 Çeşme/İzmir Alaçatı Mahallesi  16001. Sk. No:5  35930 Çeşme/İzmir İzmir / Türkiye,9.8,899,1,0,1,1,0,0,0,0,0
+958,Life Corner Hotel,İzmir,Konak,Gaziler caddesi No :2 Basmane  İzmir / Türkiye,7.5,1100,1,0,1,1,1,1,1,1,0
+959,Alaçatı Değirmen Otel ,İzmir,Alaçatı,Alaçatı Mah. 11057 sok. no 7 İzmir / Türkiye,9.5,1128,1,0,1,1,0,0,0,0,1
+960,Gümüldür Mavi Deniz Otel,İzmir,Gümüldür,Fevzi Çakmak Mahallesi Deniz Caddesi No:21  İzmir / Türkiye,8.7,1320,1,0,1,1,0,0,1,0,0
+961,Nar Pansiyon Cafe Sığacık,İzmir,Sığacık,Sığacık Mahallesi 136 Sokak No:5  İzmir / Türkiye,10.0,950,1,1,1,0,0,0,0,0,0
+962,Karaca Otel,İzmir,İzmir Merkez,İsmet Kaptan Mahallesi Şevket Özçelik Sokak No:55  İzmir / Türkiye,10.0,3126,1,0,1,1,0,0,1,0,0
+963,Griffon Boutique Hotel,İzmir,Foça,Atatürk Caddesi Fabrika Sokak No:2 Yenifoca İzmir / Türkiye,9.8,2000,1,0,1,1,0,0,1,0,0
+964,Saklı Konak Karaburun,İzmir,Karaburun,merkez mh karanfil sk no:19 İzmir / Türkiye,9.1,1128,1,0,1,1,0,0,0,0,0
+965,Marina Hotel Konak,İzmir,Konak,İsmet Kaptan Mahallesi 1361 Sokak No:14 B1 İzmir / Türkiye,7.9,788,1,0,1,0,0,0,0,0,0
+966,Çiftlikköy Golden Otel,İzmir,Çiftlikköy,Çiftlik mahhallesi 18 sokak numara:23  /,7.3,475,1,1,1,1,0,0,1,1,0
+967,Pasaport Pier Hotel İzmir,İzmir,Konak,Akdeniz MahallesiCumhuriyet Blv No:105 İzmir / Türkiye,7.2,1455,0,0,1,1,0,0,1,1,0
+968,Pervin Hanım Konağı Alaçatı,İzmir,Alaçatı,12001 sok. hacımemişcad. alaçatı mah .no :16 İzmir / Türkiye,8.9,617,1,0,1,0,0,0,0,0,0
+969,Otel Yorgo Seferis Urla,İzmir,Urla,İskele Mahallesiİskele Cd. No:49 İzmir İzmir / Türkiye,9.4,2090,1,1,1,1,0,0,1,1,0
+970,Şirince Bahçe Hotel,İzmir,Şirince,Şirince Mahallesi 210 Sokak No:3 İzmir / Türkiye,9.1,1092,1,1,1,0,0,0,1,0,0
+971,MB City Hotel,İzmir,Konak,1461 SOKAK NO 8  İzmir / Türkiye,6.9,1029,1,1,1,0,0,0,0,1,0
+972,Mono Hotel Alaçatı,İzmir,Alaçatı,Alaçatı  2023. Sk. 9/A  35930 Çeşme/İzmir Alaçatı  2023. Sk. 9/A  35930 Çeşme/İzmir İzmir / Türkiye,8.0,699,0,0,1,1,0,0,0,1,0
+973,Beta Homes Boutique Hotel,İzmir,Buca,Adatepe Mah. 28/3 Sk. No.40 İzmir / Türkiye,8.4,1045,1,0,1,1,0,0,0,1,0
+974,Arya Otel Çeşme,İzmir,Çeşme,16 Eylül Mah. 3001. Sok. No:32 Çeşme İzmir / Türkiye,8.3,564,1,0,1,0,0,0,1,0,1
+975,Urla 1867 Hotel ,İzmir,Urla,Denizli  34. Sk. No:3  35430 Urla/İzmir Denizli  34. Sk. No:3  35430 Urla/İzmir İzmir / Türkiye,9.0,1187,1,0,1,0,0,0,0,0,1
+976,Majura Hotel Business Karşıyaka,İzmir,Karşıyaka,mavişehir 6514 sok.no:10/ A yalı mah. 35550 karşıyaka/ izmir mavişehir 6514 sok.no:10/ A yalı mah. 35550 karşıyaka/ izmir İzmir / Türkiye,8.2,1567,0,0,0,1,1,0,1,1,1
+977,Enso Alaçatı ,İzmir,Alaçatı,Alaçatı  2058. Sk. No:1  35930 Çeşme/İzmir Alaçatı  2058. Sk. No:1  35930 Çeşme/İzmir İzmir / Türkiye,10.0,1572,0,1,1,1,0,0,1,0,1
+978,Urla Marin Otel,İzmir,Çeşmealtı,Güvendik  35430  Yalı Cd. 217/2  35430 Urla/İzmir İzmir / Türkiye,8.0,1100,1,1,1,0,0,0,1,0,0
+979,Ketenci Residence Hotel İzmir,İzmir,Konak,Mürsel Paşa Bulv. No:28  Kahramanlar / Konak  İzmir / Türkiye,9.3,1050,1,0,1,1,1,0,1,0,0
+980,Moy Otel Alacati,İzmir,Alaçatı,2070 Sk. No:29 Hacımemiş Mh.  İzmir / Türkiye,10.0,56308,0,0,1,1,0,0,0,0,1
+981,Kozbeyli Konağı,İzmir,Foça,Kozbeyli Koyu No:188  İzmir / Türkiye,8.2,950,1,1,1,1,0,0,1,0,0
+982,Deniz Yıldızı Pansiyon Sığacık,İzmir,Sığacık,Sığacık Mahallesi131. Sk. No:12  İzmir / Türkiye,9.3,617,1,0,1,0,0,0,0,0,0
+983,Morisi Konak Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi11088. Sk No:27 İzmir İzmir / Türkiye,9.9,8550,1,0,1,1,0,0,1,1,1
+984,Hoşça Kal Alaçatı Otel,İzmir,Alaçatı,Alaçatı MahallesiKemalpaşa Cd. No:79 İzmir İzmir / Türkiye,8.6,617,1,0,1,0,0,0,1,1,0
+985,Maxx Marine Hotel Konak,İzmir,İzmir Merkez,Kahramanlar 1414.Sokak No:24 İzmir / Türkiye,8.5,700,1,0,1,0,0,0,0,0,0
+986,Alaçatı Cadde 75 Luxury (+18 Adults Only),İzmir,Alaçatı,İnönü Caddesi No:79  Çeşme  İzmir / Türkiye,7.9,950,0,0,1,1,0,0,1,0,1
+987,Alaçatı Kayezta Otel,İzmir,Alaçatı,Cumhuriyet Cad.13013 Sok.No:1 İzmir / Türkiye,8.3,752,0,0,1,1,0,0,1,0,0
+988,Göbene Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi14052 Sokak No:3 Alaçatı İzmir / Türkiye,10.0,9400,1,1,1,1,0,0,1,0,1
+989,Genesis Hotel Spa Alaçatı,İzmir,Alaçatı,Alaçatı  3005. Sk. 2-6  35930 Çeşme/İzmir Alaçatı  3005. Sk. 2-6  35930 Çeşme/İzmir İzmir / Türkiye,9.3,6176,0,0,1,1,1,1,0,1,1
+990,Kerman Otel,İzmir,Çeşme,16 Eylul Mah. 3264 Sok. No:16   İzmir / Türkiye,8.4,498,1,0,1,0,0,0,1,0,0
+991,Lipsos Hotel,İzmir,Karaburun,Yeniliman Mevkii No 213 İzmir / Türkiye,9.2,1974,1,1,1,1,0,0,1,0,0
+992,Alaçatı Suites,İzmir,Alaçatı,Alaçatı Mah. 12045 Sk. No:5 İzmir / Türkiye,10.0,812,1,0,1,1,0,0,0,0,0
+993,Atillas Getaway,İzmir,Selçuk,Acarlar Mahallesi Selçuk İzmir / Türkiye,6.0,989,1,0,1,1,0,0,1,0,1
+994,Monat Otel Alaçatı ,İzmir,Alaçatı,Alaçatı mah. 1043 sokak no:13 Çeşme İzmir / Türkiye,8.8,4750,1,1,1,1,0,0,1,0,0
+995,Smart Hotel İzmir,İzmir,Konak,Fevzipaşa Bulvarı No:153 Konak  İzmir / Türkiye,8.9,1518,1,1,1,1,1,0,1,0,0
+996,Alaçatı Kayezta Otel,İzmir,Alaçatı,Cumhuriyet Cad.13013 Sok.No:1 İzmir / Türkiye,8.3,752,0,0,1,1,0,0,1,0,0
+997,Göbene Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi14052 Sokak No:3 Alaçatı İzmir / Türkiye,10.0,9400,1,1,1,1,0,0,1,0,1
+998,Genesis Hotel Spa Alaçatı,İzmir,Alaçatı,Alaçatı  3005. Sk. 2-6  35930 Çeşme/İzmir Alaçatı  3005. Sk. 2-6  35930 Çeşme/İzmir İzmir / Türkiye,9.3,6176,0,0,1,1,1,1,0,1,1
+999,Kerman Otel,İzmir,Çeşme,16 Eylul Mah. 3264 Sok. No:16   İzmir / Türkiye,8.4,498,1,0,1,0,0,0,1,0,0
+1000,Lipsos Hotel,İzmir,Karaburun,Yeniliman Mevkii No 213 İzmir / Türkiye,9.2,1974,1,1,1,1,0,0,1,0,0
+1001,Atillas Getaway,İzmir,Selçuk,Acarlar Mahallesi Selçuk İzmir / Türkiye,6.0,989,1,0,1,1,0,0,1,0,1
+1002,Alaçatı Suites,İzmir,Alaçatı,Alaçatı Mah. 12045 Sk. No:5 İzmir / Türkiye,10.0,812,1,0,1,1,0,0,0,0,0
+1003,Monat Otel Alaçatı ,İzmir,Alaçatı,Alaçatı mah. 1043 sokak no:13 Çeşme İzmir / Türkiye,8.8,4750,1,1,1,1,0,0,1,0,0
+1004,Badem İçi Alaçatı Otel,İzmir,Alaçatı,alaçatı mah. 2077 sokak no 10 İzmir / Türkiye,10.0,1377,1,0,1,1,0,0,0,0,1
+1005,Ena Serenity Boutique Hotel,İzmir,Selçuk,Atatürk Mahallesi1064. Sokak. No:14  İzmir / Türkiye,8.6,1880,1,1,1,0,0,0,1,1,0
+1006,Grand Life Residence ,İzmir,Konak,Kahramanlar Mahallesi 1413 Sokak No 7 A Konak İzmir / Türkiye,7.5,935,1,0,1,0,0,0,0,0,0
+1007,Gerence Butik Otel Alaçatı,İzmir,Alaçatı,Hacımemiş Mahallesi 2054 Sokak No:8  Alaçatı  /,7.8,522,0,0,1,0,0,0,0,0,0
+1008,QueenBee Hotel,İzmir,Selçuk,Atatürk Mahallesi 1060 Sokak No:2  İzmir / Türkiye,9.1,827,1,0,1,1,0,0,1,0,0
+1009,Teos Ormancı Tatil Köyü,İzmir,Seferihisar,Akarca Mevki Tuzla Caddesi No:80 İzmir / Türkiye,7.8,845,1,0,1,1,0,0,1,1,0
+1010,Anemo Butik Otel,İzmir,Alaçatı,Yalı mahallesi 6000 sokak no:145 çeşme İzmir / Türkiye,8.2,760,1,0,1,1,0,0,1,0,1
+1011,Voger Alaçatı Köyiçi,İzmir,Alaçatı,13063 SOKAK NO:20 İzmir / Türkiye,10.0,1766,0,1,1,0,0,0,0,0,1
+1012,Palmiye Pansiyon Karaburun,İzmir,Karaburun,liman cad no54 karaburun izmir karaburun izmir İzmir / Türkiye,9.7,7599,0,0,1,0,0,0,1,0,0
+1013,Bedroom Hotel Alaçatı,İzmir,Alaçatı,13010sok. no:1/a iç kapı no A  çeşme İzmir / Türkiye,8.9,697,0,0,1,1,0,0,1,1,0
+1014,Flores Hotel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi 13048 Sokak No: 6 İzmir / Türkiye,9.4,6839,1,0,1,0,0,0,1,1,0
+1015,The Pier Of Urla,İzmir,Urla,İskele  İskele Cd. No:9  35430 Urla/İzmir İskele  İskele Cd. No:9  35430 Urla/İzmir İzmir / Türkiye,9.8,1600,1,0,1,1,0,0,1,1,0
+1016,Limoni Hotel Alaçatı,İzmir,Alaçatı,Alaçatı mahallesi 3000. sokak no 39 İzmir / Türkiye,3.3,950,1,0,1,1,0,0,1,0,1
+1017,Teos Ormancı Tatil Köyü,İzmir,Seferihisar,Akarca Mevki Tuzla Caddesi No:80 İzmir / Türkiye,7.8,845,1,0,1,1,0,0,1,1,0
+1018,Anemo Butik Otel,İzmir,Alaçatı,Yalı mahallesi 6000 sokak no:145 çeşme İzmir / Türkiye,8.2,760,1,0,1,1,0,0,1,0,1
+1019,Palmiye Pansiyon Karaburun,İzmir,Karaburun,liman cad no54 karaburun izmir karaburun izmir İzmir / Türkiye,9.7,7599,0,0,1,0,0,0,1,0,0
+1020,Voger Alaçatı Köyiçi,İzmir,Alaçatı,13063 SOKAK NO:20 İzmir / Türkiye,10.0,1766,0,1,1,0,0,0,0,0,1
+1021,Bedroom Hotel Alaçatı,İzmir,Alaçatı,13010sok. no:1/a iç kapı no A  çeşme İzmir / Türkiye,8.9,697,0,0,1,1,0,0,1,1,0
+1022,Flores Hotel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi 13048 Sokak No: 6 İzmir / Türkiye,9.4,6839,1,0,1,0,0,0,1,1,0
+1023,Spilos Gümüldür Hotel,İzmir,Gümüldür,Gümüldür Mahallesi 6223 Sokak No:5 İzmir / Türkiye,9.0,677,1,0,1,1,0,0,1,1,0
+1024,Suya Hotel Gaziemir,İzmir,Gaziemir,DOKUZ EYLÜL MAHALLESİ 315 SOKAK NO:34 İzmir / Türkiye,8.0,700,1,1,1,1,0,0,0,0,0
+1025,Naturla Göl Evi Urla,İzmir,Urla,8034 sokak 47 Kuşcular İzmir / Türkiye,9.8,2200,1,0,1,1,0,0,1,1,1
+1026,Foça Palas Pension,İzmir,Foça,Ataturk Mah. 26.Sok. No:7 Eskifoca  İzmir / Türkiye,9.0,712,1,0,0,1,0,0,0,0,0
+1027,Mom Hotel,İzmir,Bornova,Kemalpaşa Caddesi No:285/1  Bornova İzmir / Türkiye,7.2,1316,1,0,1,1,0,0,0,0,0
+1028,Hemera Kalispera Pansiyon,İzmir,Şirince,Kilise yolu uzeri  Sirincekoyu  İzmir / Türkiye,10.0,900,1,0,1,1,0,0,1,0,0
+1029,Pastor Historical Apart Hotel The Gulf Of İzmir,İzmir,Konak,Barbaros Mahallesi Mithatpaşa Caddesi No:127 Karataş  Konak/İzmir İzmir / Türkiye,10.0,1128,1,0,1,1,0,0,1,1,0
+1030,Tek Han Alaçatı,İzmir,Alaçatı,Alaçatı mahallesi 16006 sokak no:5/1 Tek Han Alaçatı İzmir / Türkiye,9.3,475,0,0,0,1,1,1,0,0,1
+1031,Mes Mudita Butik Otel Çeşme,İzmir,Çeşme,Musalla mah. ovacik giseler kavsaği otoban alt yolu  35930 Çeşme/İzmir Musalla mah. ovacik giseler kavsaği otoban alt yolu  35930 Çeşme/İzmir İzmir / Türkiye,7.8,760,1,1,1,0,0,0,1,1,1
+1032,Jasmine Butik Pansiyon,İzmir,Foça,Mustafa Kemal Atatürk Mahallesi Sadullah Sever Caddesi  No:59 İzmir / Türkiye,9.6,522,1,0,1,1,0,0,0,0,0
+1033,Lal s Otel Urla,İzmir,Urla,Atatürk Mah. Neyzen Tevfik Cad. 2197. Sk. No:11 İzmir İzmir / Türkiye,10.0,400,0,0,1,1,0,0,0,0,0
+1034,Ferush Butik Otel Urla (Adult Only +12),İzmir,Urla,Denizli Mahallesi. Mehmet Ali Aygüven Caddesi. No:10 İzmir / Türkiye,8.8,1216,1,0,1,1,1,0,1,1,1
+1035,La Mira Suites Hotel Alaçatı,İzmir,Alaçatı,Alaçatı Mahallesi4000 sokak no 82 İzmir / Türkiye,7.7,475,1,0,1,1,0,0,0,0,0
+1036,Alaçatı Sörf Otel,İzmir,Alaçatı,Tokoğlu1061 Sok No:13 Çeşme İzmir / Türkiye,9.7,1128,1,0,1,1,0,0,0,0,0
+1037,Mercan Apart Otel Akyaka,Muğla,Akyaka,AkyakaMercan Sk. Muğla Muğla / Türkiye,8.5,470,1,0,1,1,0,0,0,0,0
+1038,The Marmaris Boutique Hotel,Muğla,Marmaris,Kemeraltı Mah. Hasan Işık cad. No:6 Marmaris  Muğla / Türkiye,7.2,550,1,0,1,0,0,0,1,0,0
+1039,Golden Star Hotel Marmaris ,Muğla,Marmaris,Golden Star Hotel Marmaris Cildir Mah. 178. Sok No:3  Muğla / Türkiye,6.4,380,1,0,1,0,1,0,1,0,1
+1040,Casa Caria Boutique Hotel,Muğla,Bardakçı Koyu,Eskiçeşme MahallesiŞapel Sk. No:25 Muğla Muğla / Türkiye,6.7,750,1,1,1,1,0,0,1,0,1
+1041,Alfa Apart Otel,Muğla,Turgutreis,Peksimet mahallesi Bozdağ 11 sokak No 6 Turgutreis Muğla / Türkiye,8.0,553,1,1,1,1,0,0,0,0,0
+1042,Myra Hotel Marmaris,Muğla,Siteler,216 Sok. No:2 Siteler Muğla / Türkiye,7.0,475,1,0,1,1,0,0,1,0,1
+1043,Datça Deniz Otel,Muğla,Datça Merkez,Iskele mah.Cumhuriyet Meydanı Datça/Muğla Iskele mah.Cumhuriyet Meydanı No:4 Datça/Muğla Muğla / Türkiye,8.5,969,0,0,1,1,0,0,0,0,0
+1044,Selen Hotel,Muğla,Marmaris,Kemal Elgin Bulvarı No:7Marmaris  Muğla / Türkiye,7.4,705,1,0,1,1,0,0,1,0,1
+1045,Royal Palm Residence,Muğla,Gümbet,OSMAN NURİ BİLGİN CAD. NO: 60 Muğla / Türkiye,7.8,1205,1,0,1,1,0,0,0,0,1
+1046,Angora Hotel,Muğla,Bodrum Şehir Merkezi,Zeki Müren Cd. No.7 Muğla / Türkiye,7.9,427,1,0,1,1,0,0,0,0,1
+1047,İbak Sunny Houses,Muğla,Gümüşlük,Cukurbuk Mevkii Ibak Sunny Houses Sitesi   Gümüşlük Muğla / Türkiye,10.0,760,1,1,1,1,0,0,1,0,1
+1048,Datça Beyaz Ev Otel,Muğla,Datça,No:İskele MahallesiHürriyet Cd. No:15 Muğla Muğla / Türkiye,9.1,847,1,0,1,1,0,0,0,0,1
+1049,Kortan Otel,Muğla,Turgutreis,yalı mahallesi sabancı caddesi no:14 turgutreis bodrum Muğla / Türkiye,8.1,850,1,0,1,0,0,0,1,0,0
+1050,Ece Hotel Göltürkbükü ,Muğla,Türkbükü,Göltürkbükü mah. atatürk cad. no 66 Muğla / Türkiye,10.0,564,1,1,0,1,0,0,1,0,1
+1051,Liman Hotel Gümüşlük,Muğla,Gümüşlük,Gümüslük mahallesi 1120 Sokak no 52 Muğla / Türkiye,8.6,1470,1,0,1,0,1,0,1,1,0
+1052,Akyaka Gümüş Konakları,Muğla,Akyaka,ula koyuncu sok. no 22  Muğla / Türkiye,9.0,1111,1,0,1,0,0,0,1,0,1
+1053,Tuna Otel Rezidans,Muğla,Muğla Şehir Merkezi,Kötekli mah. 200 sk. no 14 Menteşe Muğla Muğla / Türkiye,8.2,1330,1,0,1,1,0,1,1,1,0
+1054,İzethan Otel Muğla,Muğla,Muğla Şehir Merkezi,Muslihittin MahallesiAbdi İpekçi Cd. No:13 Muğla / Türkiye,7.3,855,1,0,1,1,0,0,1,1,1
+1055,Atapark Hotel,Muğla,Fethiye Merkez,Karagözler Mah. Fevzi Çakmak Cad. No:161 Kragözler  Muğla / Türkiye,7.4,1600,1,0,1,1,1,0,1,0,1
+1056,Bungalowzera Cennet Koyu,Muğla,Kıyıkışlacık,6GXV+QXM Bodrum  Muğla Muğla / Türkiye,8.5,950,1,0,1,1,0,0,1,0,0
+1057,Hotel Palme Dalyan,Muğla,Dalyan,Dalyan  336. Sk. No:12 Muğla / Türkiye,8.8,589,1,0,1,1,0,0,0,0,1
+1058,Dedeminn Marina Hotel,Muğla,Göcek,Göcek MahallesiÇarşı Yolu Cd. Muğla Muğla / Türkiye,9.2,1694,1,0,1,0,0,0,1,0,0
+1059,Datça Beyaz Ev Otel,Muğla,Datça,No:İskele MahallesiHürriyet Cd. No:15 Muğla Muğla / Türkiye,9.1,847,1,0,1,1,0,0,0,0,1
+1060,Kortan Otel,Muğla,Turgutreis,yalı mahallesi sabancı caddesi no:14 turgutreis bodrum Muğla / Türkiye,8.1,850,1,0,1,0,0,0,1,0,0
+1061,Liman Hotel Gümüşlük,Muğla,Gümüşlük,Gümüslük mahallesi 1120 Sokak no 52 Muğla / Türkiye,8.6,1470,1,0,1,0,1,0,1,1,0
+1062,Ece Hotel Göltürkbükü ,Muğla,Türkbükü,Göltürkbükü mah. atatürk cad. no 66 Muğla / Türkiye,10.0,564,1,1,0,1,0,0,1,0,1
+1063,Akyaka Gümüş Konakları,Muğla,Akyaka,ula koyuncu sok. no 22  Muğla / Türkiye,9.0,1111,1,0,1,0,0,0,1,0,1
+1064,Otel Mavi Beyaz Palamutbükü,Muğla,Palamutbükü,MGG6+HQ Datça  Muğla Muğla / Türkiye,7.8,4950,1,0,1,1,0,0,1,0,0
+1065,Candan City Beach Otel,Muğla,Marmaris,Atatürk Cad. No:46 Marmaris  Muğla / Türkiye,7.9,1330,1,0,1,0,0,0,1,1,0
+1066,Portofino Apart,Muğla,Akyaka,Akyaka Mahallesi Gökabad Sk. 48650 Akyaka/Ula/Muğla Türkiye Muğla / Türkiye,7.6,402,1,1,1,1,0,0,0,0,1
+1067,Swissotel Resort Bodrum Beach,Muğla,Turgutreis,Turgutreis Mahallesi  Gazi Mustafa Kemal Bulvarı No:42  Turgutreis Muğla / Türkiye,9.3,3050,1,0,1,1,1,0,1,0,1
+1068,Casa Caria Boutique Hotel,Muğla,Bardakçı Koyu,Eskiçeşme MahallesiŞapel Sk. No:25 Muğla Muğla / Türkiye,6.7,750,1,1,1,1,0,0,1,0,1
+1069,Hotel Palme Dalyan,Muğla,Dalyan,Dalyan  336. Sk. No:12 Muğla / Türkiye,8.8,589,1,0,1,1,0,0,0,0,1
+1070,Dedeminn Marina Hotel,Muğla,Göcek,Göcek MahallesiÇarşı Yolu Cd. Muğla Muğla / Türkiye,9.2,1694,1,0,1,0,0,0,1,0,0
+1071,Begonville Beach Hotel-Adult Only,Muğla,Marmaris,Siteler  207 No:84 Marmaris Muğla / Türkiye,7.8,750,0,0,1,0,1,0,1,0,0
+1072,Panorama Plaza Otel ,Muğla,Köyceğiz,Ulucamii Mahallesi Cengiz Topel Caddesi No: 1 Koycegiz 48800 Köyceğiz Muğla / Türkiye,8.0,1585,1,1,0,1,0,1,1,0,1
+1073,Durak Hotel Bodrum,Muğla,Bodrum Şehir Merkezi,Kumbahçe Mah. Rasathane Sok. No: 10 Muğla  /,8.5,498,0,0,1,0,0,0,0,0,0
+1074,Limon Otel Akyaka,Muğla,Akyaka,akyaka mahallesi karanfil sokak no 14/2 Ula/ Muğla akyaka mahallesi karanfil sokak no 14/2 Ula/ Muğla Muğla / Türkiye,9.1,455,1,0,1,1,0,0,0,0,0
+1075,Selen Hotel,Muğla,Marmaris,Kemal Elgin Bulvarı No:7Marmaris  Muğla / Türkiye,7.4,705,1,0,1,1,0,0,1,0,1
+1076,Şato Apart Hotel,Muğla,Fethiye,Babataşı Mahallesi Mustafa Kemal Bulvarı No: 128 Muğla / Türkiye,6.6,380,1,0,0,0,0,0,0,1,1
+1077,Reis Beach Otel,Muğla,Marmaris,Çıldır Mahallesi207. Sk. No:10 Muğla Muğla / Türkiye,5.6,451,1,0,1,0,0,0,1,0,0
+1078,Oda Bodrum Gümüşlük,Muğla,Gümüşlük,Gümüşlük Mah. Atatürk Caddesi no:54 Muğla / Türkiye,8.3,710,1,1,1,0,0,0,0,0,0
+1079,Sea Palm Otel Yalıkavak,Muğla,Yalıkavak,cumhuriyet caddesi no.9 Muğla / Türkiye,9.3,1494,1,0,1,1,0,0,1,0,0
+1080,Veziroğlu Apart,Muğla,Datça Merkez,İskele MahallesiAtatürk Cd. No:47 Muğla Muğla / Türkiye,9.1,665,1,0,1,1,0,0,0,0,0
+1081,Diplomat Hotel,Muğla,Turunç,Diplomat Hotel  8. Sokak  No:5 Turunç Mahallesi  Marmaris Muğla / Türkiye,8.4,2181,1,0,1,1,0,0,1,1,1
+1082,Hotel Vanilla,Muğla,Çalış Mevkii,Kocek Mustafa Cad 1103 Sk No 11 Calış Plajı  Muğla / Türkiye,7.1,593,1,0,1,1,1,0,1,0,1
+1083,Elista Hotel Spa Türkbükü,Muğla,Türkbükü,Göltürkbükü liiman cad. no 65  Muğla / Türkiye,7.8,3464,1,1,1,0,1,0,1,1,1
+1084,Canna Garden Hotel,Muğla,Gümbet,gümbet mah 1511 sok Muğla / Türkiye,9.1,433,0,0,1,0,0,0,1,0,1
+1085,Gloria Tibi Gümbet,Muğla,Gümbet,gümbet mah. köknar sok. no:5 Muğla / Türkiye,3.7,1425,1,1,1,1,0,0,0,0,1
+1086,Dedeminn Garden Otel,Muğla,Göcek,Çomarcı Caddesi  No:1 Göcek Mahallesi  Fethiye - Muğla Muğla / Türkiye,9.1,1368,1,0,1,0,0,0,0,0,1
+1087,Özükara Apart 1,Muğla,Gümbet,Gümbet mahallesi İnönü caddesi No:4 Bodrum /Gümbet Muğla / Türkiye,8.8,960,1,0,1,0,0,0,1,0,1
+1088,Reis Maris Hotel,Muğla,Marmaris,Çıldır MahallesiKemal Seyfettin Elgin Blv. No:29 Muğla Muğla / Türkiye,5.8,376,1,1,1,1,0,0,1,0,1
+1089, Blue Bay Beach Hotel ,Muğla,Bitez,1402 sok.no:22 Muğla / Türkiye,7.5,760,1,0,1,0,0,0,1,0,1
+1090,Ventum Apart Hotel,Muğla,Marmaris,SİTELER MAH.187 SOK. NO: 14/1  Muğla / Türkiye,4.4,494,1,0,1,0,0,0,0,0,1
+1091,Harmanyeri Tatilevi Selimiye,Muğla,Selimiye,SELİMİYE MAH. ARMUTÇUK SOKAK 103 MARMARİS MUĞLA SELİMİYE  Muğla / Türkiye,6.0,1615,1,0,1,0,0,0,0,0,0
+1092,Art Suites Hotel Bodrum,Muğla,Yalıkavak,YALIKAVAK MAH. ÇÖKERTME CAD. NO:111 BODRUM   /,8.6,1200,1,0,0,1,0,0,1,0,1
+1093,Turunç Premium Otel,Muğla,Turunç,Turunc Mh.Cumhuriyet Cd. 55. Sokak No:1 Marmaris  Muğla / Türkiye,8.3,860,1,0,1,1,1,1,1,1,1
+1094, Blue Bay Beach Hotel ,Muğla,Bitez,1402 sok.no:22 Muğla / Türkiye,7.5,760,1,0,1,0,0,0,1,0,1
+1095,Ventum Apart Hotel,Muğla,Marmaris,SİTELER MAH.187 SOK. NO: 14/1  Muğla / Türkiye,4.4,494,1,0,1,0,0,0,0,0,1
+1096,Harmanyeri Tatilevi Selimiye,Muğla,Selimiye,SELİMİYE MAH. ARMUTÇUK SOKAK 103 MARMARİS MUĞLA SELİMİYE  Muğla / Türkiye,6.0,1615,1,0,1,0,0,0,0,0,0
+1097,Renka Hotel & Spa,Muğla,Göcek,Göcek Mahallesi İnönü Bulvarı Gün Sokak No:1 Muğla / Türkiye,10.0,2542,1,1,1,0,1,0,1,1,1
+1098,Gold Butik Otel,Muğla,Marmaris,Siteler Mahallesi  209 Sokak No: 09  Muğla / Türkiye,8.0,570,1,0,1,0,0,0,1,0,1
+1099,Roas Hotel,Muğla,Bitez,Halilim caddesi no:5 Bitez Bodrum Halilim caddesi no:5 Bitez Bodrum Muğla / Türkiye,9.5,1187,1,0,1,0,0,0,0,1,1
+1100,Manaspark Deluxe Hotel,Muğla,Ölüdeniz,Manas Park HotelBelcekiz Mevki No :1 Oludeniz Fethiye  Ölüdeniz Fethiye/Fethiye/Muğla  /,8.5,945,1,0,1,1,0,0,1,0,1
+1101,Skopea Inn Exclusive Hotel,Muğla,Göcek,Gocek Mah. Turgut Ozal Cad. No:1 Fethiye / Muğla Muğla / Türkiye,9.3,2282,1,0,1,1,0,0,1,1,1
+1102,Erken Apart,Muğla,Dalyan,iztuzu caddesi 213.sokak no:65 Muğla / Türkiye,9.6,730,1,0,1,0,0,0,1,1,0
+1103,Hotel Barlas,Muğla,Çalış Mevkii,Doğuş Otel foça mahallesi Muğla / Türkiye,7.9,487,1,0,1,0,0,0,1,0,1
+1104,Dalyan Hotel Nish Caria,Muğla,Dalyan,Dalyan Mahallesi  Kahveci Tahsin Sk. No:6  48600 Muğla / Türkiye,8.2,847,1,1,1,1,0,0,1,1,1
+1105,Badoka Boutique Hotel,Muğla,Marmaris,Çıldır Mahallesi  Kemal Seyfettin Elgin Blv. No:35  48700 Marmaris/Muğla Muğla / Türkiye,10.0,519,1,0,1,1,0,0,0,0,0
+1106,Mucho Butik Otel,Muğla,Bodrum Şehir Merkezi,Umurca Mah Artemis caddesi 18/1 Muğla / Türkiye,8.2,632,1,1,1,0,0,0,1,1,0
+1107,Akkan Beach Hotel Bodrum,Muğla,Bodrum Şehir Merkezi,Bodrum Merkez Kumbahce Mahallesi Pasatarlasi Caddesi No:5 Muğla / Türkiye,8.8,891,1,0,1,1,0,0,1,0,1
+1108,Dinç Pansiyon Bodrum,Muğla,Bodrum Şehir Merkezi,kumbahce mah.cumhuriyet cad. no: 131bodrum  Muğla / Türkiye,6.8,1468,1,0,1,0,0,0,1,0,0
+1109,Savra Bodrum,Muğla,Bitez,Bitez MahallesiAdliye Cd. No:85 Muğla Muğla / Türkiye,9.3,1710,1,1,0,1,0,0,1,0,1
+1110,Bodrum Motel,Muğla,Bodrum Şehir Merkezi,kumbahçe mah.zeki müren caddesi no 25 kumbahçe mah.zeki müren caddesi no 25 Muğla / Türkiye,6.0,450,0,0,1,1,0,0,0,0,0
+1111,Marin-A Boutique Hotel Turgutreis,Muğla,Turgutreis,Gazi Mustafa Kemal Bulvarı No:45 Bodrum - Turgutreis Muğla / Türkiye,6.4,1049,1,0,1,1,1,0,1,1,1
+1112,M Suite Gümbet,Muğla,Gümbet,Erguvan Sokak No:40  /,8.1,565,1,0,1,0,0,0,0,0,1
+1113,Hotel Marina Bay Göcek ,Muğla,Göcek,Göcek Mahallesi İskele Meydanı No:7 Muğla / Türkiye,9.1,2203,1,0,1,1,0,0,0,1,0
+1114,The Hotel 48,Muğla,Bodrum Şehir Merkezi,Kumbahçe Mah. Atatürk Cad. No:78 Bodrum Muğla Muğla / Türkiye,5.2,593,1,0,1,0,0,0,0,0,0
+1115,Artunç Hotel Bodrum,Muğla,Bodrum Şehir Merkezi,Fabrika sok artemis cad. no 32 Bodrum  Muğla / Türkiye,9.0,1129,1,0,1,1,0,0,1,0,1
+1116,Emre Otel 10 Oda,Muğla,Datça Merkez,İskele Mahallesi62 Muğla / Türkiye,8.1,450,1,0,1,0,0,0,0,0,0
+1117,Hotel Unique Boutique Class-Adult Only,Muğla,Fethiye Merkez,1.Karagözler Mah.Fevzi Çakmak Cad. 48300 Fethiye  Muğla / Türkiye,9.7,3389,0,0,1,1,1,0,1,0,1
+1118,Dolunay Suit & Beach,Muğla,Ören,Ören Mahallesi İskele Cad. 44 Sok. No: 12 Muğla / Türkiye,10.0,2850,1,0,1,0,0,0,0,0,0
+1119,Lavanta Boutique Hotel,Muğla,Turunç,Kaygıseki Mevkii 97.Sokak No:16a Turunç Marmaris - Muğla Muğla / Türkiye,8.0,1030,1,0,1,1,0,0,1,0,1
+1120,Kocadon Museum Hotel,Muğla,Bodrum Şehir Merkezi,Eskiçeşme Mah. Davulcu Ali Sk.  Kapı:2  48400 Bodrum/Muğla Muğla / Türkiye,9.3,1657,0,0,0,1,0,0,1,1,0
+1121,Arya Otel,Muğla,İçmeler-Marmaris,Cumhuriyet Cad.No:3 İçmeler  Muğla / Türkiye,8.9,721,1,0,1,0,0,0,1,0,1
+1122,Manzara Hotel,Muğla,Bodrum Şehir Merkezi,Omurca Mah. Fevzi Cakmak Sok No:1 Meteoroloji Üstü  /,9.5,1050,0,0,1,1,0,0,1,0,1
+1123,Dört Mevsim Butik Otel,Muğla,Datça,emecik mah emecik sok 177 Muğla / Türkiye,8.2,712,1,1,1,1,1,0,1,0,1
+1124,Sevin Otel Bodrum,Muğla,Bodrum Şehir Merkezi,Çarşı Mahallesi Türkkuyusu Caddesi No: 7 Bodrum  Muğla / Türkiye,7.1,711,1,0,1,0,0,0,0,0,0
+1125,Amber Suites Akyaka +6 ,Muğla,Akyaka,386G+P9 Ula  Muğla Muğla / Türkiye,9.7,3105,0,0,1,1,0,0,1,1,1
+1126,Sunset Hotel Marmaris,Muğla,Marmaris,Tepe Mahallesi  Barbaros Caddesi  No: 39 (Kaleiçi) Muğla / Türkiye,10.0,1694,0,0,1,0,0,0,0,0,0
+1127,Yunus Hotel Marmaris,Muğla,Siteler,Yunus Hotel Kemeralti Mah.228 Sk.Uzunyali Muğla / Türkiye,8.0,894,1,0,0,1,0,0,1,0,1
+1128,Rayana Hotel,Muğla,Bozburun,Bozburun Mahallesi 71. Sokak No:6/1 Muğla / Türkiye,4.9,598,1,0,1,0,0,0,1,0,0
+1129,Huzur Royal Otel,Muğla,Datça Merkez,iskele Mah.Atatürk Cad Muğla / Türkiye,8.8,1140,1,0,1,0,0,0,0,0,0
+1130,Fora Apart Otel,Muğla,Datça Merkez,Ali Osman Çetiner Caddesi No:9 Datça Muğla / Türkiye,8.5,550,1,0,1,1,0,0,0,0,0
+1131,Sardunya Apart,Muğla,İçmeler-Marmaris,İçmeler Mahallesi Muğla 149.Sokak No:12 Muğla / Türkiye,7.6,709,1,0,1,1,0,0,1,0,1
+1132,Miss Hotel Karya,Muğla,Ören,Ören yalı mahallesi 22 nolu sk.no:5 Muğla / Türkiye,8.5,688,1,1,1,0,0,0,0,0,0
+1133,Beyaz Konak Evleri,Muğla,Datça Merkez,Iskele Mahallesi Cumhuriyet Meydani Uzeri 63. Sokak No: 39 Datca  Muğla / Türkiye,8.3,608,1,1,1,1,0,0,0,0,0
+1134,Amber Suites Akyaka +6 ,Muğla,Akyaka,386G+P9 Ula  Muğla Muğla / Türkiye,9.7,3105,0,0,1,1,0,0,1,1,1
+1135,Sevin Otel Bodrum,Muğla,Bodrum Şehir Merkezi,Çarşı Mahallesi Türkkuyusu Caddesi No: 7 Bodrum  Muğla / Türkiye,7.1,711,1,0,1,0,0,0,0,0,0
+1136,Moonshine Hotel & Suites,Muğla,Bodrum Şehir Merkezi,Mars Mabedi Cad. No:47 Muğla / Türkiye,4.9,1270,1,0,1,1,0,0,1,0,1
+1137,Aurasia Beach Hotel,Muğla,Marmaris,Siteler Mahallesi238. Sk. No:9 Muğla Muğla / Türkiye,8.4,992,1,0,1,0,1,0,1,0,1
+1138,Gold Lion Hotel,Muğla,Fethiye,Ölüdeniz Mahallesi  Ovacık Caddesi No : 133 Muğla / Türkiye,7.0,659,1,0,1,1,0,0,0,0,1
+1139,Sunset Hotel Marmaris,Muğla,Marmaris,Tepe Mahallesi  Barbaros Caddesi  No: 39 (Kaleiçi) Muğla / Türkiye,10.0,1694,0,0,1,0,0,0,0,0,0
+1140,My Marin Hotel,Muğla,Turgutreis,Turgutreis GMK Bulvarı No:35 Bodrum Muğla / Türkiye,6.5,1214,1,0,1,1,0,0,1,0,0
+1141,Tuna Otel,Muğla,Muğla Şehir Merkezi,Kötekli Mah.Marmaris karayolu 3.km no:24  Muğla / Türkiye,8.0,1330,1,0,1,1,0,0,1,0,1
+1142, Kaptan Apart Datça,Muğla,Datça Merkez,PMHQ+X6 Datça  Muğla Muğla / Türkiye,8.8,570,1,0,1,1,0,0,0,0,0
+1143,Infinity Ruby Hotel,Muğla,Fethiye,Saglik Sok No 13 Yaniklar Fethiye Muğla / Türkiye,7.2,753,1,0,1,1,0,0,1,1,1
+1144,Selenes Pansiyon Bafa,Muğla,Bafa,Kapıkırı Köyü - Bafa Gölü  Kapıkırı Muğla / Türkiye,7.0,1129,0,0,0,1,0,0,1,0,1
+1145,Cape Krio Boutique Hotel & SPA (+9 Adult Only),Muğla,Datça Merkez,Iskele mahallesi Kargı yolu cad. No:26 Datça/Muğla- Türkiye Muğla / Türkiye,9.4,3369,0,0,1,1,1,1,1,1,1
+1146,Azka Hotel,Muğla,Bardakçı Koyu,Bardakçı Koyu Muğla / Türkiye,8.5,2666,1,0,1,0,1,0,1,0,1
+1147,Mesken Inn Hotel Göcek,Muğla,Göcek,Cumhuriyet Mahallesi Kubatderesi Caddesi No:2 Göcek Fethiye Muğla / Türkiye,7.0,1609,1,0,1,1,0,0,1,0,1
+1148,Datça Sapphire Hotel,Muğla,Datça Merkez,İskele mah. Kargı Yolu cad. No: 8  Muğla / Türkiye,9.1,951,1,0,1,0,0,0,1,0,0
+1149,Hotel Silvanus Ören,Muğla,Ören,Yalı Mah. Atatür Bulvarı No: 69 Ören Milas Muğla / Türkiye,7.7,2045,1,0,1,1,0,0,1,1,1
+1150,Smyrna Hotel,Muğla,Dalyan,Dalyan Mahallesi  Gülpınar Cd. No: 44   Muğla / Türkiye,8.6,619,1,0,1,1,0,0,1,0,1
+1151,Kerme Ottoman Palace,Muğla,Muğla,Akyaka Mah.Koyuncu Sk.No:32 Ula Muğla / Türkiye,7.7,950,1,0,1,1,1,0,1,0,1
+1152,Doğa Hotel Ölüdeniz,Muğla,Fethiye,Ölüdeniz Mah.Ovacık Cad.85 Sokak No:71 Muğla Muğla / Türkiye,8.4,423,1,0,1,1,1,0,1,0,1
+1153,Akyaka Villa Marine Otel,Muğla,Akyaka,İnişdibi Cad. No:65 Ula Muğla Muğla / Türkiye,9.2,1215,1,0,1,1,0,0,0,1,1
+1154,Costa Maya Bodrum ,Muğla,Bodrum Şehir Merkezi,Gerence Sok. No:33 Bodrum Muğla / Türkiye,10.0,981,1,0,1,1,0,0,1,0,1
+1155,Akyaka Viya Otel,Muğla,Akyaka,Akyaka Mah. Atatürk Cad.No:29 Muğla / Türkiye,8.9,760,1,0,1,1,0,0,1,0,1
+1156,Değirmenburnu Residence,Muğla,Bodrum Şehir Merkezi,Osman Nuri Bilgin Cd. No:48  Muğla / Türkiye,9.3,832,1,0,1,1,0,0,0,0,1
+1157,Gloriatibi Jarra Hotel,Muğla,Gümbet,gümbet mah. kemal kayacan cad. no:11 Muğla / Türkiye,4.0,474,1,1,1,1,0,0,0,0,1
+1158,Manzara Hotel,Muğla,Bodrum Şehir Merkezi,Omurca Mah. Fevzi Cakmak Sok No:1 Meteoroloji Üstü  /,9.5,1050,0,0,1,1,0,0,1,0,1
+1159,Bodrum Oscar Hotel,Muğla,Torba,Torba Mahallesi Rıza Anter Caddesi No:6 Muğla / Türkiye,8.0,847,1,1,1,1,1,1,1,1,1
+1160,Artemis Hotel Bodrum,Muğla,Bodrum Şehir Merkezi,Kumbahçe Mah cumhuriyet cad. no 121 bodrummuğla  Muğla / Türkiye,8.8,1223,1,0,1,1,0,0,1,1,0
+1161,Merhaba Pansiyon,Muğla,Bodrum Şehir Merkezi,Kumbahçe Mah. Akasya Sok. No:11 48400 Bodrum  Muğla / Türkiye,4.6,370,1,0,1,1,0,0,0,1,0
+1162,Tahir Ağa Otel,Muğla,Datça Merkez,iskele mah. 87 sokak no : 9 Muğla / Türkiye,9.1,650,1,0,1,1,0,0,1,0,1
+1163,Dalyan Live Spa Hotel,Muğla,Dalyan,Maraş Mh. Kıydan Sk. No: 26 Muğla / Türkiye,8.6,1700,1,0,1,1,0,0,1,1,1
+1164,La Farine Hotel ,Muğla,Fethiye Merkez,Karagözler Mah . Fevzi Çakmak Cad. 33 A Fethiye / Muğla Muğla / Türkiye,9.0,1600,1,0,1,0,0,0,1,1,0
+1165,Mevsim Otel Akyaka,Muğla,Akyaka,nergis sokak no.13 ula/akyaka/muğla mevsim otel ayşe ananın yeri nergis sokak no 13 ula/akyaka/muğla Muğla / Türkiye,7.4,470,1,0,1,0,0,0,1,0,0
+1166,Zephyros Hotel Datça,Muğla,Mesudiye,Mesudiye Mah. Döşeme Sok. No:56/A Muğla / Türkiye,9.0,1140,1,0,1,1,0,0,1,1,1
+1167,La Quinta by Wyndham Bodrum ,Muğla,Bardakçı Koyu,Hotel Mavi Kumsal Eski çeşme mah. Bardakçı mevki  Muğla / Türkiye,8.4,1425,1,0,1,1,1,1,1,0,1
+1168,Vira Apart Suites Göcek,Muğla,Göcek,Cumhuriyet Caddesi  Inonu Bulvari  No 35 Muğla / Türkiye,8.4,2240,1,0,1,1,0,0,1,1,1
+1169,Mare Deluxe Residences & Villas,Muğla,Gündoğan,Küçükbük mah. Fevzi Çakmak cad. No.30 D.1 Gündoğan Muğla / Türkiye,8.0,5931,1,1,1,1,1,1,1,0,1
+1170,Dört Mevsim Butik Otel,Muğla,Datça,emecik mah emecik sok 177 Muğla / Türkiye,8.2,712,1,1,1,1,1,0,1,0,1
+1171,Değirmenburnu Residence,Muğla,Bodrum Şehir Merkezi,Osman Nuri Bilgin Cd. No:48  Muğla / Türkiye,9.3,832,1,0,1,1,0,0,0,0,1
+1172,Vira Apart Suites Göcek,Muğla,Göcek,Cumhuriyet Caddesi  Inonu Bulvari  No 35 Muğla / Türkiye,8.4,2240,1,0,1,1,0,0,1,1,1
+1173,Mare Deluxe Residences & Villas,Muğla,Gündoğan,Küçükbük mah. Fevzi Çakmak cad. No.30 D.1 Gündoğan Muğla / Türkiye,8.0,5931,1,1,1,1,1,1,1,0,1
+1174,Gloriatibi Jarra Hotel,Muğla,Gümbet,gümbet mah. kemal kayacan cad. no:11 Muğla / Türkiye,4.0,474,1,1,1,1,0,0,0,0,1
