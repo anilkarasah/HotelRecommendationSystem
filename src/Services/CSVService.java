@@ -2,6 +2,7 @@ package Services;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 
 import Enums.DistrictsEnum;
@@ -29,8 +30,8 @@ public class CSVService {
         while ((line = reader.readLine()) != null) {
             Hotel hotel = Hotel.parseCSV(line, i);
             
-            if (!citiesList.contains(hotel.name)) {
-            	citiesList.add(hotel.name);
+            if (!citiesList.contains(hotel.province)) {
+            	citiesList.add(hotel.province);
             }
 
             ArrayList<String> districtList = cityMap.get(hotel.province);
@@ -56,6 +57,12 @@ public class CSVService {
 
             hotels.add(hotel);
             i++;
+        }
+
+        Collections.sort(citiesList);
+        
+        for (ArrayList<String> districtList : cityMap.values()) {
+        	Collections.sort(districtList);
         }
         
         DistrictsEnum.setCityList(citiesList);
