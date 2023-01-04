@@ -1,6 +1,6 @@
 package Enums;
 
-public class Facility {
+public class FacilitiesEnum {
     public static final String[] List;
 
     static {
