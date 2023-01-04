@@ -6,6 +6,11 @@ import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
+
+import Enums.DistrictsEnum;
+import Models.Hotel;
+import Services.CSVService;
+
 import javax.swing.JLabel;
 import java.awt.Font;
 import javax.swing.JComboBox;
@@ -19,9 +24,12 @@ import java.util.ArrayList;
 import java.awt.event.ActionEvent;
 
 public class MainMenu extends JFrame {
+	
+	
+	static ArrayList<Hotel> hotelList;
 	String arr[] = {"Ankara","Antalya","Bursa","İzmir","Muğla"};
 	ArrayList<String> arr1 = new ArrayList<>();
-	DefaultComboBoxModel<String> cb2 = new DefaultComboBoxModel<>();
+	DefaultComboBoxModel<String> cb2 = new DefaultComboBoxModel();
 	static int otel_counter = 0;
 	static String selected_city = "";
 	static DefaultListModel<String> l1 = new DefaultListModel<>();
@@ -48,7 +56,12 @@ public class MainMenu extends JFrame {
 	 * Create the frame.
 	 */
 	public MainMenu() {
-		
+		try{
+			CSVService csvService = new CSVService("./hotels.csv");
+			hotelList = csvService.ReadAllValues();
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 938, 572);
 		contentPane = new JPanel();
@@ -72,23 +85,27 @@ public class MainMenu extends JFrame {
 		lblEmirhanPaksoy.setBounds(10, 475, 417, 25);
 		panel.add(lblEmirhanPaksoy);
 		
-		String arr[] = {"Ankara","Antalya","Bursa","İzmir","Muğla"};
+		String arr[] = {"Ankara","Antalya","Bursa","İstanbul","İzmir","Muğla"};
 		JComboBox comboBox = new JComboBox(arr);
 		comboBox.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				selected_city = comboBox.getSelectedItem().toString();
+				ArrayList<String> districts = DistrictsEnum.getDistrictsOfCity(selected_city);
 				cb2.removeAllElements();
-				cb2.addElement(selected_city);
+				for(String i : districts) {
+					cb2.addElement(i);
+				}
+				
 			}
 		});
 		
 		
 		
-		comboBox.setBounds(20, 119, 72, 25);
+		comboBox.setBounds(20, 119, 100, 25);
 		panel.add(comboBox);
 		System.out.println();
 		JComboBox comboBox_1 = new JComboBox(cb2);
-		comboBox_1.setBounds(127, 120, 72, 25);
+		comboBox_1.setBounds(130, 119, 100, 25);
 		panel.add(comboBox_1);
 		
 		JLabel lblNewLabel_1 = new JLabel("Şehir:");
