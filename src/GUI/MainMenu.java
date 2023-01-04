@@ -22,13 +22,15 @@ import javax.swing.JList;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.awt.event.ActionEvent;
+import javax.swing.JScrollBar;
+import javax.swing.JScrollPane;
 
 public class MainMenu extends JFrame {
-	
+	JList<String> liste = new JList<>(l1);
 	static ArrayList<String> cities;
 	static ArrayList<String> districts;
 	static ArrayList<Hotel> hotelList;
-	String arr[] = {"Ankara","Antalya","Bursa","İzmir","Muğla"};
+	static ArrayList<Hotel> selected_hotelList = new ArrayList<>();
 	ArrayList<String> arr1 = new ArrayList<>();
 	DefaultComboBoxModel<String> cb2 = new DefaultComboBoxModel();
 	static int otel_counter = 0;
@@ -151,21 +153,35 @@ public class MainMenu extends JFrame {
 		panel.add(btnNewButton_1);
 		
 		JButton btnRezervasyonYap = new JButton("Rezervasyon");
+		btnRezervasyonYap.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				int index = liste.getSelectedIndex();
+				if(index != -1) {
+					System.out.println(index);
+					selected_hotelList.add(hotelList.get(index));
+				}			
+			}
+		});
 		btnRezervasyonYap.setFont(new Font("Verdana", Font.PLAIN, 12));
 		btnRezervasyonYap.setBounds(20, 210, 117, 25);
 		panel.add(btnRezervasyonYap);
 		
 		
 		
-		JList list = new JList(l1);	
-		list.setFont(new Font("Consolas", Font.PLAIN, 12));
-		list.setBounds(281, 98, 587, 338);
-		list.setSelectionMode(DefaultListSelectionModel.SINGLE_SELECTION);
-		panel.add(list);		
+			
+		liste.setFont(new Font("Consolas", Font.PLAIN, 12));
+		liste.setBounds(281, 98, 587, 338);
+		liste.setSelectionMode(DefaultListSelectionModel.SINGLE_SELECTION);
+		panel.add(liste);	
+		
 		
 		JButton btnOylamaYap = new JButton("Oylama Yap");
 		btnOylamaYap.setFont(new Font("Verdana", Font.PLAIN, 12));
 		btnOylamaYap.setBounds(20, 283, 117, 25);
 		panel.add(btnOylamaYap);
+		
+		JScrollPane scrollPane = new JScrollPane();
+		scrollPane.setBounds(889, 461, -638, -355);
+		panel.add(scrollPane);
 	}
 }
