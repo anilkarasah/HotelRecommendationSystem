@@ -6,8 +6,17 @@ import java.util.HashMap;
 import Models.Hotel;
 
 public class DistrictsEnum {
-	public static HashMap<String, ArrayList<String>> cityMap;
-	public static HashMap<String, ArrayList<Hotel>> districtMap;
+	private static ArrayList<String> cityList;
+	private static HashMap<String, ArrayList<String>> cityMap;
+	private static HashMap<String, ArrayList<Hotel>> districtMap;
+	
+	public static void setCityList(ArrayList<String> citiesList) {
+		cityList = citiesList;
+	}
+	
+	public static ArrayList<String> getCityList() {
+		return cityList;
+	}
 	
 	public static void setCityMap(HashMap<String, ArrayList<String>> cityDistrictMap) {
 		cityMap = cityDistrictMap;

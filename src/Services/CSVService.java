@@ -21,19 +21,27 @@ public class CSVService {
         ArrayList<Hotel> hotels = new ArrayList<>();
 
         line = reader.readLine();
+        ArrayList<String> citiesList = new ArrayList<String>();
         HashMap<String, ArrayList<String>> cityMap = new HashMap<String, ArrayList<String>>();
         HashMap<String, ArrayList<Hotel>> districtMap = new HashMap<String, ArrayList<Hotel>>();
 
         int i = 0;
         while ((line = reader.readLine()) != null) {
             Hotel hotel = Hotel.parseCSV(line, i);
+            
+            if (!citiesList.contains(hotel.name)) {
+            	citiesList.add(hotel.name);
+            }
 
             ArrayList<String> districtList = cityMap.get(hotel.province);
             if (districtList != null) {
             	if (!districtList.contains(hotel.district))
             		districtList.add(hotel.district);
             } else {
-            	cityMap.put(hotel.province, new ArrayList<String>());
+            	cityMap.put(hotel.province, new ArrayList<String>() {{
+            		add(hotel.district);
+            	}});
+            	
             }
             
             ArrayList<Hotel> hotelsList = districtMap.get(hotel.district);
@@ -41,13 +49,16 @@ public class CSVService {
             	if (!hotelsList.contains(hotel))
             		hotelsList.add(hotel);
             } else {
-            	districtMap.put(hotel.district, new ArrayList<Hotel>());
+            	districtMap.put(hotel.district, new ArrayList<Hotel>() {{
+            		add(hotel);
+            	}});
             }
 
             hotels.add(hotel);
             i++;
         }
         
+        DistrictsEnum.setCityList(citiesList);
         DistrictsEnum.setCityMap(cityMap);
         DistrictsEnum.setDistrictMap(districtMap);
 

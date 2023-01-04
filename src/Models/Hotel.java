@@ -29,11 +29,9 @@ public class Hotel {
     public String toString() {
         StringBuilder result = new StringBuilder();
 
-        result.append(String.format("%32s ", this.name));
-        result.append(String.format("%.2f ", this.price));
-        result.append(String.format("%.1f", this.avgScore));
-        
-        
+        result.append(String.format("%50s - ", this.name));
+        result.append(String.format("%.2f TL - ", this.price));
+        result.append(String.format("%.1f / 10", this.avgScore));
         /*
         result.append(this.name + '\n');
         result.append("\t" + this.province + '\n');
