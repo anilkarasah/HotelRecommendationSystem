@@ -29,8 +29,8 @@ public class CSVService {
         while ((line = reader.readLine()) != null) {
             Hotel hotel = Hotel.parseCSV(line, i);
             
-            if (!citiesList.contains(hotel.name)) {
-            	citiesList.add(hotel.name);
+            if (!citiesList.contains(hotel.province)) {
+            	citiesList.add(hotel.province);
             }
 
             ArrayList<String> districtList = cityMap.get(hotel.province);

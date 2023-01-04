@@ -25,6 +25,7 @@ import java.awt.event.ActionEvent;
 
 public class MainMenu extends JFrame {
 	
+	static ArrayList<String> cities;
 	static ArrayList<String> districts;
 	static ArrayList<Hotel> hotelList;
 	String arr[] = {"Ankara","Antalya","Bursa","İzmir","Muğla"};
@@ -86,8 +87,8 @@ public class MainMenu extends JFrame {
 		lblEmirhanPaksoy.setBounds(10, 475, 417, 25);
 		panel.add(lblEmirhanPaksoy);
 		
-		String arr[] = {"Ankara","Antalya","Bursa","İstanbul","İzmir","Muğla"};
-		JComboBox comboBox = new JComboBox(arr);
+		cities = DistrictsEnum.getCityList();
+		JComboBox comboBox = new JComboBox(cities.toArray());
 		comboBox.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				selected_city = comboBox.getSelectedItem().toString();
