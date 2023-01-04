@@ -8,6 +8,7 @@ import javax.swing.border.EmptyBorder;
 
 import Enums.DistrictsEnum;
 import Models.Hotel;
+import Models.HotelReview;
 import Services.CSVService;
 
 import javax.swing.JLabel;
@@ -150,14 +151,16 @@ public class MainMenu extends JFrame {
 		});
 		btnNewButton_1.setBounds(20, 174, 117, 25);
 		panel.add(btnNewButton_1);
-		
-		JButton btnRezervasyonYap = new JButton("Rezervasyon");
+
+		HotelReview review = new HotelReview(null, 5);
+		JButton btnRezervasyonYap = new JButton("Değerlendir");
 		btnRezervasyonYap.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				int index = liste.getSelectedIndex();
 				if(index != -1) {
 					System.out.println(index);
-					selected_hotelList.add(hotelList.get(index));
+					OylamaYap oy = new OylamaYap(hotelList.get(index), review);
+					oy.setVisible(true);
 				}			
 			}
 		});
@@ -168,7 +171,7 @@ public class MainMenu extends JFrame {
 		liste.setFont(new Font("Consolas", Font.PLAIN, 12));
 		liste.setBounds(281, 98, 587, 338);
 		liste.setSelectionMode(DefaultListSelectionModel.SINGLE_SELECTION);
-		panel.add(liste);
+		
 		
 		JButton btnOylamaYap = new JButton("Oylama Yap");
 		btnOylamaYap.setFont(new Font("Verdana", Font.PLAIN, 12));
@@ -176,7 +179,8 @@ public class MainMenu extends JFrame {
 		panel.add(btnOylamaYap);
 		
 		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setBounds(889, 461, -638, -355);
+		scrollPane.setBounds(281, 98, 587, 338);
 		panel.add(scrollPane);
+		scrollPane.setViewportView(liste);
 	}
 }
