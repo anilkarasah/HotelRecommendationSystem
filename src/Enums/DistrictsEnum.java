@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 public class DistrictsEnum {
 	public static HashMap<String, ArrayList<String>> cityMap;
+	public static HashMap<String, ArrayList<Hotel>> districtMap;
 	
 	public static void setDistrictsEnum(HashMap<String, ArrayList<String>> cityDistrictMap) {
 		cityMap = cityDistrictMap;
