@@ -158,6 +158,7 @@ public class MainMenu extends JFrame {
 		
 		
 		JList list = new JList(l1);	
+		list.setFont(new Font("Consolas", Font.PLAIN, 12));
 		list.setBounds(281, 98, 587, 338);
 		list.setSelectionMode(DefaultListSelectionModel.SINGLE_SELECTION);
 		panel.add(list);		
