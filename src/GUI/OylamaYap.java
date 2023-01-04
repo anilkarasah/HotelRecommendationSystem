@@ -46,7 +46,7 @@ public class OylamaYap extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public OylamaYap(Hotel hotel, HotelReview review) {
+	public OylamaYap(Hotel hotel, ArrayList<HotelReview> reviewList) {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 683, 641);
 		contentPane = new JPanel();
@@ -136,10 +136,12 @@ public class OylamaYap extends JFrame {
 		panel.add(lblNewLabel_1_8_1);
 		
 		JButton btnNewButton = new JButton("Değerlendir");
+		HotelReview review = new HotelReview(null,5);
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				review.setHotel(hotel);
 				review.setScore((float)slider.getValue()/10);
+				reviewList.add(review);
 				dispose();
 			}
 		});

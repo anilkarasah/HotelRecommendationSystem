@@ -8,8 +8,11 @@ import javax.swing.border.EmptyBorder;
 
 import Enums.DistrictsEnum;
 import Models.Hotel;
+import Models.HotelRecommendation;
 import Models.HotelReview;
+import Models.User;
 import Services.CSVService;
+import Services.RecommendationService;
 
 import javax.swing.JLabel;
 import java.awt.Font;
@@ -26,11 +29,15 @@ import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
 
 public class MainMenu extends JFrame {
+	ArrayList<HotelReview> review_list = new ArrayList<>();
 	JList<String> liste = new JList<>(l1);
+	static User user;
+	static RecommendationService rs;
 	static ArrayList<String> cities;
 	static ArrayList<String> districts;
 	static ArrayList<Hotel> hotelList;
 	static ArrayList<Hotel> selected_hotelList = new ArrayList<>();
+	static ArrayList<HotelRecommendation> recommendations;
 	ArrayList<String> arr1 = new ArrayList<>();
 	DefaultComboBoxModel<String> cb2 = new DefaultComboBoxModel<>();
 	static int otel_counter = 0;
@@ -126,6 +133,18 @@ public class MainMenu extends JFrame {
 		JButton btnNewButton = new JButton("Otel Öner");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				user = new User(review_list);
+				rs = new RecommendationService(user, hotelList);
+				recommendations = rs.recommendHotels();
+				l1.removeAllElements();
+				l1.addElement("Önerilen Oteller:");
+				int i=0;
+				selected_hotelList.clear();
+				while(i<15 && recommendations.get(i) != null) {
+					l1.addElement(recommendations.get(i).getHotel().toString());
+					selected_hotelList.add(recommendations.get(i).getHotel());
+					i++;
+				}
 				
 			}
 		});
@@ -138,12 +157,12 @@ public class MainMenu extends JFrame {
 			public void actionPerformed(ActionEvent e) {				
 				l1.removeAllElements();
 				selected_district = comboBox_1.getSelectedItem().toString();
-				hotelList = DistrictsEnum.getHotelsOfDistrict(selected_district);
-				if(hotelList == null) {
+				selected_hotelList = DistrictsEnum.getHotelsOfDistrict(selected_district);
+				if(selected_hotelList == null) {
 					//pop-up koy OTEL BULUNAMADI
 				}
 				else {
-					for(Hotel h : hotelList) {
+					for(Hotel h : selected_hotelList) {
 						l1.addElement(h.toString());
 					}
 				}
@@ -160,7 +179,7 @@ public class MainMenu extends JFrame {
 				int index = liste.getSelectedIndex();
 				if(index != -1) {
 					System.out.println(index);
-					OylamaYap oy = new OylamaYap(hotelList.get(index), review);
+					OylamaYap oy = new OylamaYap(selected_hotelList.get(index), review_list);
 					oy.setVisible(true);
 				}			
 			}
@@ -172,12 +191,6 @@ public class MainMenu extends JFrame {
 		liste.setFont(new Font("Consolas", Font.PLAIN, 12));
 		liste.setBounds(281, 98, 587, 338);
 		liste.setSelectionMode(DefaultListSelectionModel.SINGLE_SELECTION);
-		
-		
-		JButton btnOylamaYap = new JButton("Oylama Yap");
-		btnOylamaYap.setFont(new Font("Verdana", Font.PLAIN, 12));
-		btnOylamaYap.setBounds(20, 283, 117, 25);
-		panel.add(btnOylamaYap);
 		
 		JScrollPane scrollPane = new JScrollPane();
 		scrollPane.setBounds(281, 98, 587, 338);
