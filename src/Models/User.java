@@ -56,7 +56,7 @@ public class User {
                 //                   10 - (hotelAvgScore - userScore)
                 // prevFactorValue = -------------------------------- + prevFactorValue
                 //                                  10
-                if (hotel.facilities[i]) this.factors[i] += (10 - hotel.avgScore + userScore) / 10;
+                if (hotel.facilities[i]) this.factors[i] += userScore / 10;
             }
         }
     }

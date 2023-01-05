@@ -88,56 +88,8 @@ public class RecommendationService {
     }
 
     public ArrayList<HotelRecommendation> recommendHotels() {
-/*        ArrayList<HotelRecommendation> suggestions = this.calculate();
-
-        for (HotelRecommendation suggestion : suggestions) {
-            System.out.printf("%3d > %50s - %.2f%n",
-                    suggestion.getHotel().id,
-                    suggestion.getHotel().name,
-                    suggestion.getCalculatedScore());
-        }	//	*/
-
         return this.calculate();
     }
-
-/*    public static HotelReview getOneReviewFromUser(ArrayList<Hotel> hotelList) {
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Hangi otelde kaldınız?");
-        System.out.println("(ID'sini yazınız. Geçerli bir ID girilmezse işlem sonlanacaktır.)");
-        System.out.print("> ");
-        int hotelId = scanner.nextInt();
-
-        if (hotelId < 0 || hotelId >= hotelList.size())
-            return null;
-
-        System.out.println(hotelId);
-        Hotel selectedHotel = hotelList.get(hotelId);
-
-        System.out.println(selectedHotel.name + " isimli otel için puanınız: ");
-        float score = scanner.nextFloat();
-        System.out.println(score);
-
-        // !!! this causes an error - WTF 🤯🤯🤯
-        // scanner.close();
-
-        return new HotelReview(selectedHotel, score);
-    }
-
-    public static ArrayList<HotelReview> getReviewsFromUser(ArrayList<Hotel> hotelList) {
-        ArrayList<HotelReview> reviews = new ArrayList<>();
-
-        while (true) {
-            HotelReview hotelReview = getOneReviewFromUser(hotelList);
-
-            if (hotelReview == null)
-                break;
-            else
-                reviews.add(hotelReview);
-        }
-
-        return reviews;
-    }	//	*/
 
     public User getUser() {
         return user;
