@@ -22,6 +22,8 @@ import javax.swing.DefaultListModel;
 import javax.swing.DefaultListSelectionModel;
 import javax.swing.JButton;
 import javax.swing.JList;
+import javax.swing.JOptionPane;
+
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.awt.event.ActionEvent;
@@ -41,8 +43,8 @@ public class MainMenu extends JFrame {
 	ArrayList<String> arr1 = new ArrayList<>();
 	DefaultComboBoxModel<String> cb2 = new DefaultComboBoxModel<>();
 	static int otel_counter = 0;
-	static String selected_city = "";
-	static String selected_district = "";
+	static String selected_city = null;
+	static String selected_district = null;
 	static DefaultListModel<String> l1 = new DefaultListModel<>();
 	private JPanel contentPane;
 	private final JButton btnNewButton_1 = new JButton("Listele");
@@ -118,6 +120,16 @@ public class MainMenu extends JFrame {
 		panel.add(comboBox);
 		System.out.println();
 		JComboBox<String> comboBox_1 = new JComboBox<>(cb2);
+		comboBox_1.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				if(comboBox_1.getSelectedItem() == null) {
+					selected_district = null;
+				}
+				else {
+					selected_district = comboBox_1.getSelectedItem().toString();
+				}				
+			}
+		});
 		comboBox_1.setBounds(130, 119, 100, 25);
 		panel.add(comboBox_1);
 		
@@ -158,17 +170,30 @@ public class MainMenu extends JFrame {
 		btnNewButton_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {				
 				l1.removeAllElements();
-				selected_district = comboBox_1.getSelectedItem().toString();
-				selected_hotelList = DistrictsEnum.getHotelsOfDistrict(selected_district);
-				if(selected_hotelList == null) {
-					//pop-up koy OTEL BULUNAMADI
+				if(selected_city == null) {
+					JOptionPane.showMessageDialog(null, "Şehir seçiniz !!!");
 				}
 				else {
-					for(Hotel h : selected_hotelList) {
-						l1.addElement(h.toString());
+					if(selected_district == null) {
+						JOptionPane.showMessageDialog(null, "Semt seçiniz !!!");
 					}
-				}
-				
+					else {
+						if(selected_district.equals("Tümü")) {
+							selected_hotelList = DistrictsEnum.getHotelsOfCity(selected_city);
+						}
+						else {
+							selected_hotelList = DistrictsEnum.getHotelsOfDistrict(selected_district);
+						}				
+						if(selected_hotelList == null) {
+							JOptionPane.showMessageDialog(null, "Bu konumda otel bulunmamaktadır !!!");
+						}
+						else {
+							for(Hotel h : selected_hotelList) {
+								l1.addElement(h.toString());
+							}
+						}
+					}		
+				}									
 			}
 		});
 		btnNewButton_1.setBounds(20, 174, 117, 25);
