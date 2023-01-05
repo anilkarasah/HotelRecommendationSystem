@@ -104,6 +104,7 @@ public class MainMenu extends JFrame {
 				selected_city = comboBox.getSelectedItem().toString();
 				districts = DistrictsEnum.getDistrictsOfCity(selected_city);
 				cb2.removeAllElements();
+				cb2.addElement("Tümü");
 				for(String i : districts) {
 					cb2.addElement(i);
 				}
@@ -140,6 +141,7 @@ public class MainMenu extends JFrame {
 				l1.addElement("Önerilen Oteller:");
 				int i=0;
 				selected_hotelList.clear();
+				selected_hotelList.add(null);
 				while(i<15 && recommendations.get(i) != null) {
 					l1.addElement(recommendations.get(i).getHotel().toString());
 					selected_hotelList.add(recommendations.get(i).getHotel());
