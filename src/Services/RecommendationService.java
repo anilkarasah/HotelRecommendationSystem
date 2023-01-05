@@ -87,7 +87,20 @@ public class RecommendationService {
         return result;
     }
 
-    public static HotelReview getOneReviewFromUser(ArrayList<Hotel> hotelList) {
+    public ArrayList<HotelRecommendation> recommendHotels() {
+/*        ArrayList<HotelRecommendation> suggestions = this.calculate();
+
+        for (HotelRecommendation suggestion : suggestions) {
+            System.out.printf("%3d > %50s - %.2f%n",
+                    suggestion.getHotel().id,
+                    suggestion.getHotel().name,
+                    suggestion.getCalculatedScore());
+        }	//	*/
+
+        return this.calculate();
+    }
+
+/*    public static HotelReview getOneReviewFromUser(ArrayList<Hotel> hotelList) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Hangi otelde kaldınız?");
@@ -124,20 +137,7 @@ public class RecommendationService {
         }
 
         return reviews;
-    }
-
-    public ArrayList<HotelRecommendation> recommendHotels() {
-        ArrayList<HotelRecommendation> suggestions = this.calculate();
-
-        for (HotelRecommendation suggestion : suggestions) {
-            System.out.printf("%3d > %50s - %.2f%n",
-                    suggestion.getHotel().id,
-                    suggestion.getHotel().name,
-                    suggestion.getCalculatedScore());
-        }
-
-        return suggestions;
-    }
+    }	//	*/
 
     public User getUser() {
         return user;

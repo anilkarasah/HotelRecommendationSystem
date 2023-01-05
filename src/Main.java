@@ -15,6 +15,10 @@ public class Main {
             for (Hotel h : hotelList) {
             	System.out.println(h.name);
             }
+            
+            // 1) User objesi oluştur.
+            // 2) RecommendationService objesi oluştur.
+            // 3) RecommendationService'in recommendHotels() metodunu çağır.
 
 /*            ArrayList<Hotel> hotelsList = DistrictsEnum.getHotelsOfDistrict("Kemer");
             if (hotelsList != null)
