@@ -7,7 +7,6 @@ import Models.User;
 import Models.UserReview;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class RecommendationService {
     private User user;
@@ -29,7 +28,7 @@ public class RecommendationService {
         ArrayList<HotelReview> usersScore = this.user.getHotelReviews();
 
         this.user.calculateFactors();
-        double[] normalizedFactors = normalize(this.user.getFactors(), -0.25, 1.25);
+        double[] normalizedFactors = normalize(this.user.getFactors(), -0.25, 1);
 
         ArrayList<HotelRecommendation> response = new ArrayList<>();
         for (Hotel hotel : this.hotels) {
@@ -52,6 +51,14 @@ public class RecommendationService {
         }
 
         response.sort((o1, o2) -> Float.compare(o2.getCalculatedScore(), o1.getCalculatedScore()));
+        
+        for (HotelRecommendation hr : response) {
+        	if (hr.getHotel().province.equals("İzmir")) {
+            	System.out.println(hr.getHotel().name + " - " + hr.getCalculatedScore());
+        	}
+        }
+        
+        System.out.println("Max: " + response.get(0).getCalculatedScore() + " | Min: " + response.get(response.size() - 1).getCalculatedScore());
         
         float[] factors = new float[response.size()];
         int i = 0;
@@ -81,12 +88,12 @@ public class RecommendationService {
 
         // normalization formula:
         //     x - minValue
-        // --------------------- * max - min
+        // --------------------- * (max - min) + min
         // maxValue - minValue
 
         double distance = (max - min) / (maxValue - minValue);
         for (int i = 0; i < factors.length; i++) {
-            result[i] = (factors[i] - minValue) * distance - min;
+            result[i] = (factors[i] - minValue) * distance + min;
         }
 
         System.out.print("Initial factors: ");
@@ -109,6 +116,7 @@ public class RecommendationService {
     		UserReview ur = this.userReviewsList.get(i);
     		if (userReview.getRecomendedHotelIndex() == ur.getRecomendedHotelIndex()) {
     			ur.setScore(userReview.getScore());
+    			return;
     		}
     	}
     	

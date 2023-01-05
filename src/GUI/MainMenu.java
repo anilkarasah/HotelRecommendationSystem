@@ -11,7 +11,6 @@ import Models.Hotel;
 import Models.HotelRecommendation;
 import Models.HotelReview;
 import Models.User;
-import Models.UserReview;
 import Services.CSVService;
 import Services.RecommendationService;
 
@@ -28,7 +27,6 @@ import javax.swing.JOptionPane;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.awt.event.ActionEvent;
-import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
 
 public class MainMenu extends JFrame {
@@ -73,7 +71,6 @@ public class MainMenu extends JFrame {
 	 * Create the frame.
 	 */
 	public MainMenu() {
-		HotelReview review = new HotelReview(null, 5);
 		try{
 			CSVService csvService = new CSVService("./hotels.csv");
 			hotelList = csvService.ReadAllValues();
@@ -228,7 +225,6 @@ public class MainMenu extends JFrame {
 		panel.add(lblNewLabel_1_1_2);
 		
 		JButton btnRezervasyonYap = new JButton("Değerlendir");
-		ArrayList<UserReview> userReviewsList = new ArrayList<>();
 		btnRezervasyonYap.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				int index = liste.getSelectedIndex();
