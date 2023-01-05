@@ -50,14 +50,15 @@ public class OylamaYap extends JFrame {
 	 */
 	public OylamaYap(Hotel hotel, ArrayList<HotelReview> reviewList,float basarı_oranı,int index,RecommendationService rs,int flag,JLabel label) {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 683, 641);
+		setBounds(100, 100, 683, 478);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
-		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
+		contentPane.setLayout(null);
 		
 		JPanel panel = new JPanel();
-		contentPane.add(panel, BorderLayout.CENTER);
+		panel.setBounds(5, 5, 657, 435);
+		contentPane.add(panel);
 		panel.setLayout(null);
 		
 		JLabel lblNewLabel_1 = new JLabel("Otel Adı:");
@@ -105,7 +106,7 @@ public class OylamaYap extends JFrame {
 		JLabel lblNewLabel_1_7 = new JLabel(facilitiesString);
 		lblNewLabel_1_7.setVerticalAlignment(SwingConstants.TOP);
 		lblNewLabel_1_7.setFont(new Font("Verdana", Font.PLAIN, 18));
-		lblNewLabel_1_7.setBounds(10, 209, 321, 322);
+		lblNewLabel_1_7.setBounds(10, 209, 321, 215);
 		panel.add(lblNewLabel_1_7);
 		
 		JLabel lblNewLabel_1_8 = new JLabel("Skor:");
@@ -128,13 +129,13 @@ public class OylamaYap extends JFrame {
 		slider.setPaintTicks(true);
 		slider.setMinorTickSpacing(10);
 		slider.setMajorTickSpacing(25);
-		slider.setBounds(341, 336, 306, 53);
+		slider.setBounds(341, 228, 306, 53);
 		panel.add(slider);
 		
 		
 		lblNewLabel_1_8_1.setText(String.format("%2.1f", (float)slider.getValue()/10));
 		lblNewLabel_1_8_1.setFont(new Font("Verdana", Font.PLAIN, 18));
-		lblNewLabel_1_8_1.setBounds(479, 293, 73, 32);
+		lblNewLabel_1_8_1.setBounds(479, 204, 73, 32);
 		panel.add(lblNewLabel_1_8_1);
 		
 		JButton btnNewButton = new JButton("Değerlendir");
@@ -153,7 +154,7 @@ public class OylamaYap extends JFrame {
 				dispose();
 			}
 		});
-		btnNewButton.setBounds(453, 400, 99, 31);
+		btnNewButton.setBounds(341, 292, 203, 31);
 		panel.add(btnNewButton);
 		
 		JButton btnNewButton_1 = new JButton("Geri Dön");
@@ -163,7 +164,7 @@ public class OylamaYap extends JFrame {
 				dispose();
 			}
 		});
-		btnNewButton_1.setBounds(453, 442, 99, 32);
+		btnNewButton_1.setBounds(554, 292, 93, 32);
 		panel.add(btnNewButton_1);
 	}
 	
