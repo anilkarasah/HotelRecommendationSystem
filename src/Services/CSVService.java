@@ -15,6 +15,7 @@ public class CSVService {
         this.filePath = filePath;
     }
 
+    // CSV dosyasından, istenilen formatta otel verilerini okur
     public ArrayList<Hotel> ReadAllValues() throws FileNotFoundException, IOException {
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
 

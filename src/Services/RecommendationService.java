@@ -24,9 +24,11 @@ public class RecommendationService {
         this.meanSquaredError = 0;
     }
 
+    // kullanıcının eskiden kaldığı oteller için yaptığı değerlendirmelere göre yeni oteller önerir
     public void recommendHotels() {
         ArrayList<HotelReview> usersScore = this.user.getHotelReviews();
 
+        // kullanıcının, otel olanaklarına ne kadar önem verdiğini hesaplar
         this.user.calculateFactors();
         double[] normalizedFactors = normalize(this.user.getFactors(), -0.25, 1);
 
@@ -50,15 +52,8 @@ public class RecommendationService {
             }
         }
 
+        // skorları hesaplanan otelleri skorları azalan sırada sıralar
         response.sort((o1, o2) -> Float.compare(o2.getCalculatedScore(), o1.getCalculatedScore()));
-        
-        for (HotelRecommendation hr : response) {
-        	if (hr.getHotel().province.equals("İzmir")) {
-            	System.out.println(hr.getHotel().name + " - " + hr.getCalculatedScore());
-        	}
-        }
-        
-        System.out.println("Max: " + response.get(0).getCalculatedScore() + " | Min: " + response.get(response.size() - 1).getCalculatedScore());
         
         float[] factors = new float[response.size()];
         int i = 0;
@@ -71,7 +66,7 @@ public class RecommendationService {
         this.recommendedHotels = response;
     }
 
-    // returns a new factors array with values that ranges between -1..1
+    // min ve max değerleri arasında değişen bir normalize işlemi yapar
     public static double[] normalize(float[] factors, double min, double max) {
         double[] result = new double[factors.length];
         float minValue = 100, maxValue = -100;
@@ -86,7 +81,7 @@ public class RecommendationService {
             }
         }
 
-        // normalization formula:
+        // normalizasyon formülü:
         //     x - minValue
         // --------------------- * (max - min) + min
         // maxValue - minValue
@@ -96,21 +91,11 @@ public class RecommendationService {
             result[i] = (factors[i] - minValue) * distance + min;
         }
 
-        System.out.print("Initial factors: ");
-        for (float x : factors) {
-            System.out.printf("%.2f ", x);
-        }
-        System.out.println();
-
-        System.out.print("Normalized factors: ");
-        for (double x : result) {
-            System.out.printf("%.2f ", x);
-        }
-        System.out.println();
-
         return result;
     }
     
+    // kullanıcının değerlendirdiği oteller listesine yenisini ekler,
+    // önceden değerlendirdiği bir otel varsa onun skorunu günceller
     public void addUserReview(UserReview userReview) {
     	for (int i = 0; i < this.userReviewsList.size(); i++) {
     		UserReview ur = this.userReviewsList.get(i);
@@ -123,10 +108,11 @@ public class RecommendationService {
     	this.userReviewsList.add(userReview);
     }
     
+    // doğruluk oranı için mean squared error değerini hesaplar
     public void calculateMeanSquaredError() {
     	float sum = 0;
     	for (int i = 0; i < this.userReviewsList.size(); i++) {
-    		float difference = (float) (this.userReviewsList.get(i).getScore() - this.normalizedScores[i]); 
+    		double difference = ((double)this.userReviewsList.get(i).getScore() - this.normalizedScores[i]);
     		sum += difference * difference;
     	}
     	
