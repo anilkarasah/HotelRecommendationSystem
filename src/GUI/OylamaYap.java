@@ -137,12 +137,16 @@ public class OylamaYap extends JFrame {
 		
 		JButton btnNewButton = new JButton("Değerlendir");
 		HotelReview review = new HotelReview(null,5);
+		//DEĞERLENDİR BUTONUNA TIKLANDIĞINDA GERÇEKLEŞTİRİLEN İŞLEMLER
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				//SLİDERDAN OKUNAN DEĞERLE BİRLİKTE OTEL OBJESİ BİR LİSTEYE ATILIR.
 				review.setHotel(hotel);
 				review.setScore((float)slider.getValue()/10);		
 				reviewList.add(review);
+				//EĞER DEĞERLENDİRME ÖNERİLEN OTELLERDEN YAPILDIYSA
 				if(flag == 1) {
+					//BAŞARI ORANI HESAPLANIR VE LABELA YAZILIR.
 					rs.addUserReview(new UserReview(index - 1, review.getScore()));
 					rs.calculateMeanSquaredError();
 					label.setText(String.format("%.2f", 100-rs.getMeanSquaredError()));
@@ -155,9 +159,10 @@ public class OylamaYap extends JFrame {
 		panel.add(btnNewButton);
 		
 		JButton btnNewButton_1 = new JButton("Geri Dön");
+		//GERİ DÖN BUTONUNA TIKLANDIĞINDA YAPILAN İŞLEMLER
 		btnNewButton_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-
+				//BULUNDUĞUMUZ SAYFA KAPATILIR.
 				dispose();
 			}
 		});

@@ -101,7 +101,8 @@ public class MainMenu extends JFrame {
 		panel.add(lblEmirhanPaksoy);
 		
 		cities = DistrictsEnum.getCityList();
-		JComboBox comboBox = new JComboBox(cities.toArray());
+		JComboBox comboBox = new JComboBox(cities.toArray());	
+		//ŞEHİR KUTUCUĞU SEÇİLDİĞİNDEKİ İŞLEMLER
 		comboBox.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				selected_city = comboBox.getSelectedItem().toString();
@@ -120,7 +121,9 @@ public class MainMenu extends JFrame {
 		comboBox.setBounds(20, 119, 100, 25);
 		panel.add(comboBox);
 		System.out.println();
+		
 		JComboBox<String> comboBox_1 = new JComboBox<>(cb2);
+		//SEMT KUTUCUĞU SEÇİLDİĞİNDEKİ İŞLEMLER
 		comboBox_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				if(comboBox_1.getSelectedItem() == null) {
@@ -145,9 +148,9 @@ public class MainMenu extends JFrame {
 		panel.add(lblNewLabel_1_1);
 		
 		JButton btnNewButton = new JButton("Otel Öner");
+		//OTEL ÖNER BUTONUNA TIKLANDIĞINDA YAPILAN İŞLEMLER
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				System.out.println(review_list.isEmpty());
 				if(review_list.isEmpty()) {
 					JOptionPane.showMessageDialog(null, "Daha önce bir otele gitmemişsiniz !!!");
 				}
@@ -170,6 +173,7 @@ public class MainMenu extends JFrame {
 					int j=0;
 					selected_hotelList.clear();
 					selected_hotelList.add(null);
+					//LİSTEYE 15 TANE ÖNERİLEN OTEL EKLENİR.
 					while(j<15 && recommendations.get(i) != null) {
 						if(recommendations.get(i).getHotel().province.equals(comboBox.getSelectedItem())) {
 							l1.addElement(recommendations.get(i).getHotel().toString());
@@ -186,6 +190,7 @@ public class MainMenu extends JFrame {
 		panel.add(btnNewButton);
 		
 		btnNewButton_1.setFont(new Font("Verdana", Font.PLAIN, 12));
+		//LİSTELE BUTONUNA TIKLANDIĞINDA GERÇEKLEŞTİRİLEN İŞLEMLER
 		btnNewButton_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {				
 				l1.removeAllElements();
@@ -199,15 +204,18 @@ public class MainMenu extends JFrame {
 					else {
 						oneri_flag = 0;
 						if(selected_district.equals("Tümü")) {
+							//BELİRTİLEN ŞEHİRDEKİ BÜTÜN OTELLERİ ÇEKME
 							selected_hotelList = DistrictsEnum.getHotelsOfCity(selected_city);
 						}
 						else {
+							//BELİRTİLEN SEMTTEKİ OTELLERİ ÇEKME
 							selected_hotelList = DistrictsEnum.getHotelsOfDistrict(selected_district);
 						}				
 						if(selected_hotelList == null) {
 							JOptionPane.showMessageDialog(null, "Bu konumda otel bulunmamaktadır !!!");
 						}
 						else {
+							//ÇEKİLEN OTELLERİ LİSTELEME
 							for(Hotel h : selected_hotelList) {
 								l1.addElement(h.toString());
 							}
@@ -225,11 +233,12 @@ public class MainMenu extends JFrame {
 		panel.add(lblNewLabel_1_1_2);
 		
 		JButton btnRezervasyonYap = new JButton("Değerlendir");
+		//DEĞERLENDİR BUTONUNA TIKLANDIĞINDA YAPILAN İŞLEMLER
 		btnRezervasyonYap.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				int index = liste.getSelectedIndex();
 				if(index != -1) {
-					System.out.println(index);
+					//OYLAMANIN YAPILDIĞI SAYFA AÇILIR
 					OylamaYap oy = new OylamaYap(selected_hotelList.get(index), review_list,basarı_oranı,index,rs,oneri_flag,lblNewLabel_1_1_2);
 					oy.setVisible(true);
 					
