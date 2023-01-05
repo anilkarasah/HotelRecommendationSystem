@@ -11,6 +11,7 @@ import Models.Hotel;
 import Models.HotelRecommendation;
 import Models.HotelReview;
 import Models.User;
+import Models.UserReview;
 import Services.CSVService;
 import Services.RecommendationService;
 
@@ -34,6 +35,8 @@ public class MainMenu extends JFrame {
 	ArrayList<HotelReview> review_list = new ArrayList<>();
 	JList<String> liste = new JList<>(l1);
 	static User user;
+	static int oneri_flag = 0;
+	static float basarı_oranı;
 	static RecommendationService rs;
 	static ArrayList<String> cities;
 	static ArrayList<String> districts;
@@ -151,9 +154,11 @@ public class MainMenu extends JFrame {
 					JOptionPane.showMessageDialog(null, "Daha önce bir otele gitmemişsiniz !!!");
 				}
 				else {
+					oneri_flag = 1;
 					user = new User(review_list);
 					rs = new RecommendationService(user, hotelList);
-					recommendations = rs.recommendHotels();
+					rs.recommendHotels();
+					recommendations = rs.getRecommendedHotels();
 					l1.removeAllElements();
 					l1.addElement("Önerilen Oteller:");
 					int i=0;
@@ -183,6 +188,7 @@ public class MainMenu extends JFrame {
 						JOptionPane.showMessageDialog(null, "Semt seçiniz !!!");
 					}
 					else {
+						oneri_flag = 0;
 						if(selected_district.equals("Tümü")) {
 							selected_hotelList = DistrictsEnum.getHotelsOfCity(selected_city);
 						}
@@ -206,13 +212,16 @@ public class MainMenu extends JFrame {
 
 		
 		JButton btnRezervasyonYap = new JButton("Değerlendir");
+		ArrayList<UserReview> userReviewsList = new ArrayList<>();
 		btnRezervasyonYap.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				int index = liste.getSelectedIndex();
 				if(index != -1) {
 					System.out.println(index);
-					OylamaYap oy = new OylamaYap(selected_hotelList.get(index), review_list);
+					OylamaYap oy = new OylamaYap(selected_hotelList.get(index), review_list,basarı_oranı,index,rs,oneri_flag);
 					oy.setVisible(true);
+					
+					
 				}			
 			}
 		});
@@ -228,5 +237,18 @@ public class MainMenu extends JFrame {
 		scrollPane.setBounds(281, 98, 587, 338);
 		panel.add(scrollPane);
 		scrollPane.setViewportView(liste);
+		
+		JLabel lblNewLabel_1_1_1 = new JLabel("Başarı Oranı :");
+		lblNewLabel_1_1_1.setFont(new Font("Verdana", Font.PLAIN, 18));
+		lblNewLabel_1_1_1.setBounds(525, 475, 141, 25);
+		panel.add(lblNewLabel_1_1_1);
+		
+		JLabel lblNewLabel_1_1_2 = new JLabel();
+		lblNewLabel_1_1_2.setFont(new Font("Verdana", Font.PLAIN, 18));
+		lblNewLabel_1_1_2.setBounds(664, 475, 84, 25);
+		panel.add(lblNewLabel_1_1_2);
+		if (rs != null) {
+			lblNewLabel_1_1_2.setText(String.format("%.2lf", rs.getMeanSquaredError()));
+		}
 	}
 }

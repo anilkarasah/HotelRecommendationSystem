@@ -17,6 +17,8 @@ import javax.swing.event.ChangeListener;
 import Enums.FacilitiesEnum;
 import Models.Hotel;
 import Models.HotelReview;
+import Models.UserReview;
+import Services.RecommendationService;
 
 import javax.swing.event.ChangeEvent;
 import javax.swing.JButton;
@@ -46,7 +48,7 @@ public class OylamaYap extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public OylamaYap(Hotel hotel, ArrayList<HotelReview> reviewList) {
+	public OylamaYap(Hotel hotel, ArrayList<HotelReview> reviewList,float basarı_oranı,int index,RecommendationService rs,int flag) {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 683, 641);
 		contentPane = new JPanel();
@@ -140,8 +142,14 @@ public class OylamaYap extends JFrame {
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				review.setHotel(hotel);
-				review.setScore((float)slider.getValue()/10);
+				review.setScore((float)slider.getValue()/10);		
 				reviewList.add(review);
+				if(flag == 1) {
+					rs.addUserReview(new UserReview(index - 1, review.getScore()));
+					rs.calculateMeanSquaredError();
+					System.out.println(rs.getMeanSquaredError());
+				}
+						
 				dispose();
 			}
 		});
