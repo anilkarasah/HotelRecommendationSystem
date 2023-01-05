@@ -104,8 +104,8 @@ public class RecommendationService {
         return result;
     }
     
-    public void addUserReviews(ArrayList<UserReview> userReviewList) {
-    	this.userReviewsList.addAll(userReviewList);
+    public void addUserReview(UserReview userReview) {
+    	this.userReviewsList.add(userReview);
     }
     
     public void calculateMeanSquaredError() {
