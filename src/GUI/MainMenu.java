@@ -32,6 +32,7 @@ import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
 
 public class MainMenu extends JFrame {
+	boolean rsflag = true;
 	ArrayList<HotelReview> review_list = new ArrayList<>();
 	JList<String> liste = new JList<>(l1);
 	static User user;
@@ -156,7 +157,14 @@ public class MainMenu extends JFrame {
 				else {
 					oneri_flag = 1;
 					user = new User(review_list);
-					rs = new RecommendationService(user, hotelList);
+					if(rsflag) {
+						rs = new RecommendationService(user, hotelList);
+						rsflag = false;
+					}
+					else {
+						rs.setUser(user);
+					}
+					
 					rs.recommendHotels();
 					recommendations = rs.getRecommendedHotels();
 					l1.removeAllElements();
@@ -210,6 +218,10 @@ public class MainMenu extends JFrame {
 		btnNewButton_1.setBounds(20, 174, 117, 25);
 		panel.add(btnNewButton_1);
 
+		JLabel lblNewLabel_1_1_2 = new JLabel();
+		lblNewLabel_1_1_2.setFont(new Font("Verdana", Font.PLAIN, 18));
+		lblNewLabel_1_1_2.setBounds(664, 475, 84, 25);
+		panel.add(lblNewLabel_1_1_2);
 		
 		JButton btnRezervasyonYap = new JButton("Değerlendir");
 		ArrayList<UserReview> userReviewsList = new ArrayList<>();
@@ -218,7 +230,7 @@ public class MainMenu extends JFrame {
 				int index = liste.getSelectedIndex();
 				if(index != -1) {
 					System.out.println(index);
-					OylamaYap oy = new OylamaYap(selected_hotelList.get(index), review_list,basarı_oranı,index,rs,oneri_flag);
+					OylamaYap oy = new OylamaYap(selected_hotelList.get(index), review_list,basarı_oranı,index,rs,oneri_flag,lblNewLabel_1_1_2);
 					oy.setVisible(true);
 					
 					
@@ -243,12 +255,7 @@ public class MainMenu extends JFrame {
 		lblNewLabel_1_1_1.setBounds(525, 475, 141, 25);
 		panel.add(lblNewLabel_1_1_1);
 		
-		JLabel lblNewLabel_1_1_2 = new JLabel();
-		lblNewLabel_1_1_2.setFont(new Font("Verdana", Font.PLAIN, 18));
-		lblNewLabel_1_1_2.setBounds(664, 475, 84, 25);
-		panel.add(lblNewLabel_1_1_2);
-		if (rs != null) {
-			lblNewLabel_1_1_2.setText(String.format("%.2lf", rs.getMeanSquaredError()));
-		}
+		
+		
 	}
 }
