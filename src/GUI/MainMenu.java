@@ -146,20 +146,25 @@ public class MainMenu extends JFrame {
 		JButton btnNewButton = new JButton("Otel Öner");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				user = new User(review_list);
-				rs = new RecommendationService(user, hotelList);
-				recommendations = rs.recommendHotels();
-				l1.removeAllElements();
-				l1.addElement("Önerilen Oteller:");
-				int i=0;
-				selected_hotelList.clear();
-				selected_hotelList.add(null);
-				while(i<15 && recommendations.get(i) != null) {
-					l1.addElement(recommendations.get(i).getHotel().toString());
-					selected_hotelList.add(recommendations.get(i).getHotel());
-					i++;
+				System.out.println(review_list.isEmpty());
+				if(review_list.isEmpty()) {
+					JOptionPane.showMessageDialog(null, "Daha önce bir otele gitmemişsiniz !!!");
 				}
-				
+				else {
+					user = new User(review_list);
+					rs = new RecommendationService(user, hotelList);
+					recommendations = rs.recommendHotels();
+					l1.removeAllElements();
+					l1.addElement("Önerilen Oteller:");
+					int i=0;
+					selected_hotelList.clear();
+					selected_hotelList.add(null);
+					while(i<15 && recommendations.get(i) != null) {
+						l1.addElement(recommendations.get(i).getHotel().toString());
+						selected_hotelList.add(recommendations.get(i).getHotel());
+						i++;
+					}
+				}									
 			}
 		});
 		btnNewButton.setFont(new Font("Verdana", Font.PLAIN, 12));
