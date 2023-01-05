@@ -59,4 +59,14 @@ public class DistrictsEnum {
 	public static ArrayList<Hotel> getHotelsOfDistrict(String districtName) {
 		return districtMap.get(districtName);
 	}
+	
+	public static ArrayList<Hotel> getHotelsOfCity(String cityName) {
+		ArrayList<Hotel> allHotelsInCity = new ArrayList<>();
+		
+		for (String district : getDistrictsOfCity(cityName)) {
+			allHotelsInCity.addAll(getHotelsOfDistrict(district));
+		}
+		
+		return allHotelsInCity;
+	}
 }
