@@ -25,6 +25,7 @@ public class Hotel {
         this.facilities = facilities;
     }
 
+    // her bir otelin, CSV dosyasından neye göre okunacağını ayarlar
     public static Hotel parseCSV(String line, int index) {
         // split current line by commas
         String[] values = line.split(",");
@@ -56,24 +57,6 @@ public class Hotel {
         result.append(String.format("%6.2f TL - ", this.price));
         result.append(String.format("%2.1f / 10", this.avgScore));
 
-        return result.toString();
-    }
-    
-    public String toDetailedString() {
-        StringBuilder result = new StringBuilder();
-        
-        result.append(this.name + '\n');
-        result.append("\t" + this.province + '\n');
-        result.append("\t" + this.district + '\n');
-        result.append("\t" + this.address + '\n');
-        result.append("\t" + String.format("Average score: %.1f", this.avgScore) + '\n');
-        result.append("\t" + String.format("Price: %.1fTL", this.price) + '\n');
-
-        for (int i = 0; i < this.facilities.length; i++) {
-            if (this.facilities[i])
-                result.append("\t> " + FacilitiesEnum.getFacilityName(i));
-        }
-        
         return result.toString();
     }
 }

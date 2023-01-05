@@ -46,13 +46,14 @@ public class User {
         return true;
     }
 
+    // kullanıcının ilgi alanına uygun otel olanaklarının değerlerini hesaplar
     public void calculateFactors() {
         for (HotelReview review : this.hotelReviews) {
             Hotel hotel = review.getHotel();
             float userScore = review.getScore();
 
             for (int i = 0; i < hotel.facilities.length; i++) {
-                // factor calculation formula:
+                // faktör hesaplama formülü:
                 //                   10 - (hotelAvgScore - userScore)
                 // prevFactorValue = -------------------------------- + prevFactorValue
                 //                                  10

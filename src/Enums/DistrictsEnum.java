@@ -26,6 +26,7 @@ public class DistrictsEnum {
 		return cityMap.put(cityName, null);
 	}
 	
+	// şehre yeni semtler ekler
 	public static boolean addDistrictsToCity(String cityName, ArrayList<String> districtList) {
 		ArrayList<String> currentDistrictList = cityMap.get(cityName);
 		if (currentDistrictList == null) {
@@ -47,6 +48,7 @@ public class DistrictsEnum {
 		return districtMap.put(districtName, null);
 	}
 	
+	// semte yeni oteller ekler
 	public static boolean addHotelsToDistrict(String districtName, ArrayList<Hotel> hotelsList) {
 		ArrayList<Hotel> currentHotelsList = districtMap.get(districtName);
 		if (currentHotelsList == null) {

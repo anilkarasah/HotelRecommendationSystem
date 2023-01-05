@@ -28,6 +28,7 @@ public class FacilitiesEnum {
         return List[index];
     }
     
+    // otelin sağladığı olanakları, okunabilir bir String listesi olarak döndürür
     public static ArrayList<String> getFacilitiesList(boolean[] facilityFlags) {
     	ArrayList<String> result = new ArrayList<>();
     	

@@ -11,6 +11,7 @@ public class HotelReview {
         this.score = scoreConstraint(score);
     }
 
+    // verilen puanın 0 ve fMaxScore değerinin arasında olmasını sağlar
     public static float scoreConstraint(float score) {
         float absScore = score < 0 ? -score : score;
         return absScore >= fMaxScore ? fMaxScore : absScore;

@@ -26,25 +26,6 @@ public class OylamaYap extends JFrame {
 
 	private JPanel contentPane;
 
-	/**
-	 * Launch the application.
-	 */
-/*	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					OylamaYap frame = new OylamaYap();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}*/
-
-	/**
-	 * Create the frame.
-	 */
 	public OylamaYap(Hotel hotel, ArrayList<HotelReview> reviewList,float basarı_oranı,int index,RecommendationService rs,int flag,JLabel label) {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 683, 478);
@@ -145,7 +126,7 @@ public class OylamaYap extends JFrame {
 				if(flag == 1) {
 					rs.addUserReview(new UserReview(index - 1, review.getScore()));
 					rs.calculateMeanSquaredError();
-					label.setText(String.format("%.2f", 100-rs.getMeanSquaredError()));
+					label.setText(String.format("%.2f", 100 - rs.getMeanSquaredError()));
 				}
 						
 				dispose();
