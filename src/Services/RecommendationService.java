@@ -105,6 +105,13 @@ public class RecommendationService {
     }
     
     public void addUserReview(UserReview userReview) {
+    	for (UserReview ur : this.userReviewsList) {
+    		if (ur == userReview) {
+    			ur.setScore(userReview.getScore());
+    			return;
+    		}
+    	}
+    	
     	this.userReviewsList.add(userReview);
     }
     

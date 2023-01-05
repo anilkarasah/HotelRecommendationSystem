@@ -11,4 +11,5 @@ public class UserReview {
 	
 	public int getRecomendedHotelIndex() { return this.recomendedHotelIndex; }
 	public float getScore() { return this.score; }
+	public void setScore(float score) { this.score = score; }
 }
