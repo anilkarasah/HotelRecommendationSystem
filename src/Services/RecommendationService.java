@@ -105,8 +105,8 @@ public class RecommendationService {
     }
     
     public void addUserReview(UserReview userReview) {
-    	for (int i = 0; i < this.hotels.size(); i++) {
-    		UserReview ur = this.recommendedHotels.get(i);
+    	for (int i = 0; i < this.userReviewsList.size(); i++) {
+    		UserReview ur = this.userReviewsList.get(i);
     		if (userReview.getRecomendedHotelIndex() == ur.getRecomendedHotelIndex()) {
     			ur.setScore(userReview.getScore());
     		}
