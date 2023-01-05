@@ -14,17 +14,15 @@ public class RecommendationService {
     private ArrayList<Hotel> hotels;
     private ArrayList<HotelRecommendation> recommendedHotels;
     private double[] normalizedScores;
-    private float[] hotelUserScoreDifferences;
+    private ArrayList<UserReview> userReviewsList;
     private double meanSquaredError;
-    private int numberOfReviews;
 
     public RecommendationService(User user, ArrayList<Hotel> hotels) {
         this.user = user;
         this.hotels = hotels;
         this.normalizedScores = new double[hotels.size()];
-        this.hotelUserScoreDifferences = new float[hotels.size()];
+        this.userReviewsList = new ArrayList<>();
         this.meanSquaredError = 0;
-        this.numberOfReviews = 0;
     }
 
     public void recommendHotels() {
@@ -106,20 +104,18 @@ public class RecommendationService {
         return result;
     }
     
-    public void calculateMeanSquaredError(ArrayList<UserReview> userReviewsList) {
-    	this.numberOfReviews += userReviewsList.size();
-    	
-    	for (int i = 0; i < userReviewsList.size(); i++) {
-    		this.hotelUserScoreDifferences[this.numberOfReviews + i] = userReviewsList.get(i).getScore();
-    	}
-
+    public void addUserReviews(ArrayList<UserReview> userReviewList) {
+    	this.userReviewsList.addAll(userReviewList);
+    }
+    
+    public void calculateMeanSquaredError() {
     	float sum = 0;
-    	for (int i = 0; i < this.hotelUserScoreDifferences.length; i++) {
-    		float difference = this.hotelUserScoreDifferences[i]; 
+    	for (int i = 0; i < this.userReviewsList.size(); i++) {
+    		float difference = (float) (this.userReviewsList.get(i).getScore() - this.normalizedScores[i]); 
     		sum += difference * difference;
     	}
     	
-    	this.meanSquaredError = sum / this.numberOfReviews;
+    	this.meanSquaredError = sum / this.userReviewsList.size();
     }
 
     public User getUser() {
